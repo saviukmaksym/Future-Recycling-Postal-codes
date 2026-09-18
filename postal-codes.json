@@ -1,3015 +1,5548 @@
 {
-  "updated": "2026-09-18",
-  "region": "Västra Götalands län",
-  "count_unique_codes": 481,
-  "codes": [
-    "00005",
-    "40003",
-    "40006",
-    "40009",
-    "40012",
-    "40015",
-    "40018",
-    "40021",
-    "40024",
-    "40103",
-    "40106",
-    "40109",
-    "40112",
-    "40115",
-    "40118",
-    "40121",
-    "40124",
-    "40203",
-    "40206",
-    "40209",
-    "40212",
-    "40215",
-    "40218",
-    "40221",
-    "40224",
-    "43003",
-    "43006",
-    "43009",
-    "43012",
-    "43015",
-    "43018",
-    "43021",
-    "43024",
-    "43103",
-    "43106",
-    "43109",
-    "43112",
-    "43115",
-    "43118",
-    "43121",
-    "43124",
-    "43303",
-    "43306",
-    "43309",
-    "43312",
-    "43315",
-    "43318",
-    "43321",
-    "43324",
-    "43503",
-    "43506",
-    "43509",
-    "43512",
-    "43515",
-    "43518",
-    "43521",
-    "43524",
-    "43603",
-    "43606",
-    "43609",
-    "43612",
-    "43615",
-    "43618",
-    "43621",
-    "43624",
-    "43703",
-    "43706",
-    "43709",
-    "43712",
-    "43715",
-    "43718",
-    "43721",
-    "43724",
-    "44103",
-    "44106",
-    "44109",
-    "44112",
-    "44115",
-    "44118",
-    "44121",
-    "44124",
-    "44203",
-    "44206",
-    "44209",
-    "44212",
-    "44215",
-    "44218",
-    "44221",
-    "44224",
-    "44303",
-    "44306",
-    "44309",
-    "44312",
-    "44315",
-    "44318",
-    "44321",
-    "44324",
-    "44403",
-    "44406",
-    "44409",
-    "44412",
-    "44415",
-    "44418",
-    "44421",
-    "44424",
-    "44503",
-    "44506",
-    "44509",
-    "44512",
-    "44515",
-    "44518",
-    "44521",
-    "44524",
-    "44603",
-    "44606",
-    "44609",
-    "44612",
-    "44615",
-    "44618",
-    "44621",
-    "44624",
-    "44703",
-    "44706",
-    "44709",
-    "44712",
-    "44715",
-    "44718",
-    "44721",
-    "44724",
-    "44803",
-    "44806",
-    "44809",
-    "44812",
-    "44815",
-    "44818",
-    "44821",
-    "44824",
-    "45103",
-    "45106",
-    "45109",
-    "45112",
-    "45115",
-    "45118",
-    "45121",
-    "45124",
-    "45203",
-    "45206",
-    "45209",
-    "45212",
-    "45215",
-    "45218",
-    "45221",
-    "45224",
-    "45303",
-    "45306",
-    "45309",
-    "45312",
-    "45315",
-    "45318",
-    "45321",
-    "45324",
-    "45503",
-    "45506",
-    "45509",
-    "45512",
-    "45515",
-    "45518",
-    "45521",
-    "45524",
-    "45603",
-    "45606",
-    "45609",
-    "45612",
-    "45615",
-    "45618",
-    "45621",
-    "45624",
-    "45703",
-    "45706",
-    "45709",
-    "45712",
-    "45715",
-    "45718",
-    "45721",
-    "45724",
-    "45803",
-    "45806",
-    "45809",
-    "45812",
-    "45815",
-    "45818",
-    "45821",
-    "45824",
-    "46103",
-    "46106",
-    "46109",
-    "46112",
-    "46115",
-    "46118",
-    "46121",
-    "46124",
-    "46203",
-    "46206",
-    "46209",
-    "46212",
-    "46215",
-    "46218",
-    "46221",
-    "46224",
-    "46303",
-    "46306",
-    "46309",
-    "46312",
-    "46315",
-    "46318",
-    "46321",
-    "46324",
-    "46403",
-    "46406",
-    "46409",
-    "46412",
-    "46415",
-    "46418",
-    "46421",
-    "46424",
-    "46503",
-    "46506",
-    "46509",
-    "46512",
-    "46515",
-    "46518",
-    "46521",
-    "46524",
-    "46703",
-    "46706",
-    "46709",
-    "46712",
-    "46715",
-    "46718",
-    "46721",
-    "46724",
-    "47103",
-    "47106",
-    "47109",
-    "47112",
-    "47115",
-    "47118",
-    "47121",
-    "47124",
-    "47203",
-    "47206",
-    "47209",
-    "47212",
-    "47215",
-    "47218",
-    "47221",
-    "47224",
-    "47303",
-    "47306",
-    "47309",
-    "47312",
-    "47315",
-    "47318",
-    "47321",
-    "47324",
-    "47403",
-    "47406",
-    "47409",
-    "47412",
-    "47415",
-    "47418",
-    "47421",
-    "47424",
-    "50303",
-    "50306",
-    "50309",
-    "50312",
-    "50315",
-    "50318",
-    "50321",
-    "50324",
-    "50403",
-    "50406",
-    "50409",
-    "50412",
-    "50415",
-    "50418",
-    "50421",
-    "50424",
-    "50503",
-    "50506",
-    "50509",
-    "50512",
-    "50515",
-    "50518",
-    "50521",
-    "50524",
-    "51103",
-    "51106",
-    "51109",
-    "51112",
-    "51115",
-    "51118",
-    "51121",
-    "51124",
-    "51203",
-    "51206",
-    "51209",
-    "51212",
-    "51215",
-    "51218",
-    "51221",
-    "51224",
-    "51403",
-    "51406",
-    "51409",
-    "51412",
-    "51415",
-    "51418",
-    "51421",
-    "51424",
-    "51703",
-    "51706",
-    "51709",
-    "51712",
-    "51715",
-    "51718",
-    "51721",
-    "51724",
-    "52103",
-    "52106",
-    "52109",
-    "52112",
-    "52115",
-    "52118",
-    "52121",
-    "52124",
-    "52203",
-    "52206",
-    "52209",
-    "52212",
-    "52215",
-    "52218",
-    "52221",
-    "52224",
-    "52303",
-    "52306",
-    "52309",
-    "52312",
-    "52315",
-    "52318",
-    "52321",
-    "52324",
-    "52403",
-    "52406",
-    "52409",
-    "52412",
-    "52415",
-    "52418",
-    "52421",
-    "52424",
-    "53103",
-    "53106",
-    "53109",
-    "53112",
-    "53115",
-    "53118",
-    "53121",
-    "53124",
-    "53203",
-    "53206",
-    "53209",
-    "53212",
-    "53215",
-    "53218",
-    "53221",
-    "53224",
-    "53303",
-    "53306",
-    "53309",
-    "53312",
-    "53315",
-    "53318",
-    "53321",
-    "53324",
-    "53403",
-    "53406",
-    "53409",
-    "53412",
-    "53415",
-    "53418",
-    "53421",
-    "53424",
-    "53503",
-    "53506",
-    "53509",
-    "53512",
-    "53515",
-    "53518",
-    "53521",
-    "53524",
-    "54103",
-    "54106",
-    "54109",
-    "54112",
-    "54115",
-    "54118",
-    "54121",
-    "54124",
-    "54203",
-    "54206",
-    "54209",
-    "54212",
-    "54215",
-    "54218",
-    "54221",
-    "54224",
-    "54303",
-    "54306",
-    "54309",
-    "54312",
-    "54315",
-    "54318",
-    "54321",
-    "54324",
-    "54403",
-    "54406",
-    "54409",
-    "54412",
-    "54415",
-    "54418",
-    "54421",
-    "54424",
-    "54503",
-    "54506",
-    "54509",
-    "54512",
-    "54515",
-    "54518",
-    "54521",
-    "54524",
-    "54603",
-    "54606",
-    "54609",
-    "54612",
-    "54615",
-    "54618",
-    "54621",
-    "54624",
-    "54703",
-    "54706",
-    "54709",
-    "54712",
-    "54715",
-    "54718",
-    "54721",
-    "54724",
-    "66203",
-    "66206",
-    "66209",
-    "66212",
-    "66215",
-    "66218",
-    "66221",
-    "66224",
-    "66603",
-    "66606",
-    "66609",
-    "66612",
-    "66615",
-    "66618",
-    "66621",
-    "66624",
-    "66803",
-    "66806",
-    "66809",
-    "66812",
-    "66815",
-    "66818",
-    "66821",
-    "66824"
-  ],
   "details": [
     {
-      "postnummer": "00005",
-      "postort": "Postort",
-      "kommun": "Kommun"
-    },
-    {
       "postnummer": "40003",
+      "postnummer_format": "400 03",
       "postort": "GÖTEBORG",
-      "kommun": "Göteborg"
+      "kommun": "Göteborg",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 11.966936,
+      "lat": 57.703545,
+      "geocode_source": "place"
     },
     {
       "postnummer": "40006",
+      "postnummer_format": "400 06",
       "postort": "GÖTEBORG",
-      "kommun": "Göteborg"
+      "kommun": "Göteborg",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 11.966936,
+      "lat": 57.703545,
+      "geocode_source": "place"
     },
     {
       "postnummer": "40009",
+      "postnummer_format": "400 09",
       "postort": "GÖTEBORG",
-      "kommun": "Göteborg"
+      "kommun": "Göteborg",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 11.966936,
+      "lat": 57.703545,
+      "geocode_source": "place"
     },
     {
       "postnummer": "40012",
+      "postnummer_format": "400 12",
       "postort": "GÖTEBORG",
-      "kommun": "Göteborg"
+      "kommun": "Göteborg",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 11.966936,
+      "lat": 57.703545,
+      "geocode_source": "place"
     },
     {
       "postnummer": "40015",
+      "postnummer_format": "400 15",
       "postort": "GÖTEBORG",
-      "kommun": "Göteborg"
+      "kommun": "Göteborg",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 11.966936,
+      "lat": 57.703545,
+      "geocode_source": "place"
     },
     {
       "postnummer": "40018",
+      "postnummer_format": "400 18",
       "postort": "GÖTEBORG",
-      "kommun": "Göteborg"
+      "kommun": "Göteborg",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 11.966936,
+      "lat": 57.703545,
+      "geocode_source": "place"
     },
     {
       "postnummer": "40021",
+      "postnummer_format": "400 21",
       "postort": "GÖTEBORG",
-      "kommun": "Göteborg"
+      "kommun": "Göteborg",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 11.966936,
+      "lat": 57.703545,
+      "geocode_source": "place"
     },
     {
       "postnummer": "40024",
+      "postnummer_format": "400 24",
       "postort": "GÖTEBORG",
-      "kommun": "Göteborg"
+      "kommun": "Göteborg",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 11.966936,
+      "lat": 57.703545,
+      "geocode_source": "place"
     },
     {
       "postnummer": "40103",
+      "postnummer_format": "401 03",
       "postort": "GÖTEBORG",
-      "kommun": "Göteborg"
+      "kommun": "Göteborg",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 11.966936,
+      "lat": 57.703545,
+      "geocode_source": "place"
     },
     {
       "postnummer": "40106",
+      "postnummer_format": "401 06",
       "postort": "GÖTEBORG",
-      "kommun": "Göteborg"
+      "kommun": "Göteborg",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 11.966936,
+      "lat": 57.703545,
+      "geocode_source": "place"
     },
     {
       "postnummer": "40109",
+      "postnummer_format": "401 09",
       "postort": "GÖTEBORG",
-      "kommun": "Göteborg"
+      "kommun": "Göteborg",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 11.966936,
+      "lat": 57.703545,
+      "geocode_source": "place"
     },
     {
       "postnummer": "40112",
+      "postnummer_format": "401 12",
       "postort": "GÖTEBORG",
-      "kommun": "Göteborg"
+      "kommun": "Göteborg",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 11.966936,
+      "lat": 57.703545,
+      "geocode_source": "place"
     },
     {
       "postnummer": "40115",
+      "postnummer_format": "401 15",
       "postort": "GÖTEBORG",
-      "kommun": "Göteborg"
+      "kommun": "Göteborg",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 11.966936,
+      "lat": 57.703545,
+      "geocode_source": "place"
     },
     {
       "postnummer": "40118",
+      "postnummer_format": "401 18",
       "postort": "GÖTEBORG",
-      "kommun": "Göteborg"
+      "kommun": "Göteborg",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 11.966936,
+      "lat": 57.703545,
+      "geocode_source": "place"
     },
     {
       "postnummer": "40121",
+      "postnummer_format": "401 21",
       "postort": "GÖTEBORG",
-      "kommun": "Göteborg"
+      "kommun": "Göteborg",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 11.966936,
+      "lat": 57.703545,
+      "geocode_source": "place"
     },
     {
       "postnummer": "40124",
+      "postnummer_format": "401 24",
       "postort": "GÖTEBORG",
-      "kommun": "Göteborg"
+      "kommun": "Göteborg",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 11.966936,
+      "lat": 57.703545,
+      "geocode_source": "place"
     },
     {
       "postnummer": "40203",
+      "postnummer_format": "402 03",
       "postort": "GÖTEBORG",
-      "kommun": "Göteborg"
+      "kommun": "Göteborg",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 11.966936,
+      "lat": 57.703545,
+      "geocode_source": "place"
     },
     {
       "postnummer": "40206",
+      "postnummer_format": "402 06",
       "postort": "GÖTEBORG",
-      "kommun": "Göteborg"
+      "kommun": "Göteborg",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 11.966936,
+      "lat": 57.703545,
+      "geocode_source": "place"
     },
     {
       "postnummer": "40209",
+      "postnummer_format": "402 09",
       "postort": "GÖTEBORG",
-      "kommun": "Göteborg"
+      "kommun": "Göteborg",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 11.966936,
+      "lat": 57.703545,
+      "geocode_source": "place"
     },
     {
       "postnummer": "40212",
+      "postnummer_format": "402 12",
       "postort": "GÖTEBORG",
-      "kommun": "Göteborg"
+      "kommun": "Göteborg",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 11.966936,
+      "lat": 57.703545,
+      "geocode_source": "place"
     },
     {
       "postnummer": "40215",
+      "postnummer_format": "402 15",
       "postort": "GÖTEBORG",
-      "kommun": "Göteborg"
+      "kommun": "Göteborg",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 11.966936,
+      "lat": 57.703545,
+      "geocode_source": "place"
     },
     {
       "postnummer": "40218",
+      "postnummer_format": "402 18",
       "postort": "GÖTEBORG",
-      "kommun": "Göteborg"
+      "kommun": "Göteborg",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 11.966936,
+      "lat": 57.703545,
+      "geocode_source": "place"
     },
     {
       "postnummer": "40221",
+      "postnummer_format": "402 21",
       "postort": "GÖTEBORG",
-      "kommun": "Göteborg"
+      "kommun": "Göteborg",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 11.966936,
+      "lat": 57.703545,
+      "geocode_source": "place"
     },
     {
       "postnummer": "40224",
+      "postnummer_format": "402 24",
       "postort": "GÖTEBORG",
-      "kommun": "Göteborg"
+      "kommun": "Göteborg",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 11.966936,
+      "lat": 57.703545,
+      "geocode_source": "place"
     },
     {
       "postnummer": "43003",
+      "postnummer_format": "430 03",
       "postort": "ÖCKERÖ",
-      "kommun": "Öckerö"
+      "kommun": "Öckerö",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 11.655633,
+      "lat": 57.70812,
+      "geocode_source": "place"
     },
     {
       "postnummer": "43006",
+      "postnummer_format": "430 06",
       "postort": "ÖCKERÖ",
-      "kommun": "Öckerö"
+      "kommun": "Öckerö",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 11.655633,
+      "lat": 57.70812,
+      "geocode_source": "place"
     },
     {
       "postnummer": "43009",
+      "postnummer_format": "430 09",
       "postort": "ÖCKERÖ",
-      "kommun": "Öckerö"
+      "kommun": "Öckerö",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 11.655633,
+      "lat": 57.70812,
+      "geocode_source": "place"
     },
     {
       "postnummer": "43012",
+      "postnummer_format": "430 12",
       "postort": "ÖCKERÖ",
-      "kommun": "Öckerö"
+      "kommun": "Öckerö",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 11.655633,
+      "lat": 57.70812,
+      "geocode_source": "place"
     },
     {
       "postnummer": "43015",
+      "postnummer_format": "430 15",
       "postort": "ÖCKERÖ",
-      "kommun": "Öckerö"
+      "kommun": "Öckerö",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 11.655633,
+      "lat": 57.70812,
+      "geocode_source": "place"
     },
     {
       "postnummer": "43018",
+      "postnummer_format": "430 18",
       "postort": "ÖCKERÖ",
-      "kommun": "Öckerö"
+      "kommun": "Öckerö",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 11.655633,
+      "lat": 57.70812,
+      "geocode_source": "place"
     },
     {
       "postnummer": "43021",
+      "postnummer_format": "430 21",
       "postort": "ÖCKERÖ",
-      "kommun": "Öckerö"
+      "kommun": "Öckerö",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 11.655633,
+      "lat": 57.70812,
+      "geocode_source": "place"
     },
     {
       "postnummer": "43024",
+      "postnummer_format": "430 24",
       "postort": "ÖCKERÖ",
-      "kommun": "Öckerö"
+      "kommun": "Öckerö",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 11.655633,
+      "lat": 57.70812,
+      "geocode_source": "place"
     },
     {
       "postnummer": "43103",
+      "postnummer_format": "431 03",
       "postort": "MÖLNDAL",
-      "kommun": "Mölndal"
+      "kommun": "Mölndal",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.014971,
+      "lat": 57.65551,
+      "geocode_source": "place"
     },
     {
       "postnummer": "43106",
+      "postnummer_format": "431 06",
       "postort": "MÖLNDAL",
-      "kommun": "Mölndal"
+      "kommun": "Mölndal",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.014971,
+      "lat": 57.65551,
+      "geocode_source": "place"
     },
     {
       "postnummer": "43109",
+      "postnummer_format": "431 09",
       "postort": "MÖLNDAL",
-      "kommun": "Mölndal"
+      "kommun": "Mölndal",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.014971,
+      "lat": 57.65551,
+      "geocode_source": "place"
     },
     {
       "postnummer": "43112",
+      "postnummer_format": "431 12",
       "postort": "MÖLNDAL",
-      "kommun": "Mölndal"
+      "kommun": "Mölndal",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.014971,
+      "lat": 57.65551,
+      "geocode_source": "place"
     },
     {
       "postnummer": "43115",
+      "postnummer_format": "431 15",
       "postort": "MÖLNDAL",
-      "kommun": "Mölndal"
+      "kommun": "Mölndal",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.014971,
+      "lat": 57.65551,
+      "geocode_source": "place"
     },
     {
       "postnummer": "43118",
+      "postnummer_format": "431 18",
       "postort": "MÖLNDAL",
-      "kommun": "Mölndal"
+      "kommun": "Mölndal",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.014971,
+      "lat": 57.65551,
+      "geocode_source": "place"
     },
     {
       "postnummer": "43121",
+      "postnummer_format": "431 21",
       "postort": "MÖLNDAL",
-      "kommun": "Mölndal"
+      "kommun": "Mölndal",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.014971,
+      "lat": 57.65551,
+      "geocode_source": "place"
     },
     {
       "postnummer": "43124",
+      "postnummer_format": "431 24",
       "postort": "MÖLNDAL",
-      "kommun": "Mölndal"
+      "kommun": "Mölndal",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.014971,
+      "lat": 57.65551,
+      "geocode_source": "place"
     },
     {
       "postnummer": "43303",
+      "postnummer_format": "433 03",
       "postort": "PARTILLE",
-      "kommun": "Partille"
+      "kommun": "Partille",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.099768,
+      "lat": 57.740772,
+      "geocode_source": "place"
     },
     {
       "postnummer": "43306",
+      "postnummer_format": "433 06",
       "postort": "PARTILLE",
-      "kommun": "Partille"
+      "kommun": "Partille",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.099768,
+      "lat": 57.740772,
+      "geocode_source": "place"
     },
     {
       "postnummer": "43309",
+      "postnummer_format": "433 09",
       "postort": "PARTILLE",
-      "kommun": "Partille"
+      "kommun": "Partille",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.099768,
+      "lat": 57.740772,
+      "geocode_source": "place"
     },
     {
       "postnummer": "43312",
+      "postnummer_format": "433 12",
       "postort": "PARTILLE",
-      "kommun": "Partille"
+      "kommun": "Partille",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.099768,
+      "lat": 57.740772,
+      "geocode_source": "place"
     },
     {
       "postnummer": "43315",
+      "postnummer_format": "433 15",
       "postort": "PARTILLE",
-      "kommun": "Partille"
+      "kommun": "Partille",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.099768,
+      "lat": 57.740772,
+      "geocode_source": "place"
     },
     {
       "postnummer": "43318",
+      "postnummer_format": "433 18",
       "postort": "PARTILLE",
-      "kommun": "Partille"
+      "kommun": "Partille",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.099768,
+      "lat": 57.740772,
+      "geocode_source": "place"
     },
     {
       "postnummer": "43321",
+      "postnummer_format": "433 21",
       "postort": "PARTILLE",
-      "kommun": "Partille"
+      "kommun": "Partille",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.099768,
+      "lat": 57.740772,
+      "geocode_source": "place"
     },
     {
       "postnummer": "43324",
+      "postnummer_format": "433 24",
       "postort": "PARTILLE",
-      "kommun": "Partille"
+      "kommun": "Partille",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.099768,
+      "lat": 57.740772,
+      "geocode_source": "place"
     },
     {
       "postnummer": "43503",
+      "postnummer_format": "435 03",
       "postort": "MÖLNLYCKE",
-      "kommun": "Härryda"
+      "kommun": "Härryda",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.117996,
+      "lat": 57.65901,
+      "geocode_source": "place"
     },
     {
       "postnummer": "43506",
+      "postnummer_format": "435 06",
       "postort": "MÖLNLYCKE",
-      "kommun": "Härryda"
+      "kommun": "Härryda",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.117996,
+      "lat": 57.65901,
+      "geocode_source": "place"
     },
     {
       "postnummer": "43509",
+      "postnummer_format": "435 09",
       "postort": "MÖLNLYCKE",
-      "kommun": "Härryda"
+      "kommun": "Härryda",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.117996,
+      "lat": 57.65901,
+      "geocode_source": "place"
     },
     {
       "postnummer": "43512",
+      "postnummer_format": "435 12",
       "postort": "MÖLNLYCKE",
-      "kommun": "Härryda"
+      "kommun": "Härryda",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.117996,
+      "lat": 57.65901,
+      "geocode_source": "place"
     },
     {
       "postnummer": "43515",
+      "postnummer_format": "435 15",
       "postort": "MÖLNLYCKE",
-      "kommun": "Härryda"
+      "kommun": "Härryda",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.117996,
+      "lat": 57.65901,
+      "geocode_source": "place"
     },
     {
       "postnummer": "43518",
+      "postnummer_format": "435 18",
       "postort": "MÖLNLYCKE",
-      "kommun": "Härryda"
+      "kommun": "Härryda",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.117996,
+      "lat": 57.65901,
+      "geocode_source": "place"
     },
     {
       "postnummer": "43521",
+      "postnummer_format": "435 21",
       "postort": "MÖLNLYCKE",
-      "kommun": "Härryda"
+      "kommun": "Härryda",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.117996,
+      "lat": 57.65901,
+      "geocode_source": "place"
     },
     {
       "postnummer": "43524",
+      "postnummer_format": "435 24",
       "postort": "MÖLNLYCKE",
-      "kommun": "Härryda"
+      "kommun": "Härryda",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.117996,
+      "lat": 57.65901,
+      "geocode_source": "place"
     },
     {
       "postnummer": "43603",
+      "postnummer_format": "436 03",
       "postort": "MÖLNLYCKE",
-      "kommun": "Härryda"
+      "kommun": "Härryda",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.117996,
+      "lat": 57.65901,
+      "geocode_source": "place"
     },
     {
       "postnummer": "43606",
+      "postnummer_format": "436 06",
       "postort": "MÖLNLYCKE",
-      "kommun": "Härryda"
+      "kommun": "Härryda",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.117996,
+      "lat": 57.65901,
+      "geocode_source": "place"
     },
     {
       "postnummer": "43609",
+      "postnummer_format": "436 09",
       "postort": "MÖLNLYCKE",
-      "kommun": "Härryda"
+      "kommun": "Härryda",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.117996,
+      "lat": 57.65901,
+      "geocode_source": "place"
     },
     {
       "postnummer": "43612",
+      "postnummer_format": "436 12",
       "postort": "MÖLNLYCKE",
-      "kommun": "Härryda"
+      "kommun": "Härryda",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.117996,
+      "lat": 57.65901,
+      "geocode_source": "place"
     },
     {
       "postnummer": "43615",
+      "postnummer_format": "436 15",
       "postort": "MÖLNLYCKE",
-      "kommun": "Härryda"
+      "kommun": "Härryda",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.117996,
+      "lat": 57.65901,
+      "geocode_source": "place"
     },
     {
       "postnummer": "43618",
+      "postnummer_format": "436 18",
       "postort": "MÖLNLYCKE",
-      "kommun": "Härryda"
+      "kommun": "Härryda",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.117996,
+      "lat": 57.65901,
+      "geocode_source": "place"
     },
     {
       "postnummer": "43621",
+      "postnummer_format": "436 21",
       "postort": "MÖLNLYCKE",
-      "kommun": "Härryda"
+      "kommun": "Härryda",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.117996,
+      "lat": 57.65901,
+      "geocode_source": "place"
     },
     {
       "postnummer": "43624",
+      "postnummer_format": "436 24",
       "postort": "MÖLNLYCKE",
-      "kommun": "Härryda"
+      "kommun": "Härryda",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.117996,
+      "lat": 57.65901,
+      "geocode_source": "place"
     },
     {
       "postnummer": "43703",
+      "postnummer_format": "437 03",
       "postort": "MÖLNLYCKE",
-      "kommun": "Härryda"
+      "kommun": "Härryda",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.117996,
+      "lat": 57.65901,
+      "geocode_source": "place"
     },
     {
       "postnummer": "43706",
+      "postnummer_format": "437 06",
       "postort": "MÖLNLYCKE",
-      "kommun": "Härryda"
+      "kommun": "Härryda",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.117996,
+      "lat": 57.65901,
+      "geocode_source": "place"
     },
     {
       "postnummer": "43709",
+      "postnummer_format": "437 09",
       "postort": "MÖLNLYCKE",
-      "kommun": "Härryda"
+      "kommun": "Härryda",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.117996,
+      "lat": 57.65901,
+      "geocode_source": "place"
     },
     {
       "postnummer": "43712",
+      "postnummer_format": "437 12",
       "postort": "MÖLNLYCKE",
-      "kommun": "Härryda"
+      "kommun": "Härryda",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.117996,
+      "lat": 57.65901,
+      "geocode_source": "place"
     },
     {
       "postnummer": "43715",
+      "postnummer_format": "437 15",
       "postort": "MÖLNLYCKE",
-      "kommun": "Härryda"
+      "kommun": "Härryda",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.117996,
+      "lat": 57.65901,
+      "geocode_source": "place"
     },
     {
       "postnummer": "43718",
+      "postnummer_format": "437 18",
       "postort": "MÖLNLYCKE",
-      "kommun": "Härryda"
+      "kommun": "Härryda",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.117996,
+      "lat": 57.65901,
+      "geocode_source": "place"
     },
     {
       "postnummer": "43721",
+      "postnummer_format": "437 21",
       "postort": "MÖLNLYCKE",
-      "kommun": "Härryda"
+      "kommun": "Härryda",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.117996,
+      "lat": 57.65901,
+      "geocode_source": "place"
     },
     {
       "postnummer": "43724",
+      "postnummer_format": "437 24",
       "postort": "MÖLNLYCKE",
-      "kommun": "Härryda"
+      "kommun": "Härryda",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.117996,
+      "lat": 57.65901,
+      "geocode_source": "place"
     },
     {
       "postnummer": "44103",
+      "postnummer_format": "441 03",
       "postort": "ALINGSÅS",
-      "kommun": "Alingsås"
+      "kommun": "Alingsås",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.536794,
+      "lat": 57.930077,
+      "geocode_source": "place"
     },
     {
       "postnummer": "44106",
+      "postnummer_format": "441 06",
       "postort": "ALINGSÅS",
-      "kommun": "Alingsås"
+      "kommun": "Alingsås",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.536794,
+      "lat": 57.930077,
+      "geocode_source": "place"
     },
     {
       "postnummer": "44109",
+      "postnummer_format": "441 09",
       "postort": "ALINGSÅS",
-      "kommun": "Alingsås"
+      "kommun": "Alingsås",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.536794,
+      "lat": 57.930077,
+      "geocode_source": "place"
     },
     {
       "postnummer": "44112",
+      "postnummer_format": "441 12",
       "postort": "ALINGSÅS",
-      "kommun": "Alingsås"
+      "kommun": "Alingsås",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.536794,
+      "lat": 57.930077,
+      "geocode_source": "place"
     },
     {
       "postnummer": "44115",
+      "postnummer_format": "441 15",
       "postort": "ALINGSÅS",
-      "kommun": "Alingsås"
+      "kommun": "Alingsås",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.536794,
+      "lat": 57.930077,
+      "geocode_source": "place"
     },
     {
       "postnummer": "44118",
+      "postnummer_format": "441 18",
       "postort": "ALINGSÅS",
-      "kommun": "Alingsås"
+      "kommun": "Alingsås",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.536794,
+      "lat": 57.930077,
+      "geocode_source": "place"
     },
     {
       "postnummer": "44121",
+      "postnummer_format": "441 21",
       "postort": "ALINGSÅS",
-      "kommun": "Alingsås"
+      "kommun": "Alingsås",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.536794,
+      "lat": 57.930077,
+      "geocode_source": "place"
     },
     {
       "postnummer": "44124",
+      "postnummer_format": "441 24",
       "postort": "ALINGSÅS",
-      "kommun": "Alingsås"
+      "kommun": "Alingsås",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.536794,
+      "lat": 57.930077,
+      "geocode_source": "place"
     },
     {
       "postnummer": "44203",
+      "postnummer_format": "442 03",
       "postort": "KUNGÄLV",
-      "kommun": "Kungälv"
+      "kommun": "Kungälv",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 11.980308,
+      "lat": 57.87079,
+      "geocode_source": "place"
     },
     {
       "postnummer": "44206",
+      "postnummer_format": "442 06",
       "postort": "KUNGÄLV",
-      "kommun": "Kungälv"
+      "kommun": "Kungälv",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 11.980308,
+      "lat": 57.87079,
+      "geocode_source": "place"
     },
     {
       "postnummer": "44209",
+      "postnummer_format": "442 09",
       "postort": "KUNGÄLV",
-      "kommun": "Kungälv"
+      "kommun": "Kungälv",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 11.980308,
+      "lat": 57.87079,
+      "geocode_source": "place"
     },
     {
       "postnummer": "44212",
+      "postnummer_format": "442 12",
       "postort": "KUNGÄLV",
-      "kommun": "Kungälv"
+      "kommun": "Kungälv",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 11.980308,
+      "lat": 57.87079,
+      "geocode_source": "place"
     },
     {
       "postnummer": "44215",
+      "postnummer_format": "442 15",
       "postort": "KUNGÄLV",
-      "kommun": "Kungälv"
+      "kommun": "Kungälv",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 11.980308,
+      "lat": 57.87079,
+      "geocode_source": "place"
     },
     {
       "postnummer": "44218",
+      "postnummer_format": "442 18",
       "postort": "KUNGÄLV",
-      "kommun": "Kungälv"
+      "kommun": "Kungälv",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 11.980308,
+      "lat": 57.87079,
+      "geocode_source": "place"
     },
     {
       "postnummer": "44221",
+      "postnummer_format": "442 21",
       "postort": "KUNGÄLV",
-      "kommun": "Kungälv"
+      "kommun": "Kungälv",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 11.980308,
+      "lat": 57.87079,
+      "geocode_source": "place"
     },
     {
       "postnummer": "44224",
+      "postnummer_format": "442 24",
       "postort": "KUNGÄLV",
-      "kommun": "Kungälv"
+      "kommun": "Kungälv",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 11.980308,
+      "lat": 57.87079,
+      "geocode_source": "place"
     },
     {
       "postnummer": "44303",
+      "postnummer_format": "443 03",
       "postort": "LERUM",
-      "kommun": "Lerum"
+      "kommun": "Lerum",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.26902,
+      "lat": 57.77054,
+      "geocode_source": "place"
     },
     {
       "postnummer": "44306",
+      "postnummer_format": "443 06",
       "postort": "LERUM",
-      "kommun": "Lerum"
+      "kommun": "Lerum",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.26902,
+      "lat": 57.77054,
+      "geocode_source": "place"
     },
     {
       "postnummer": "44309",
+      "postnummer_format": "443 09",
       "postort": "LERUM",
-      "kommun": "Lerum"
+      "kommun": "Lerum",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.26902,
+      "lat": 57.77054,
+      "geocode_source": "place"
     },
     {
       "postnummer": "44312",
+      "postnummer_format": "443 12",
       "postort": "LERUM",
-      "kommun": "Lerum"
+      "kommun": "Lerum",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.26902,
+      "lat": 57.77054,
+      "geocode_source": "place"
     },
     {
       "postnummer": "44315",
+      "postnummer_format": "443 15",
       "postort": "LERUM",
-      "kommun": "Lerum"
+      "kommun": "Lerum",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.26902,
+      "lat": 57.77054,
+      "geocode_source": "place"
     },
     {
       "postnummer": "44318",
+      "postnummer_format": "443 18",
       "postort": "LERUM",
-      "kommun": "Lerum"
+      "kommun": "Lerum",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.26902,
+      "lat": 57.77054,
+      "geocode_source": "place"
     },
     {
       "postnummer": "44321",
+      "postnummer_format": "443 21",
       "postort": "LERUM",
-      "kommun": "Lerum"
+      "kommun": "Lerum",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.26902,
+      "lat": 57.77054,
+      "geocode_source": "place"
     },
     {
       "postnummer": "44324",
+      "postnummer_format": "443 24",
       "postort": "LERUM",
-      "kommun": "Lerum"
+      "kommun": "Lerum",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.26902,
+      "lat": 57.77054,
+      "geocode_source": "place"
     },
     {
       "postnummer": "44403",
+      "postnummer_format": "444 03",
       "postort": "LERUM",
-      "kommun": "Lerum"
+      "kommun": "Lerum",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.26902,
+      "lat": 57.77054,
+      "geocode_source": "place"
     },
     {
       "postnummer": "44403",
+      "postnummer_format": "444 03",
       "postort": "STENUNGSUND",
-      "kommun": "Stenungsund"
+      "kommun": "Stenungsund",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 11.818258,
+      "lat": 58.0692,
+      "geocode_source": "place"
     },
     {
       "postnummer": "44406",
+      "postnummer_format": "444 06",
       "postort": "LERUM",
-      "kommun": "Lerum"
+      "kommun": "Lerum",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.26902,
+      "lat": 57.77054,
+      "geocode_source": "place"
     },
     {
       "postnummer": "44406",
+      "postnummer_format": "444 06",
       "postort": "STENUNGSUND",
-      "kommun": "Stenungsund"
+      "kommun": "Stenungsund",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 11.818258,
+      "lat": 58.0692,
+      "geocode_source": "place"
     },
     {
       "postnummer": "44409",
+      "postnummer_format": "444 09",
       "postort": "LERUM",
-      "kommun": "Lerum"
+      "kommun": "Lerum",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.26902,
+      "lat": 57.77054,
+      "geocode_source": "place"
     },
     {
       "postnummer": "44409",
+      "postnummer_format": "444 09",
       "postort": "STENUNGSUND",
-      "kommun": "Stenungsund"
+      "kommun": "Stenungsund",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 11.818258,
+      "lat": 58.0692,
+      "geocode_source": "place"
     },
     {
       "postnummer": "44412",
+      "postnummer_format": "444 12",
       "postort": "LERUM",
-      "kommun": "Lerum"
+      "kommun": "Lerum",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.26902,
+      "lat": 57.77054,
+      "geocode_source": "place"
     },
     {
       "postnummer": "44412",
+      "postnummer_format": "444 12",
       "postort": "STENUNGSUND",
-      "kommun": "Stenungsund"
+      "kommun": "Stenungsund",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 11.818258,
+      "lat": 58.0692,
+      "geocode_source": "place"
     },
     {
       "postnummer": "44415",
+      "postnummer_format": "444 15",
       "postort": "LERUM",
-      "kommun": "Lerum"
+      "kommun": "Lerum",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.26902,
+      "lat": 57.77054,
+      "geocode_source": "place"
     },
     {
       "postnummer": "44415",
+      "postnummer_format": "444 15",
       "postort": "STENUNGSUND",
-      "kommun": "Stenungsund"
+      "kommun": "Stenungsund",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 11.818258,
+      "lat": 58.0692,
+      "geocode_source": "place"
     },
     {
       "postnummer": "44418",
+      "postnummer_format": "444 18",
       "postort": "LERUM",
-      "kommun": "Lerum"
+      "kommun": "Lerum",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.26902,
+      "lat": 57.77054,
+      "geocode_source": "place"
     },
     {
       "postnummer": "44418",
+      "postnummer_format": "444 18",
       "postort": "STENUNGSUND",
-      "kommun": "Stenungsund"
+      "kommun": "Stenungsund",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 11.818258,
+      "lat": 58.0692,
+      "geocode_source": "place"
     },
     {
       "postnummer": "44421",
+      "postnummer_format": "444 21",
       "postort": "LERUM",
-      "kommun": "Lerum"
+      "kommun": "Lerum",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.26902,
+      "lat": 57.77054,
+      "geocode_source": "place"
     },
     {
       "postnummer": "44421",
+      "postnummer_format": "444 21",
       "postort": "STENUNGSUND",
-      "kommun": "Stenungsund"
+      "kommun": "Stenungsund",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 11.818258,
+      "lat": 58.0692,
+      "geocode_source": "place"
     },
     {
       "postnummer": "44424",
+      "postnummer_format": "444 24",
       "postort": "LERUM",
-      "kommun": "Lerum"
+      "kommun": "Lerum",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.26902,
+      "lat": 57.77054,
+      "geocode_source": "place"
     },
     {
       "postnummer": "44424",
+      "postnummer_format": "444 24",
       "postort": "STENUNGSUND",
-      "kommun": "Stenungsund"
+      "kommun": "Stenungsund",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 11.818258,
+      "lat": 58.0692,
+      "geocode_source": "place"
     },
     {
       "postnummer": "44503",
+      "postnummer_format": "445 03",
       "postort": "LERUM",
-      "kommun": "Lerum"
+      "kommun": "Lerum",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.26902,
+      "lat": 57.77054,
+      "geocode_source": "place"
     },
     {
       "postnummer": "44506",
+      "postnummer_format": "445 06",
       "postort": "LERUM",
-      "kommun": "Lerum"
+      "kommun": "Lerum",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.26902,
+      "lat": 57.77054,
+      "geocode_source": "place"
     },
     {
       "postnummer": "44509",
+      "postnummer_format": "445 09",
       "postort": "LERUM",
-      "kommun": "Lerum"
+      "kommun": "Lerum",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.26902,
+      "lat": 57.77054,
+      "geocode_source": "place"
     },
     {
       "postnummer": "44512",
+      "postnummer_format": "445 12",
       "postort": "LERUM",
-      "kommun": "Lerum"
+      "kommun": "Lerum",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.26902,
+      "lat": 57.77054,
+      "geocode_source": "place"
     },
     {
       "postnummer": "44515",
+      "postnummer_format": "445 15",
       "postort": "LERUM",
-      "kommun": "Lerum"
+      "kommun": "Lerum",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.26902,
+      "lat": 57.77054,
+      "geocode_source": "place"
     },
     {
       "postnummer": "44518",
+      "postnummer_format": "445 18",
       "postort": "LERUM",
-      "kommun": "Lerum"
+      "kommun": "Lerum",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.26902,
+      "lat": 57.77054,
+      "geocode_source": "place"
     },
     {
       "postnummer": "44521",
+      "postnummer_format": "445 21",
       "postort": "LERUM",
-      "kommun": "Lerum"
+      "kommun": "Lerum",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.26902,
+      "lat": 57.77054,
+      "geocode_source": "place"
     },
     {
       "postnummer": "44524",
+      "postnummer_format": "445 24",
       "postort": "LERUM",
-      "kommun": "Lerum"
+      "kommun": "Lerum",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.26902,
+      "lat": 57.77054,
+      "geocode_source": "place"
     },
     {
       "postnummer": "44603",
+      "postnummer_format": "446 03",
       "postort": "NÖDINGE",
-      "kommun": "Ale"
+      "kommun": "Ale",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.046422,
+      "lat": 57.895554,
+      "geocode_source": "place"
     },
     {
       "postnummer": "44606",
+      "postnummer_format": "446 06",
       "postort": "NÖDINGE",
-      "kommun": "Ale"
+      "kommun": "Ale",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.046422,
+      "lat": 57.895554,
+      "geocode_source": "place"
     },
     {
       "postnummer": "44609",
+      "postnummer_format": "446 09",
       "postort": "NÖDINGE",
-      "kommun": "Ale"
+      "kommun": "Ale",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.046422,
+      "lat": 57.895554,
+      "geocode_source": "place"
     },
     {
       "postnummer": "44612",
+      "postnummer_format": "446 12",
       "postort": "NÖDINGE",
-      "kommun": "Ale"
+      "kommun": "Ale",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.046422,
+      "lat": 57.895554,
+      "geocode_source": "place"
     },
     {
       "postnummer": "44615",
+      "postnummer_format": "446 15",
       "postort": "NÖDINGE",
-      "kommun": "Ale"
+      "kommun": "Ale",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.046422,
+      "lat": 57.895554,
+      "geocode_source": "place"
     },
     {
       "postnummer": "44618",
+      "postnummer_format": "446 18",
       "postort": "NÖDINGE",
-      "kommun": "Ale"
+      "kommun": "Ale",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.046422,
+      "lat": 57.895554,
+      "geocode_source": "place"
     },
     {
       "postnummer": "44621",
+      "postnummer_format": "446 21",
       "postort": "NÖDINGE",
-      "kommun": "Ale"
+      "kommun": "Ale",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.046422,
+      "lat": 57.895554,
+      "geocode_source": "place"
     },
     {
       "postnummer": "44624",
+      "postnummer_format": "446 24",
       "postort": "NÖDINGE",
-      "kommun": "Ale"
+      "kommun": "Ale",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.046422,
+      "lat": 57.895554,
+      "geocode_source": "place"
     },
     {
       "postnummer": "44703",
+      "postnummer_format": "447 03",
       "postort": "NÖDINGE",
-      "kommun": "Ale"
+      "kommun": "Ale",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.046422,
+      "lat": 57.895554,
+      "geocode_source": "place"
     },
     {
       "postnummer": "44703",
+      "postnummer_format": "447 03",
       "postort": "VÅRGÅRDA",
-      "kommun": "Vårgårda"
+      "kommun": "Vårgårda",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.809942,
+      "lat": 58.032745,
+      "geocode_source": "place"
     },
     {
       "postnummer": "44706",
+      "postnummer_format": "447 06",
       "postort": "NÖDINGE",
-      "kommun": "Ale"
+      "kommun": "Ale",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.046422,
+      "lat": 57.895554,
+      "geocode_source": "place"
     },
     {
       "postnummer": "44706",
+      "postnummer_format": "447 06",
       "postort": "VÅRGÅRDA",
-      "kommun": "Vårgårda"
+      "kommun": "Vårgårda",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.809942,
+      "lat": 58.032745,
+      "geocode_source": "place"
     },
     {
       "postnummer": "44709",
+      "postnummer_format": "447 09",
       "postort": "NÖDINGE",
-      "kommun": "Ale"
+      "kommun": "Ale",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.046422,
+      "lat": 57.895554,
+      "geocode_source": "place"
     },
     {
       "postnummer": "44709",
+      "postnummer_format": "447 09",
       "postort": "VÅRGÅRDA",
-      "kommun": "Vårgårda"
+      "kommun": "Vårgårda",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.809942,
+      "lat": 58.032745,
+      "geocode_source": "place"
     },
     {
       "postnummer": "44712",
+      "postnummer_format": "447 12",
       "postort": "NÖDINGE",
-      "kommun": "Ale"
+      "kommun": "Ale",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.046422,
+      "lat": 57.895554,
+      "geocode_source": "place"
     },
     {
       "postnummer": "44712",
+      "postnummer_format": "447 12",
       "postort": "VÅRGÅRDA",
-      "kommun": "Vårgårda"
+      "kommun": "Vårgårda",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.809942,
+      "lat": 58.032745,
+      "geocode_source": "place"
     },
     {
       "postnummer": "44715",
+      "postnummer_format": "447 15",
       "postort": "NÖDINGE",
-      "kommun": "Ale"
+      "kommun": "Ale",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.046422,
+      "lat": 57.895554,
+      "geocode_source": "place"
     },
     {
       "postnummer": "44715",
+      "postnummer_format": "447 15",
       "postort": "VÅRGÅRDA",
-      "kommun": "Vårgårda"
+      "kommun": "Vårgårda",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.809942,
+      "lat": 58.032745,
+      "geocode_source": "place"
     },
     {
       "postnummer": "44718",
+      "postnummer_format": "447 18",
       "postort": "NÖDINGE",
-      "kommun": "Ale"
+      "kommun": "Ale",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.046422,
+      "lat": 57.895554,
+      "geocode_source": "place"
     },
     {
       "postnummer": "44718",
+      "postnummer_format": "447 18",
       "postort": "VÅRGÅRDA",
-      "kommun": "Vårgårda"
+      "kommun": "Vårgårda",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.809942,
+      "lat": 58.032745,
+      "geocode_source": "place"
     },
     {
       "postnummer": "44721",
+      "postnummer_format": "447 21",
       "postort": "NÖDINGE",
-      "kommun": "Ale"
+      "kommun": "Ale",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.046422,
+      "lat": 57.895554,
+      "geocode_source": "place"
     },
     {
       "postnummer": "44721",
+      "postnummer_format": "447 21",
       "postort": "VÅRGÅRDA",
-      "kommun": "Vårgårda"
+      "kommun": "Vårgårda",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.809942,
+      "lat": 58.032745,
+      "geocode_source": "place"
     },
     {
       "postnummer": "44724",
+      "postnummer_format": "447 24",
       "postort": "NÖDINGE",
-      "kommun": "Ale"
+      "kommun": "Ale",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.046422,
+      "lat": 57.895554,
+      "geocode_source": "place"
     },
     {
       "postnummer": "44724",
+      "postnummer_format": "447 24",
       "postort": "VÅRGÅRDA",
-      "kommun": "Vårgårda"
+      "kommun": "Vårgårda",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.809942,
+      "lat": 58.032745,
+      "geocode_source": "place"
     },
     {
       "postnummer": "44803",
+      "postnummer_format": "448 03",
       "postort": "NÖDINGE",
-      "kommun": "Ale"
+      "kommun": "Ale",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.046422,
+      "lat": 57.895554,
+      "geocode_source": "place"
     },
     {
       "postnummer": "44806",
+      "postnummer_format": "448 06",
       "postort": "NÖDINGE",
-      "kommun": "Ale"
+      "kommun": "Ale",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.046422,
+      "lat": 57.895554,
+      "geocode_source": "place"
     },
     {
       "postnummer": "44809",
+      "postnummer_format": "448 09",
       "postort": "NÖDINGE",
-      "kommun": "Ale"
+      "kommun": "Ale",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.046422,
+      "lat": 57.895554,
+      "geocode_source": "place"
     },
     {
       "postnummer": "44812",
+      "postnummer_format": "448 12",
       "postort": "NÖDINGE",
-      "kommun": "Ale"
+      "kommun": "Ale",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.046422,
+      "lat": 57.895554,
+      "geocode_source": "place"
     },
     {
       "postnummer": "44815",
+      "postnummer_format": "448 15",
       "postort": "NÖDINGE",
-      "kommun": "Ale"
+      "kommun": "Ale",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.046422,
+      "lat": 57.895554,
+      "geocode_source": "place"
     },
     {
       "postnummer": "44818",
+      "postnummer_format": "448 18",
       "postort": "NÖDINGE",
-      "kommun": "Ale"
+      "kommun": "Ale",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.046422,
+      "lat": 57.895554,
+      "geocode_source": "place"
     },
     {
       "postnummer": "44821",
+      "postnummer_format": "448 21",
       "postort": "NÖDINGE",
-      "kommun": "Ale"
+      "kommun": "Ale",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.046422,
+      "lat": 57.895554,
+      "geocode_source": "place"
     },
     {
       "postnummer": "44824",
+      "postnummer_format": "448 24",
       "postort": "NÖDINGE",
-      "kommun": "Ale"
+      "kommun": "Ale",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.046422,
+      "lat": 57.895554,
+      "geocode_source": "place"
     },
     {
       "postnummer": "45103",
+      "postnummer_format": "451 03",
       "postort": "UDDEVALLA",
-      "kommun": "Uddevalla"
+      "kommun": "Uddevalla",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 11.935989,
+      "lat": 58.34948,
+      "geocode_source": "place"
     },
     {
       "postnummer": "45106",
+      "postnummer_format": "451 06",
       "postort": "UDDEVALLA",
-      "kommun": "Uddevalla"
+      "kommun": "Uddevalla",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 11.935989,
+      "lat": 58.34948,
+      "geocode_source": "place"
     },
     {
       "postnummer": "45109",
+      "postnummer_format": "451 09",
       "postort": "UDDEVALLA",
-      "kommun": "Uddevalla"
+      "kommun": "Uddevalla",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 11.935989,
+      "lat": 58.34948,
+      "geocode_source": "place"
     },
     {
       "postnummer": "45112",
+      "postnummer_format": "451 12",
       "postort": "UDDEVALLA",
-      "kommun": "Uddevalla"
+      "kommun": "Uddevalla",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 11.935989,
+      "lat": 58.34948,
+      "geocode_source": "place"
     },
     {
       "postnummer": "45115",
+      "postnummer_format": "451 15",
       "postort": "UDDEVALLA",
-      "kommun": "Uddevalla"
+      "kommun": "Uddevalla",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 11.935989,
+      "lat": 58.34948,
+      "geocode_source": "place"
     },
     {
       "postnummer": "45118",
+      "postnummer_format": "451 18",
       "postort": "UDDEVALLA",
-      "kommun": "Uddevalla"
+      "kommun": "Uddevalla",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 11.935989,
+      "lat": 58.34948,
+      "geocode_source": "place"
     },
     {
       "postnummer": "45121",
+      "postnummer_format": "451 21",
       "postort": "UDDEVALLA",
-      "kommun": "Uddevalla"
+      "kommun": "Uddevalla",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 11.935989,
+      "lat": 58.34948,
+      "geocode_source": "place"
     },
     {
       "postnummer": "45124",
+      "postnummer_format": "451 24",
       "postort": "UDDEVALLA",
-      "kommun": "Uddevalla"
+      "kommun": "Uddevalla",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 11.935989,
+      "lat": 58.34948,
+      "geocode_source": "place"
     },
     {
       "postnummer": "45203",
+      "postnummer_format": "452 03",
       "postort": "STRÖMSTAD",
-      "kommun": "Strömstad"
+      "kommun": "Strömstad",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 11.170617,
+      "lat": 58.93887,
+      "geocode_source": "place"
     },
     {
       "postnummer": "45206",
+      "postnummer_format": "452 06",
       "postort": "STRÖMSTAD",
-      "kommun": "Strömstad"
+      "kommun": "Strömstad",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 11.170617,
+      "lat": 58.93887,
+      "geocode_source": "place"
     },
     {
       "postnummer": "45209",
+      "postnummer_format": "452 09",
       "postort": "STRÖMSTAD",
-      "kommun": "Strömstad"
+      "kommun": "Strömstad",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 11.170617,
+      "lat": 58.93887,
+      "geocode_source": "place"
     },
     {
       "postnummer": "45212",
+      "postnummer_format": "452 12",
       "postort": "STRÖMSTAD",
-      "kommun": "Strömstad"
+      "kommun": "Strömstad",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 11.170617,
+      "lat": 58.93887,
+      "geocode_source": "place"
     },
     {
       "postnummer": "45215",
+      "postnummer_format": "452 15",
       "postort": "STRÖMSTAD",
-      "kommun": "Strömstad"
+      "kommun": "Strömstad",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 11.170617,
+      "lat": 58.93887,
+      "geocode_source": "place"
     },
     {
       "postnummer": "45218",
+      "postnummer_format": "452 18",
       "postort": "STRÖMSTAD",
-      "kommun": "Strömstad"
+      "kommun": "Strömstad",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 11.170617,
+      "lat": 58.93887,
+      "geocode_source": "place"
     },
     {
       "postnummer": "45221",
+      "postnummer_format": "452 21",
       "postort": "STRÖMSTAD",
-      "kommun": "Strömstad"
+      "kommun": "Strömstad",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 11.170617,
+      "lat": 58.93887,
+      "geocode_source": "place"
     },
     {
       "postnummer": "45224",
+      "postnummer_format": "452 24",
       "postort": "STRÖMSTAD",
-      "kommun": "Strömstad"
+      "kommun": "Strömstad",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 11.170617,
+      "lat": 58.93887,
+      "geocode_source": "place"
     },
     {
       "postnummer": "45303",
+      "postnummer_format": "453 03",
       "postort": "LYSEKIL",
-      "kommun": "Lysekil"
+      "kommun": "Lysekil",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 11.436917,
+      "lat": 58.272766,
+      "geocode_source": "place"
     },
     {
       "postnummer": "45306",
+      "postnummer_format": "453 06",
       "postort": "LYSEKIL",
-      "kommun": "Lysekil"
+      "kommun": "Lysekil",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 11.436917,
+      "lat": 58.272766,
+      "geocode_source": "place"
     },
     {
       "postnummer": "45309",
+      "postnummer_format": "453 09",
       "postort": "LYSEKIL",
-      "kommun": "Lysekil"
+      "kommun": "Lysekil",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 11.436917,
+      "lat": 58.272766,
+      "geocode_source": "place"
     },
     {
       "postnummer": "45312",
+      "postnummer_format": "453 12",
       "postort": "LYSEKIL",
-      "kommun": "Lysekil"
+      "kommun": "Lysekil",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 11.436917,
+      "lat": 58.272766,
+      "geocode_source": "place"
     },
     {
       "postnummer": "45315",
+      "postnummer_format": "453 15",
       "postort": "LYSEKIL",
-      "kommun": "Lysekil"
+      "kommun": "Lysekil",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 11.436917,
+      "lat": 58.272766,
+      "geocode_source": "place"
     },
     {
       "postnummer": "45318",
+      "postnummer_format": "453 18",
       "postort": "LYSEKIL",
-      "kommun": "Lysekil"
+      "kommun": "Lysekil",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 11.436917,
+      "lat": 58.272766,
+      "geocode_source": "place"
     },
     {
       "postnummer": "45321",
+      "postnummer_format": "453 21",
       "postort": "LYSEKIL",
-      "kommun": "Lysekil"
+      "kommun": "Lysekil",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 11.436917,
+      "lat": 58.272766,
+      "geocode_source": "place"
     },
     {
       "postnummer": "45324",
+      "postnummer_format": "453 24",
       "postort": "LYSEKIL",
-      "kommun": "Lysekil"
+      "kommun": "Lysekil",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 11.436917,
+      "lat": 58.272766,
+      "geocode_source": "place"
     },
     {
       "postnummer": "45503",
+      "postnummer_format": "455 03",
       "postort": "MUNKEDAL",
-      "kommun": "Munkedal"
+      "kommun": "Munkedal",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 11.67254,
+      "lat": 58.46596,
+      "geocode_source": "place"
     },
     {
       "postnummer": "45506",
+      "postnummer_format": "455 06",
       "postort": "MUNKEDAL",
-      "kommun": "Munkedal"
+      "kommun": "Munkedal",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 11.67254,
+      "lat": 58.46596,
+      "geocode_source": "place"
     },
     {
       "postnummer": "45509",
+      "postnummer_format": "455 09",
       "postort": "MUNKEDAL",
-      "kommun": "Munkedal"
+      "kommun": "Munkedal",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 11.67254,
+      "lat": 58.46596,
+      "geocode_source": "place"
     },
     {
       "postnummer": "45512",
+      "postnummer_format": "455 12",
       "postort": "MUNKEDAL",
-      "kommun": "Munkedal"
+      "kommun": "Munkedal",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 11.67254,
+      "lat": 58.46596,
+      "geocode_source": "place"
     },
     {
       "postnummer": "45515",
+      "postnummer_format": "455 15",
       "postort": "MUNKEDAL",
-      "kommun": "Munkedal"
+      "kommun": "Munkedal",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 11.67254,
+      "lat": 58.46596,
+      "geocode_source": "place"
     },
     {
       "postnummer": "45518",
+      "postnummer_format": "455 18",
       "postort": "MUNKEDAL",
-      "kommun": "Munkedal"
+      "kommun": "Munkedal",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 11.67254,
+      "lat": 58.46596,
+      "geocode_source": "place"
     },
     {
       "postnummer": "45521",
+      "postnummer_format": "455 21",
       "postort": "MUNKEDAL",
-      "kommun": "Munkedal"
+      "kommun": "Munkedal",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 11.67254,
+      "lat": 58.46596,
+      "geocode_source": "place"
     },
     {
       "postnummer": "45524",
+      "postnummer_format": "455 24",
       "postort": "MUNKEDAL",
-      "kommun": "Munkedal"
+      "kommun": "Munkedal",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 11.67254,
+      "lat": 58.46596,
+      "geocode_source": "place"
     },
     {
       "postnummer": "45603",
+      "postnummer_format": "456 03",
       "postort": "KUNGSHAMN",
-      "kommun": "Sotenäs"
+      "kommun": "Sotenäs",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 11.249678,
+      "lat": 58.361454,
+      "geocode_source": "place"
     },
     {
       "postnummer": "45606",
+      "postnummer_format": "456 06",
       "postort": "KUNGSHAMN",
-      "kommun": "Sotenäs"
+      "kommun": "Sotenäs",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 11.249678,
+      "lat": 58.361454,
+      "geocode_source": "place"
     },
     {
       "postnummer": "45609",
+      "postnummer_format": "456 09",
       "postort": "KUNGSHAMN",
-      "kommun": "Sotenäs"
+      "kommun": "Sotenäs",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 11.249678,
+      "lat": 58.361454,
+      "geocode_source": "place"
     },
     {
       "postnummer": "45612",
+      "postnummer_format": "456 12",
       "postort": "KUNGSHAMN",
-      "kommun": "Sotenäs"
+      "kommun": "Sotenäs",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 11.249678,
+      "lat": 58.361454,
+      "geocode_source": "place"
     },
     {
       "postnummer": "45615",
+      "postnummer_format": "456 15",
       "postort": "KUNGSHAMN",
-      "kommun": "Sotenäs"
+      "kommun": "Sotenäs",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 11.249678,
+      "lat": 58.361454,
+      "geocode_source": "place"
     },
     {
       "postnummer": "45618",
+      "postnummer_format": "456 18",
       "postort": "KUNGSHAMN",
-      "kommun": "Sotenäs"
+      "kommun": "Sotenäs",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 11.249678,
+      "lat": 58.361454,
+      "geocode_source": "place"
     },
     {
       "postnummer": "45621",
+      "postnummer_format": "456 21",
       "postort": "KUNGSHAMN",
-      "kommun": "Sotenäs"
+      "kommun": "Sotenäs",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 11.249678,
+      "lat": 58.361454,
+      "geocode_source": "place"
     },
     {
       "postnummer": "45624",
+      "postnummer_format": "456 24",
       "postort": "KUNGSHAMN",
-      "kommun": "Sotenäs"
+      "kommun": "Sotenäs",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 11.249678,
+      "lat": 58.361454,
+      "geocode_source": "place"
     },
     {
       "postnummer": "45703",
+      "postnummer_format": "457 03",
       "postort": "TANUMSHEDE",
-      "kommun": "Tanum"
+      "kommun": "Tanum",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 11.324503,
+      "lat": 58.724174,
+      "geocode_source": "place"
     },
     {
       "postnummer": "45706",
+      "postnummer_format": "457 06",
       "postort": "TANUMSHEDE",
-      "kommun": "Tanum"
+      "kommun": "Tanum",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 11.324503,
+      "lat": 58.724174,
+      "geocode_source": "place"
     },
     {
       "postnummer": "45709",
+      "postnummer_format": "457 09",
       "postort": "TANUMSHEDE",
-      "kommun": "Tanum"
+      "kommun": "Tanum",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 11.324503,
+      "lat": 58.724174,
+      "geocode_source": "place"
     },
     {
       "postnummer": "45712",
+      "postnummer_format": "457 12",
       "postort": "TANUMSHEDE",
-      "kommun": "Tanum"
+      "kommun": "Tanum",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 11.324503,
+      "lat": 58.724174,
+      "geocode_source": "place"
     },
     {
       "postnummer": "45715",
+      "postnummer_format": "457 15",
       "postort": "TANUMSHEDE",
-      "kommun": "Tanum"
+      "kommun": "Tanum",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 11.324503,
+      "lat": 58.724174,
+      "geocode_source": "place"
     },
     {
       "postnummer": "45718",
+      "postnummer_format": "457 18",
       "postort": "TANUMSHEDE",
-      "kommun": "Tanum"
+      "kommun": "Tanum",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 11.324503,
+      "lat": 58.724174,
+      "geocode_source": "place"
     },
     {
       "postnummer": "45721",
+      "postnummer_format": "457 21",
       "postort": "TANUMSHEDE",
-      "kommun": "Tanum"
+      "kommun": "Tanum",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 11.324503,
+      "lat": 58.724174,
+      "geocode_source": "place"
     },
     {
       "postnummer": "45724",
+      "postnummer_format": "457 24",
       "postort": "TANUMSHEDE",
-      "kommun": "Tanum"
+      "kommun": "Tanum",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 11.324503,
+      "lat": 58.724174,
+      "geocode_source": "place"
     },
     {
       "postnummer": "45803",
+      "postnummer_format": "458 03",
       "postort": "FÄRGELANDA",
-      "kommun": "Färgelanda"
+      "kommun": "Färgelanda",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 11.99674,
+      "lat": 58.56792,
+      "geocode_source": "place"
     },
     {
       "postnummer": "45806",
+      "postnummer_format": "458 06",
       "postort": "FÄRGELANDA",
-      "kommun": "Färgelanda"
+      "kommun": "Färgelanda",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 11.99674,
+      "lat": 58.56792,
+      "geocode_source": "place"
     },
     {
       "postnummer": "45809",
+      "postnummer_format": "458 09",
       "postort": "FÄRGELANDA",
-      "kommun": "Färgelanda"
+      "kommun": "Färgelanda",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 11.99674,
+      "lat": 58.56792,
+      "geocode_source": "place"
     },
     {
       "postnummer": "45812",
+      "postnummer_format": "458 12",
       "postort": "FÄRGELANDA",
-      "kommun": "Färgelanda"
+      "kommun": "Färgelanda",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 11.99674,
+      "lat": 58.56792,
+      "geocode_source": "place"
     },
     {
       "postnummer": "45815",
+      "postnummer_format": "458 15",
       "postort": "FÄRGELANDA",
-      "kommun": "Färgelanda"
+      "kommun": "Färgelanda",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 11.99674,
+      "lat": 58.56792,
+      "geocode_source": "place"
     },
     {
       "postnummer": "45818",
+      "postnummer_format": "458 18",
       "postort": "FÄRGELANDA",
-      "kommun": "Färgelanda"
+      "kommun": "Färgelanda",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 11.99674,
+      "lat": 58.56792,
+      "geocode_source": "place"
     },
     {
       "postnummer": "45821",
+      "postnummer_format": "458 21",
       "postort": "FÄRGELANDA",
-      "kommun": "Färgelanda"
+      "kommun": "Färgelanda",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 11.99674,
+      "lat": 58.56792,
+      "geocode_source": "place"
     },
     {
       "postnummer": "45824",
+      "postnummer_format": "458 24",
       "postort": "FÄRGELANDA",
-      "kommun": "Färgelanda"
+      "kommun": "Färgelanda",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 11.99674,
+      "lat": 58.56792,
+      "geocode_source": "place"
     },
     {
       "postnummer": "46103",
+      "postnummer_format": "461 03",
       "postort": "TROLLHÄTTAN",
-      "kommun": "Trollhättan"
+      "kommun": "Trollhättan",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.288765,
+      "lat": 58.28413,
+      "geocode_source": "place"
     },
     {
       "postnummer": "46106",
+      "postnummer_format": "461 06",
       "postort": "TROLLHÄTTAN",
-      "kommun": "Trollhättan"
+      "kommun": "Trollhättan",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.288765,
+      "lat": 58.28413,
+      "geocode_source": "place"
     },
     {
       "postnummer": "46109",
+      "postnummer_format": "461 09",
       "postort": "TROLLHÄTTAN",
-      "kommun": "Trollhättan"
+      "kommun": "Trollhättan",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.288765,
+      "lat": 58.28413,
+      "geocode_source": "place"
     },
     {
       "postnummer": "46112",
+      "postnummer_format": "461 12",
       "postort": "TROLLHÄTTAN",
-      "kommun": "Trollhättan"
+      "kommun": "Trollhättan",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.288765,
+      "lat": 58.28413,
+      "geocode_source": "place"
     },
     {
       "postnummer": "46115",
+      "postnummer_format": "461 15",
       "postort": "TROLLHÄTTAN",
-      "kommun": "Trollhättan"
+      "kommun": "Trollhättan",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.288765,
+      "lat": 58.28413,
+      "geocode_source": "place"
     },
     {
       "postnummer": "46118",
+      "postnummer_format": "461 18",
       "postort": "TROLLHÄTTAN",
-      "kommun": "Trollhättan"
+      "kommun": "Trollhättan",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.288765,
+      "lat": 58.28413,
+      "geocode_source": "place"
     },
     {
       "postnummer": "46121",
+      "postnummer_format": "461 21",
       "postort": "TROLLHÄTTAN",
-      "kommun": "Trollhättan"
+      "kommun": "Trollhättan",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.288765,
+      "lat": 58.28413,
+      "geocode_source": "place"
     },
     {
       "postnummer": "46124",
+      "postnummer_format": "461 24",
       "postort": "TROLLHÄTTAN",
-      "kommun": "Trollhättan"
+      "kommun": "Trollhättan",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.288765,
+      "lat": 58.28413,
+      "geocode_source": "place"
     },
     {
       "postnummer": "46203",
+      "postnummer_format": "462 03",
       "postort": "VÄNERSBORG",
-      "kommun": "Vänersborg"
+      "kommun": "Vänersborg",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.322512,
+      "lat": 58.37961,
+      "geocode_source": "place"
     },
     {
       "postnummer": "46206",
+      "postnummer_format": "462 06",
       "postort": "VÄNERSBORG",
-      "kommun": "Vänersborg"
+      "kommun": "Vänersborg",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.322512,
+      "lat": 58.37961,
+      "geocode_source": "place"
     },
     {
       "postnummer": "46209",
+      "postnummer_format": "462 09",
       "postort": "VÄNERSBORG",
-      "kommun": "Vänersborg"
+      "kommun": "Vänersborg",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.322512,
+      "lat": 58.37961,
+      "geocode_source": "place"
     },
     {
       "postnummer": "46212",
+      "postnummer_format": "462 12",
       "postort": "VÄNERSBORG",
-      "kommun": "Vänersborg"
+      "kommun": "Vänersborg",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.322512,
+      "lat": 58.37961,
+      "geocode_source": "place"
     },
     {
       "postnummer": "46215",
+      "postnummer_format": "462 15",
       "postort": "VÄNERSBORG",
-      "kommun": "Vänersborg"
+      "kommun": "Vänersborg",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.322512,
+      "lat": 58.37961,
+      "geocode_source": "place"
     },
     {
       "postnummer": "46218",
+      "postnummer_format": "462 18",
       "postort": "VÄNERSBORG",
-      "kommun": "Vänersborg"
+      "kommun": "Vänersborg",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.322512,
+      "lat": 58.37961,
+      "geocode_source": "place"
     },
     {
       "postnummer": "46221",
+      "postnummer_format": "462 21",
       "postort": "VÄNERSBORG",
-      "kommun": "Vänersborg"
+      "kommun": "Vänersborg",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.322512,
+      "lat": 58.37961,
+      "geocode_source": "place"
     },
     {
       "postnummer": "46224",
+      "postnummer_format": "462 24",
       "postort": "VÄNERSBORG",
-      "kommun": "Vänersborg"
+      "kommun": "Vänersborg",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.322512,
+      "lat": 58.37961,
+      "geocode_source": "place"
     },
     {
       "postnummer": "46303",
+      "postnummer_format": "463 03",
       "postort": "LILLA EDET",
-      "kommun": "Lilla Edet"
+      "kommun": "Lilla Edet",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.126931,
+      "lat": 58.13638,
+      "geocode_source": "place"
     },
     {
       "postnummer": "46306",
+      "postnummer_format": "463 06",
       "postort": "LILLA EDET",
-      "kommun": "Lilla Edet"
+      "kommun": "Lilla Edet",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.126931,
+      "lat": 58.13638,
+      "geocode_source": "place"
     },
     {
       "postnummer": "46309",
+      "postnummer_format": "463 09",
       "postort": "LILLA EDET",
-      "kommun": "Lilla Edet"
+      "kommun": "Lilla Edet",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.126931,
+      "lat": 58.13638,
+      "geocode_source": "place"
     },
     {
       "postnummer": "46312",
+      "postnummer_format": "463 12",
       "postort": "LILLA EDET",
-      "kommun": "Lilla Edet"
+      "kommun": "Lilla Edet",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.126931,
+      "lat": 58.13638,
+      "geocode_source": "place"
     },
     {
       "postnummer": "46315",
+      "postnummer_format": "463 15",
       "postort": "LILLA EDET",
-      "kommun": "Lilla Edet"
+      "kommun": "Lilla Edet",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.126931,
+      "lat": 58.13638,
+      "geocode_source": "place"
     },
     {
       "postnummer": "46318",
+      "postnummer_format": "463 18",
       "postort": "LILLA EDET",
-      "kommun": "Lilla Edet"
+      "kommun": "Lilla Edet",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.126931,
+      "lat": 58.13638,
+      "geocode_source": "place"
     },
     {
       "postnummer": "46321",
+      "postnummer_format": "463 21",
       "postort": "LILLA EDET",
-      "kommun": "Lilla Edet"
+      "kommun": "Lilla Edet",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.126931,
+      "lat": 58.13638,
+      "geocode_source": "place"
     },
     {
       "postnummer": "46324",
+      "postnummer_format": "463 24",
       "postort": "LILLA EDET",
-      "kommun": "Lilla Edet"
+      "kommun": "Lilla Edet",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.126931,
+      "lat": 58.13638,
+      "geocode_source": "place"
     },
     {
       "postnummer": "46403",
+      "postnummer_format": "464 03",
       "postort": "MELLERUD",
-      "kommun": "Mellerud"
+      "kommun": "Mellerud",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.453211,
+      "lat": 58.699787,
+      "geocode_source": "place"
     },
     {
       "postnummer": "46406",
+      "postnummer_format": "464 06",
       "postort": "MELLERUD",
-      "kommun": "Mellerud"
+      "kommun": "Mellerud",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.453211,
+      "lat": 58.699787,
+      "geocode_source": "place"
     },
     {
       "postnummer": "46409",
+      "postnummer_format": "464 09",
       "postort": "MELLERUD",
-      "kommun": "Mellerud"
+      "kommun": "Mellerud",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.453211,
+      "lat": 58.699787,
+      "geocode_source": "place"
     },
     {
       "postnummer": "46412",
+      "postnummer_format": "464 12",
       "postort": "MELLERUD",
-      "kommun": "Mellerud"
+      "kommun": "Mellerud",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.453211,
+      "lat": 58.699787,
+      "geocode_source": "place"
     },
     {
       "postnummer": "46415",
+      "postnummer_format": "464 15",
       "postort": "MELLERUD",
-      "kommun": "Mellerud"
+      "kommun": "Mellerud",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.453211,
+      "lat": 58.699787,
+      "geocode_source": "place"
     },
     {
       "postnummer": "46418",
+      "postnummer_format": "464 18",
       "postort": "MELLERUD",
-      "kommun": "Mellerud"
+      "kommun": "Mellerud",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.453211,
+      "lat": 58.699787,
+      "geocode_source": "place"
     },
     {
       "postnummer": "46421",
+      "postnummer_format": "464 21",
       "postort": "MELLERUD",
-      "kommun": "Mellerud"
+      "kommun": "Mellerud",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.453211,
+      "lat": 58.699787,
+      "geocode_source": "place"
     },
     {
       "postnummer": "46424",
+      "postnummer_format": "464 24",
       "postort": "MELLERUD",
-      "kommun": "Mellerud"
+      "kommun": "Mellerud",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.453211,
+      "lat": 58.699787,
+      "geocode_source": "place"
     },
     {
       "postnummer": "46503",
+      "postnummer_format": "465 03",
       "postort": "NOSSEBRO",
-      "kommun": "Essunga"
+      "kommun": "Essunga",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.719836,
+      "lat": 58.18895,
+      "geocode_source": "place"
     },
     {
       "postnummer": "46506",
+      "postnummer_format": "465 06",
       "postort": "NOSSEBRO",
-      "kommun": "Essunga"
+      "kommun": "Essunga",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.719836,
+      "lat": 58.18895,
+      "geocode_source": "place"
     },
     {
       "postnummer": "46509",
+      "postnummer_format": "465 09",
       "postort": "NOSSEBRO",
-      "kommun": "Essunga"
+      "kommun": "Essunga",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.719836,
+      "lat": 58.18895,
+      "geocode_source": "place"
     },
     {
       "postnummer": "46512",
+      "postnummer_format": "465 12",
       "postort": "NOSSEBRO",
-      "kommun": "Essunga"
+      "kommun": "Essunga",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.719836,
+      "lat": 58.18895,
+      "geocode_source": "place"
     },
     {
       "postnummer": "46515",
+      "postnummer_format": "465 15",
       "postort": "NOSSEBRO",
-      "kommun": "Essunga"
+      "kommun": "Essunga",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.719836,
+      "lat": 58.18895,
+      "geocode_source": "place"
     },
     {
       "postnummer": "46518",
+      "postnummer_format": "465 18",
       "postort": "NOSSEBRO",
-      "kommun": "Essunga"
+      "kommun": "Essunga",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.719836,
+      "lat": 58.18895,
+      "geocode_source": "place"
     },
     {
       "postnummer": "46521",
+      "postnummer_format": "465 21",
       "postort": "NOSSEBRO",
-      "kommun": "Essunga"
+      "kommun": "Essunga",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.719836,
+      "lat": 58.18895,
+      "geocode_source": "place"
     },
     {
       "postnummer": "46524",
+      "postnummer_format": "465 24",
       "postort": "NOSSEBRO",
-      "kommun": "Essunga"
+      "kommun": "Essunga",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.719836,
+      "lat": 58.18895,
+      "geocode_source": "place"
     },
     {
       "postnummer": "46703",
+      "postnummer_format": "467 03",
       "postort": "GRÄSTORP MED OMNEJD",
-      "kommun": "Grästorp"
+      "kommun": "Grästorp",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.680656,
+      "lat": 58.33326,
+      "geocode_source": "place"
     },
     {
       "postnummer": "46706",
+      "postnummer_format": "467 06",
       "postort": "GRÄSTORP MED OMNEJD",
-      "kommun": "Grästorp"
+      "kommun": "Grästorp",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.680656,
+      "lat": 58.33326,
+      "geocode_source": "place"
     },
     {
       "postnummer": "46709",
+      "postnummer_format": "467 09",
       "postort": "GRÄSTORP MED OMNEJD",
-      "kommun": "Grästorp"
+      "kommun": "Grästorp",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.680656,
+      "lat": 58.33326,
+      "geocode_source": "place"
     },
     {
       "postnummer": "46712",
+      "postnummer_format": "467 12",
       "postort": "GRÄSTORP MED OMNEJD",
-      "kommun": "Grästorp"
+      "kommun": "Grästorp",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.680656,
+      "lat": 58.33326,
+      "geocode_source": "place"
     },
     {
       "postnummer": "46715",
+      "postnummer_format": "467 15",
       "postort": "GRÄSTORP MED OMNEJD",
-      "kommun": "Grästorp"
+      "kommun": "Grästorp",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.680656,
+      "lat": 58.33326,
+      "geocode_source": "place"
     },
     {
       "postnummer": "46718",
+      "postnummer_format": "467 18",
       "postort": "GRÄSTORP MED OMNEJD",
-      "kommun": "Grästorp"
+      "kommun": "Grästorp",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.680656,
+      "lat": 58.33326,
+      "geocode_source": "place"
     },
     {
       "postnummer": "46721",
+      "postnummer_format": "467 21",
       "postort": "GRÄSTORP MED OMNEJD",
-      "kommun": "Grästorp"
+      "kommun": "Grästorp",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.680656,
+      "lat": 58.33326,
+      "geocode_source": "place"
     },
     {
       "postnummer": "46724",
+      "postnummer_format": "467 24",
       "postort": "GRÄSTORP MED OMNEJD",
-      "kommun": "Grästorp"
+      "kommun": "Grästorp",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.680656,
+      "lat": 58.33326,
+      "geocode_source": "place"
     },
     {
       "postnummer": "47103",
+      "postnummer_format": "471 03",
       "postort": "SKÄRHAMN",
-      "kommun": "Tjörn"
+      "kommun": "Tjörn",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 11.548794,
+      "lat": 57.990673,
+      "geocode_source": "place"
     },
     {
       "postnummer": "47106",
+      "postnummer_format": "471 06",
       "postort": "SKÄRHAMN",
-      "kommun": "Tjörn"
+      "kommun": "Tjörn",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 11.548794,
+      "lat": 57.990673,
+      "geocode_source": "place"
     },
     {
       "postnummer": "47109",
+      "postnummer_format": "471 09",
       "postort": "SKÄRHAMN",
-      "kommun": "Tjörn"
+      "kommun": "Tjörn",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 11.548794,
+      "lat": 57.990673,
+      "geocode_source": "place"
     },
     {
       "postnummer": "47112",
+      "postnummer_format": "471 12",
       "postort": "SKÄRHAMN",
-      "kommun": "Tjörn"
+      "kommun": "Tjörn",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 11.548794,
+      "lat": 57.990673,
+      "geocode_source": "place"
     },
     {
       "postnummer": "47115",
+      "postnummer_format": "471 15",
       "postort": "SKÄRHAMN",
-      "kommun": "Tjörn"
+      "kommun": "Tjörn",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 11.548794,
+      "lat": 57.990673,
+      "geocode_source": "place"
     },
     {
       "postnummer": "47118",
+      "postnummer_format": "471 18",
       "postort": "SKÄRHAMN",
-      "kommun": "Tjörn"
+      "kommun": "Tjörn",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 11.548794,
+      "lat": 57.990673,
+      "geocode_source": "place"
     },
     {
       "postnummer": "47121",
+      "postnummer_format": "471 21",
       "postort": "SKÄRHAMN",
-      "kommun": "Tjörn"
+      "kommun": "Tjörn",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 11.548794,
+      "lat": 57.990673,
+      "geocode_source": "place"
     },
     {
       "postnummer": "47124",
+      "postnummer_format": "471 24",
       "postort": "SKÄRHAMN",
-      "kommun": "Tjörn"
+      "kommun": "Tjörn",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 11.548794,
+      "lat": 57.990673,
+      "geocode_source": "place"
     },
     {
       "postnummer": "47203",
+      "postnummer_format": "472 03",
       "postort": "HENÅN",
-      "kommun": "Orust"
+      "kommun": "Orust",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 11.678153,
+      "lat": 58.237083,
+      "geocode_source": "place"
     },
     {
       "postnummer": "47206",
+      "postnummer_format": "472 06",
       "postort": "HENÅN",
-      "kommun": "Orust"
+      "kommun": "Orust",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 11.678153,
+      "lat": 58.237083,
+      "geocode_source": "place"
     },
     {
       "postnummer": "47209",
+      "postnummer_format": "472 09",
       "postort": "HENÅN",
-      "kommun": "Orust"
+      "kommun": "Orust",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 11.678153,
+      "lat": 58.237083,
+      "geocode_source": "place"
     },
     {
       "postnummer": "47212",
+      "postnummer_format": "472 12",
       "postort": "HENÅN",
-      "kommun": "Orust"
+      "kommun": "Orust",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 11.678153,
+      "lat": 58.237083,
+      "geocode_source": "place"
     },
     {
       "postnummer": "47215",
+      "postnummer_format": "472 15",
       "postort": "HENÅN",
-      "kommun": "Orust"
+      "kommun": "Orust",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 11.678153,
+      "lat": 58.237083,
+      "geocode_source": "place"
     },
     {
       "postnummer": "47218",
+      "postnummer_format": "472 18",
       "postort": "HENÅN",
-      "kommun": "Orust"
+      "kommun": "Orust",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 11.678153,
+      "lat": 58.237083,
+      "geocode_source": "place"
     },
     {
       "postnummer": "47221",
+      "postnummer_format": "472 21",
       "postort": "HENÅN",
-      "kommun": "Orust"
+      "kommun": "Orust",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 11.678153,
+      "lat": 58.237083,
+      "geocode_source": "place"
     },
     {
       "postnummer": "47224",
+      "postnummer_format": "472 24",
       "postort": "HENÅN",
-      "kommun": "Orust"
+      "kommun": "Orust",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 11.678153,
+      "lat": 58.237083,
+      "geocode_source": "place"
     },
     {
       "postnummer": "47303",
+      "postnummer_format": "473 03",
       "postort": "HENÅN",
-      "kommun": "Orust"
+      "kommun": "Orust",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 11.678153,
+      "lat": 58.237083,
+      "geocode_source": "place"
     },
     {
       "postnummer": "47306",
+      "postnummer_format": "473 06",
       "postort": "HENÅN",
-      "kommun": "Orust"
+      "kommun": "Orust",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 11.678153,
+      "lat": 58.237083,
+      "geocode_source": "place"
     },
     {
       "postnummer": "47309",
+      "postnummer_format": "473 09",
       "postort": "HENÅN",
-      "kommun": "Orust"
+      "kommun": "Orust",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 11.678153,
+      "lat": 58.237083,
+      "geocode_source": "place"
     },
     {
       "postnummer": "47312",
+      "postnummer_format": "473 12",
       "postort": "HENÅN",
-      "kommun": "Orust"
+      "kommun": "Orust",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 11.678153,
+      "lat": 58.237083,
+      "geocode_source": "place"
     },
     {
       "postnummer": "47315",
+      "postnummer_format": "473 15",
       "postort": "HENÅN",
-      "kommun": "Orust"
+      "kommun": "Orust",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 11.678153,
+      "lat": 58.237083,
+      "geocode_source": "place"
     },
     {
       "postnummer": "47318",
+      "postnummer_format": "473 18",
       "postort": "HENÅN",
-      "kommun": "Orust"
+      "kommun": "Orust",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 11.678153,
+      "lat": 58.237083,
+      "geocode_source": "place"
     },
     {
       "postnummer": "47321",
+      "postnummer_format": "473 21",
       "postort": "HENÅN",
-      "kommun": "Orust"
+      "kommun": "Orust",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 11.678153,
+      "lat": 58.237083,
+      "geocode_source": "place"
     },
     {
       "postnummer": "47324",
+      "postnummer_format": "473 24",
       "postort": "HENÅN",
-      "kommun": "Orust"
+      "kommun": "Orust",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 11.678153,
+      "lat": 58.237083,
+      "geocode_source": "place"
     },
     {
       "postnummer": "47403",
+      "postnummer_format": "474 03",
       "postort": "HENÅN",
-      "kommun": "Orust"
+      "kommun": "Orust",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 11.678153,
+      "lat": 58.237083,
+      "geocode_source": "place"
     },
     {
       "postnummer": "47406",
+      "postnummer_format": "474 06",
       "postort": "HENÅN",
-      "kommun": "Orust"
+      "kommun": "Orust",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 11.678153,
+      "lat": 58.237083,
+      "geocode_source": "place"
     },
     {
       "postnummer": "47409",
+      "postnummer_format": "474 09",
       "postort": "HENÅN",
-      "kommun": "Orust"
+      "kommun": "Orust",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 11.678153,
+      "lat": 58.237083,
+      "geocode_source": "place"
     },
     {
       "postnummer": "47412",
+      "postnummer_format": "474 12",
       "postort": "HENÅN",
-      "kommun": "Orust"
+      "kommun": "Orust",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 11.678153,
+      "lat": 58.237083,
+      "geocode_source": "place"
     },
     {
       "postnummer": "47415",
+      "postnummer_format": "474 15",
       "postort": "HENÅN",
-      "kommun": "Orust"
+      "kommun": "Orust",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 11.678153,
+      "lat": 58.237083,
+      "geocode_source": "place"
     },
     {
       "postnummer": "47418",
+      "postnummer_format": "474 18",
       "postort": "HENÅN",
-      "kommun": "Orust"
+      "kommun": "Orust",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 11.678153,
+      "lat": 58.237083,
+      "geocode_source": "place"
     },
     {
       "postnummer": "47421",
+      "postnummer_format": "474 21",
       "postort": "HENÅN",
-      "kommun": "Orust"
+      "kommun": "Orust",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 11.678153,
+      "lat": 58.237083,
+      "geocode_source": "place"
     },
     {
       "postnummer": "47424",
+      "postnummer_format": "474 24",
       "postort": "HENÅN",
-      "kommun": "Orust"
+      "kommun": "Orust",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 11.678153,
+      "lat": 58.237083,
+      "geocode_source": "place"
     },
     {
       "postnummer": "50303",
+      "postnummer_format": "503 03",
       "postort": "BORÅS",
-      "kommun": "Borås"
+      "kommun": "Borås",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.941121,
+      "lat": 57.72094,
+      "geocode_source": "place"
     },
     {
       "postnummer": "50306",
+      "postnummer_format": "503 06",
       "postort": "BORÅS",
-      "kommun": "Borås"
+      "kommun": "Borås",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.941121,
+      "lat": 57.72094,
+      "geocode_source": "place"
     },
     {
       "postnummer": "50309",
+      "postnummer_format": "503 09",
       "postort": "BORÅS",
-      "kommun": "Borås"
+      "kommun": "Borås",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.941121,
+      "lat": 57.72094,
+      "geocode_source": "place"
     },
     {
       "postnummer": "50312",
+      "postnummer_format": "503 12",
       "postort": "BORÅS",
-      "kommun": "Borås"
+      "kommun": "Borås",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.941121,
+      "lat": 57.72094,
+      "geocode_source": "place"
     },
     {
       "postnummer": "50315",
+      "postnummer_format": "503 15",
       "postort": "BORÅS",
-      "kommun": "Borås"
+      "kommun": "Borås",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.941121,
+      "lat": 57.72094,
+      "geocode_source": "place"
     },
     {
       "postnummer": "50318",
+      "postnummer_format": "503 18",
       "postort": "BORÅS",
-      "kommun": "Borås"
+      "kommun": "Borås",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.941121,
+      "lat": 57.72094,
+      "geocode_source": "place"
     },
     {
       "postnummer": "50321",
+      "postnummer_format": "503 21",
       "postort": "BORÅS",
-      "kommun": "Borås"
+      "kommun": "Borås",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.941121,
+      "lat": 57.72094,
+      "geocode_source": "place"
     },
     {
       "postnummer": "50324",
+      "postnummer_format": "503 24",
       "postort": "BORÅS",
-      "kommun": "Borås"
+      "kommun": "Borås",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.941121,
+      "lat": 57.72094,
+      "geocode_source": "place"
     },
     {
       "postnummer": "50403",
+      "postnummer_format": "504 03",
       "postort": "BORÅS",
-      "kommun": "Borås"
+      "kommun": "Borås",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.941121,
+      "lat": 57.72094,
+      "geocode_source": "place"
     },
     {
       "postnummer": "50406",
+      "postnummer_format": "504 06",
       "postort": "BORÅS",
-      "kommun": "Borås"
+      "kommun": "Borås",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.941121,
+      "lat": 57.72094,
+      "geocode_source": "place"
     },
     {
       "postnummer": "50409",
+      "postnummer_format": "504 09",
       "postort": "BORÅS",
-      "kommun": "Borås"
+      "kommun": "Borås",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.941121,
+      "lat": 57.72094,
+      "geocode_source": "place"
     },
     {
       "postnummer": "50412",
+      "postnummer_format": "504 12",
       "postort": "BORÅS",
-      "kommun": "Borås"
+      "kommun": "Borås",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.941121,
+      "lat": 57.72094,
+      "geocode_source": "place"
     },
     {
       "postnummer": "50415",
+      "postnummer_format": "504 15",
       "postort": "BORÅS",
-      "kommun": "Borås"
+      "kommun": "Borås",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.941121,
+      "lat": 57.72094,
+      "geocode_source": "place"
     },
     {
       "postnummer": "50418",
+      "postnummer_format": "504 18",
       "postort": "BORÅS",
-      "kommun": "Borås"
+      "kommun": "Borås",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.941121,
+      "lat": 57.72094,
+      "geocode_source": "place"
     },
     {
       "postnummer": "50421",
+      "postnummer_format": "504 21",
       "postort": "BORÅS",
-      "kommun": "Borås"
+      "kommun": "Borås",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.941121,
+      "lat": 57.72094,
+      "geocode_source": "place"
     },
     {
       "postnummer": "50424",
+      "postnummer_format": "504 24",
       "postort": "BORÅS",
-      "kommun": "Borås"
+      "kommun": "Borås",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.941121,
+      "lat": 57.72094,
+      "geocode_source": "place"
     },
     {
       "postnummer": "50503",
+      "postnummer_format": "505 03",
       "postort": "BORÅS",
-      "kommun": "Borås"
+      "kommun": "Borås",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.941121,
+      "lat": 57.72094,
+      "geocode_source": "place"
     },
     {
       "postnummer": "50506",
+      "postnummer_format": "505 06",
       "postort": "BORÅS",
-      "kommun": "Borås"
+      "kommun": "Borås",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.941121,
+      "lat": 57.72094,
+      "geocode_source": "place"
     },
     {
       "postnummer": "50509",
+      "postnummer_format": "505 09",
       "postort": "BORÅS",
-      "kommun": "Borås"
+      "kommun": "Borås",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.941121,
+      "lat": 57.72094,
+      "geocode_source": "place"
     },
     {
       "postnummer": "50512",
+      "postnummer_format": "505 12",
       "postort": "BORÅS",
-      "kommun": "Borås"
+      "kommun": "Borås",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.941121,
+      "lat": 57.72094,
+      "geocode_source": "place"
     },
     {
       "postnummer": "50515",
+      "postnummer_format": "505 15",
       "postort": "BORÅS",
-      "kommun": "Borås"
+      "kommun": "Borås",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.941121,
+      "lat": 57.72094,
+      "geocode_source": "place"
     },
     {
       "postnummer": "50518",
+      "postnummer_format": "505 18",
       "postort": "BORÅS",
-      "kommun": "Borås"
+      "kommun": "Borås",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.941121,
+      "lat": 57.72094,
+      "geocode_source": "place"
     },
     {
       "postnummer": "50521",
+      "postnummer_format": "505 21",
       "postort": "BORÅS",
-      "kommun": "Borås"
+      "kommun": "Borås",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.941121,
+      "lat": 57.72094,
+      "geocode_source": "place"
     },
     {
       "postnummer": "50524",
+      "postnummer_format": "505 24",
       "postort": "BORÅS",
-      "kommun": "Borås"
+      "kommun": "Borås",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.941121,
+      "lat": 57.72094,
+      "geocode_source": "place"
     },
     {
       "postnummer": "51103",
+      "postnummer_format": "511 03",
       "postort": "KINNA",
-      "kommun": "Mark"
+      "kommun": "Mark",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.695019,
+      "lat": 57.507565,
+      "geocode_source": "place"
     },
     {
       "postnummer": "51106",
+      "postnummer_format": "511 06",
       "postort": "KINNA",
-      "kommun": "Mark"
+      "kommun": "Mark",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.695019,
+      "lat": 57.507565,
+      "geocode_source": "place"
     },
     {
       "postnummer": "51109",
+      "postnummer_format": "511 09",
       "postort": "KINNA",
-      "kommun": "Mark"
+      "kommun": "Mark",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.695019,
+      "lat": 57.507565,
+      "geocode_source": "place"
     },
     {
       "postnummer": "51112",
+      "postnummer_format": "511 12",
       "postort": "KINNA",
-      "kommun": "Mark"
+      "kommun": "Mark",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.695019,
+      "lat": 57.507565,
+      "geocode_source": "place"
     },
     {
       "postnummer": "51115",
+      "postnummer_format": "511 15",
       "postort": "KINNA",
-      "kommun": "Mark"
+      "kommun": "Mark",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.695019,
+      "lat": 57.507565,
+      "geocode_source": "place"
     },
     {
       "postnummer": "51118",
+      "postnummer_format": "511 18",
       "postort": "KINNA",
-      "kommun": "Mark"
+      "kommun": "Mark",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.695019,
+      "lat": 57.507565,
+      "geocode_source": "place"
     },
     {
       "postnummer": "51121",
+      "postnummer_format": "511 21",
       "postort": "KINNA",
-      "kommun": "Mark"
+      "kommun": "Mark",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.695019,
+      "lat": 57.507565,
+      "geocode_source": "place"
     },
     {
       "postnummer": "51124",
+      "postnummer_format": "511 24",
       "postort": "KINNA",
-      "kommun": "Mark"
+      "kommun": "Mark",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.695019,
+      "lat": 57.507565,
+      "geocode_source": "place"
     },
     {
       "postnummer": "51203",
+      "postnummer_format": "512 03",
       "postort": "KINNA",
-      "kommun": "Mark"
+      "kommun": "Mark",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.695019,
+      "lat": 57.507565,
+      "geocode_source": "place"
     },
     {
       "postnummer": "51203",
+      "postnummer_format": "512 03",
       "postort": "SVENLJUNGA",
-      "kommun": "Svenljunga"
+      "kommun": "Svenljunga",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 13.110835,
+      "lat": 57.4966,
+      "geocode_source": "place"
     },
     {
       "postnummer": "51206",
+      "postnummer_format": "512 06",
       "postort": "KINNA",
-      "kommun": "Mark"
+      "kommun": "Mark",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.695019,
+      "lat": 57.507565,
+      "geocode_source": "place"
     },
     {
       "postnummer": "51206",
+      "postnummer_format": "512 06",
       "postort": "SVENLJUNGA",
-      "kommun": "Svenljunga"
+      "kommun": "Svenljunga",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 13.110835,
+      "lat": 57.4966,
+      "geocode_source": "place"
     },
     {
       "postnummer": "51209",
+      "postnummer_format": "512 09",
       "postort": "KINNA",
-      "kommun": "Mark"
+      "kommun": "Mark",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.695019,
+      "lat": 57.507565,
+      "geocode_source": "place"
     },
     {
       "postnummer": "51209",
+      "postnummer_format": "512 09",
       "postort": "SVENLJUNGA",
-      "kommun": "Svenljunga"
+      "kommun": "Svenljunga",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 13.110835,
+      "lat": 57.4966,
+      "geocode_source": "place"
     },
     {
       "postnummer": "51212",
+      "postnummer_format": "512 12",
       "postort": "KINNA",
-      "kommun": "Mark"
+      "kommun": "Mark",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.695019,
+      "lat": 57.507565,
+      "geocode_source": "place"
     },
     {
       "postnummer": "51212",
+      "postnummer_format": "512 12",
       "postort": "SVENLJUNGA",
-      "kommun": "Svenljunga"
+      "kommun": "Svenljunga",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 13.110835,
+      "lat": 57.4966,
+      "geocode_source": "place"
     },
     {
       "postnummer": "51215",
+      "postnummer_format": "512 15",
       "postort": "KINNA",
-      "kommun": "Mark"
+      "kommun": "Mark",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.695019,
+      "lat": 57.507565,
+      "geocode_source": "place"
     },
     {
       "postnummer": "51215",
+      "postnummer_format": "512 15",
       "postort": "SVENLJUNGA",
-      "kommun": "Svenljunga"
+      "kommun": "Svenljunga",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 13.110835,
+      "lat": 57.4966,
+      "geocode_source": "place"
     },
     {
       "postnummer": "51218",
+      "postnummer_format": "512 18",
       "postort": "KINNA",
-      "kommun": "Mark"
+      "kommun": "Mark",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.695019,
+      "lat": 57.507565,
+      "geocode_source": "place"
     },
     {
       "postnummer": "51218",
+      "postnummer_format": "512 18",
       "postort": "SVENLJUNGA",
-      "kommun": "Svenljunga"
+      "kommun": "Svenljunga",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 13.110835,
+      "lat": 57.4966,
+      "geocode_source": "place"
     },
     {
       "postnummer": "51221",
+      "postnummer_format": "512 21",
       "postort": "KINNA",
-      "kommun": "Mark"
+      "kommun": "Mark",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.695019,
+      "lat": 57.507565,
+      "geocode_source": "place"
     },
     {
       "postnummer": "51221",
+      "postnummer_format": "512 21",
       "postort": "SVENLJUNGA",
-      "kommun": "Svenljunga"
+      "kommun": "Svenljunga",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 13.110835,
+      "lat": 57.4966,
+      "geocode_source": "place"
     },
     {
       "postnummer": "51224",
+      "postnummer_format": "512 24",
       "postort": "KINNA",
-      "kommun": "Mark"
+      "kommun": "Mark",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.695019,
+      "lat": 57.507565,
+      "geocode_source": "place"
     },
     {
       "postnummer": "51224",
+      "postnummer_format": "512 24",
       "postort": "SVENLJUNGA",
-      "kommun": "Svenljunga"
+      "kommun": "Svenljunga",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 13.110835,
+      "lat": 57.4966,
+      "geocode_source": "place"
     },
     {
       "postnummer": "51403",
+      "postnummer_format": "514 03",
       "postort": "TRANEMO",
-      "kommun": "Tranemo"
+      "kommun": "Tranemo",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 13.351723,
+      "lat": 57.485603,
+      "geocode_source": "place"
     },
     {
       "postnummer": "51406",
+      "postnummer_format": "514 06",
       "postort": "TRANEMO",
-      "kommun": "Tranemo"
+      "kommun": "Tranemo",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 13.351723,
+      "lat": 57.485603,
+      "geocode_source": "place"
     },
     {
       "postnummer": "51409",
+      "postnummer_format": "514 09",
       "postort": "TRANEMO",
-      "kommun": "Tranemo"
+      "kommun": "Tranemo",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 13.351723,
+      "lat": 57.485603,
+      "geocode_source": "place"
     },
     {
       "postnummer": "51412",
+      "postnummer_format": "514 12",
       "postort": "TRANEMO",
-      "kommun": "Tranemo"
+      "kommun": "Tranemo",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 13.351723,
+      "lat": 57.485603,
+      "geocode_source": "place"
     },
     {
       "postnummer": "51415",
+      "postnummer_format": "514 15",
       "postort": "TRANEMO",
-      "kommun": "Tranemo"
+      "kommun": "Tranemo",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 13.351723,
+      "lat": 57.485603,
+      "geocode_source": "place"
     },
     {
       "postnummer": "51418",
+      "postnummer_format": "514 18",
       "postort": "TRANEMO",
-      "kommun": "Tranemo"
+      "kommun": "Tranemo",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 13.351723,
+      "lat": 57.485603,
+      "geocode_source": "place"
     },
     {
       "postnummer": "51421",
+      "postnummer_format": "514 21",
       "postort": "TRANEMO",
-      "kommun": "Tranemo"
+      "kommun": "Tranemo",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 13.351723,
+      "lat": 57.485603,
+      "geocode_source": "place"
     },
     {
       "postnummer": "51424",
+      "postnummer_format": "514 24",
       "postort": "TRANEMO",
-      "kommun": "Tranemo"
+      "kommun": "Tranemo",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 13.351723,
+      "lat": 57.485603,
+      "geocode_source": "place"
     },
     {
       "postnummer": "51703",
+      "postnummer_format": "517 03",
       "postort": "BOLLEBYGD",
-      "kommun": "Bollebygd"
+      "kommun": "Bollebygd",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.570123,
+      "lat": 57.66875,
+      "geocode_source": "place"
     },
     {
       "postnummer": "51706",
+      "postnummer_format": "517 06",
       "postort": "BOLLEBYGD",
-      "kommun": "Bollebygd"
+      "kommun": "Bollebygd",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.570123,
+      "lat": 57.66875,
+      "geocode_source": "place"
     },
     {
       "postnummer": "51709",
+      "postnummer_format": "517 09",
       "postort": "BOLLEBYGD",
-      "kommun": "Bollebygd"
+      "kommun": "Bollebygd",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.570123,
+      "lat": 57.66875,
+      "geocode_source": "place"
     },
     {
       "postnummer": "51712",
+      "postnummer_format": "517 12",
       "postort": "BOLLEBYGD",
-      "kommun": "Bollebygd"
+      "kommun": "Bollebygd",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.570123,
+      "lat": 57.66875,
+      "geocode_source": "place"
     },
     {
       "postnummer": "51715",
+      "postnummer_format": "517 15",
       "postort": "BOLLEBYGD",
-      "kommun": "Bollebygd"
+      "kommun": "Bollebygd",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.570123,
+      "lat": 57.66875,
+      "geocode_source": "place"
     },
     {
       "postnummer": "51718",
+      "postnummer_format": "517 18",
       "postort": "BOLLEBYGD",
-      "kommun": "Bollebygd"
+      "kommun": "Bollebygd",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.570123,
+      "lat": 57.66875,
+      "geocode_source": "place"
     },
     {
       "postnummer": "51721",
+      "postnummer_format": "517 21",
       "postort": "BOLLEBYGD",
-      "kommun": "Bollebygd"
+      "kommun": "Bollebygd",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.570123,
+      "lat": 57.66875,
+      "geocode_source": "place"
     },
     {
       "postnummer": "51724",
+      "postnummer_format": "517 24",
       "postort": "BOLLEBYGD",
-      "kommun": "Bollebygd"
+      "kommun": "Bollebygd",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.570123,
+      "lat": 57.66875,
+      "geocode_source": "place"
     },
     {
       "postnummer": "52103",
+      "postnummer_format": "521 03",
       "postort": "FALKÖPING",
-      "kommun": "Falköping"
+      "kommun": "Falköping",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 13.552829,
+      "lat": 58.16942,
+      "geocode_source": "place"
     },
     {
       "postnummer": "52106",
+      "postnummer_format": "521 06",
       "postort": "FALKÖPING",
-      "kommun": "Falköping"
+      "kommun": "Falköping",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 13.552829,
+      "lat": 58.16942,
+      "geocode_source": "place"
     },
     {
       "postnummer": "52109",
+      "postnummer_format": "521 09",
       "postort": "FALKÖPING",
-      "kommun": "Falköping"
+      "kommun": "Falköping",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 13.552829,
+      "lat": 58.16942,
+      "geocode_source": "place"
     },
     {
       "postnummer": "52112",
+      "postnummer_format": "521 12",
       "postort": "FALKÖPING",
-      "kommun": "Falköping"
+      "kommun": "Falköping",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 13.552829,
+      "lat": 58.16942,
+      "geocode_source": "place"
     },
     {
       "postnummer": "52115",
+      "postnummer_format": "521 15",
       "postort": "FALKÖPING",
-      "kommun": "Falköping"
+      "kommun": "Falköping",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 13.552829,
+      "lat": 58.16942,
+      "geocode_source": "place"
     },
     {
       "postnummer": "52118",
+      "postnummer_format": "521 18",
       "postort": "FALKÖPING",
-      "kommun": "Falköping"
+      "kommun": "Falköping",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 13.552829,
+      "lat": 58.16942,
+      "geocode_source": "place"
     },
     {
       "postnummer": "52121",
+      "postnummer_format": "521 21",
       "postort": "FALKÖPING",
-      "kommun": "Falköping"
+      "kommun": "Falköping",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 13.552829,
+      "lat": 58.16942,
+      "geocode_source": "place"
     },
     {
       "postnummer": "52124",
+      "postnummer_format": "521 24",
       "postort": "FALKÖPING",
-      "kommun": "Falköping"
+      "kommun": "Falköping",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 13.552829,
+      "lat": 58.16942,
+      "geocode_source": "place"
     },
     {
       "postnummer": "52203",
+      "postnummer_format": "522 03",
       "postort": "TIDAHOLM",
-      "kommun": "Tidaholm"
+      "kommun": "Tidaholm",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 13.958195,
+      "lat": 58.180714,
+      "geocode_source": "place"
     },
     {
       "postnummer": "52206",
+      "postnummer_format": "522 06",
       "postort": "TIDAHOLM",
-      "kommun": "Tidaholm"
+      "kommun": "Tidaholm",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 13.958195,
+      "lat": 58.180714,
+      "geocode_source": "place"
     },
     {
       "postnummer": "52209",
+      "postnummer_format": "522 09",
       "postort": "TIDAHOLM",
-      "kommun": "Tidaholm"
+      "kommun": "Tidaholm",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 13.958195,
+      "lat": 58.180714,
+      "geocode_source": "place"
     },
     {
       "postnummer": "52212",
+      "postnummer_format": "522 12",
       "postort": "TIDAHOLM",
-      "kommun": "Tidaholm"
+      "kommun": "Tidaholm",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 13.958195,
+      "lat": 58.180714,
+      "geocode_source": "place"
     },
     {
       "postnummer": "52215",
+      "postnummer_format": "522 15",
       "postort": "TIDAHOLM",
-      "kommun": "Tidaholm"
+      "kommun": "Tidaholm",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 13.958195,
+      "lat": 58.180714,
+      "geocode_source": "place"
     },
     {
       "postnummer": "52218",
+      "postnummer_format": "522 18",
       "postort": "TIDAHOLM",
-      "kommun": "Tidaholm"
+      "kommun": "Tidaholm",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 13.958195,
+      "lat": 58.180714,
+      "geocode_source": "place"
     },
     {
       "postnummer": "52221",
+      "postnummer_format": "522 21",
       "postort": "TIDAHOLM",
-      "kommun": "Tidaholm"
+      "kommun": "Tidaholm",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 13.958195,
+      "lat": 58.180714,
+      "geocode_source": "place"
     },
     {
       "postnummer": "52224",
+      "postnummer_format": "522 24",
       "postort": "TIDAHOLM",
-      "kommun": "Tidaholm"
+      "kommun": "Tidaholm",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 13.958195,
+      "lat": 58.180714,
+      "geocode_source": "place"
     },
     {
       "postnummer": "52303",
+      "postnummer_format": "523 03",
       "postort": "ULRICEHAMN",
-      "kommun": "Ulricehamn"
+      "kommun": "Ulricehamn",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 13.412619,
+      "lat": 57.79198,
+      "geocode_source": "place"
     },
     {
       "postnummer": "52306",
+      "postnummer_format": "523 06",
       "postort": "ULRICEHAMN",
-      "kommun": "Ulricehamn"
+      "kommun": "Ulricehamn",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 13.412619,
+      "lat": 57.79198,
+      "geocode_source": "place"
     },
     {
       "postnummer": "52309",
+      "postnummer_format": "523 09",
       "postort": "ULRICEHAMN",
-      "kommun": "Ulricehamn"
+      "kommun": "Ulricehamn",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 13.412619,
+      "lat": 57.79198,
+      "geocode_source": "place"
     },
     {
       "postnummer": "52312",
+      "postnummer_format": "523 12",
       "postort": "ULRICEHAMN",
-      "kommun": "Ulricehamn"
+      "kommun": "Ulricehamn",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 13.412619,
+      "lat": 57.79198,
+      "geocode_source": "place"
     },
     {
       "postnummer": "52315",
+      "postnummer_format": "523 15",
       "postort": "ULRICEHAMN",
-      "kommun": "Ulricehamn"
+      "kommun": "Ulricehamn",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 13.412619,
+      "lat": 57.79198,
+      "geocode_source": "place"
     },
     {
       "postnummer": "52318",
+      "postnummer_format": "523 18",
       "postort": "ULRICEHAMN",
-      "kommun": "Ulricehamn"
+      "kommun": "Ulricehamn",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 13.412619,
+      "lat": 57.79198,
+      "geocode_source": "place"
     },
     {
       "postnummer": "52321",
+      "postnummer_format": "523 21",
       "postort": "ULRICEHAMN",
-      "kommun": "Ulricehamn"
+      "kommun": "Ulricehamn",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 13.412619,
+      "lat": 57.79198,
+      "geocode_source": "place"
     },
     {
       "postnummer": "52324",
+      "postnummer_format": "523 24",
       "postort": "ULRICEHAMN",
-      "kommun": "Ulricehamn"
+      "kommun": "Ulricehamn",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 13.412619,
+      "lat": 57.79198,
+      "geocode_source": "place"
     },
     {
       "postnummer": "52403",
+      "postnummer_format": "524 03",
       "postort": "HERRLJUNGA",
-      "kommun": "Herrljunga"
+      "kommun": "Herrljunga",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 13.021916,
+      "lat": 58.078148,
+      "geocode_source": "place"
     },
     {
       "postnummer": "52406",
+      "postnummer_format": "524 06",
       "postort": "HERRLJUNGA",
-      "kommun": "Herrljunga"
+      "kommun": "Herrljunga",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 13.021916,
+      "lat": 58.078148,
+      "geocode_source": "place"
     },
     {
       "postnummer": "52409",
+      "postnummer_format": "524 09",
       "postort": "HERRLJUNGA",
-      "kommun": "Herrljunga"
+      "kommun": "Herrljunga",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 13.021916,
+      "lat": 58.078148,
+      "geocode_source": "place"
     },
     {
       "postnummer": "52412",
+      "postnummer_format": "524 12",
       "postort": "HERRLJUNGA",
-      "kommun": "Herrljunga"
+      "kommun": "Herrljunga",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 13.021916,
+      "lat": 58.078148,
+      "geocode_source": "place"
     },
     {
       "postnummer": "52415",
+      "postnummer_format": "524 15",
       "postort": "HERRLJUNGA",
-      "kommun": "Herrljunga"
+      "kommun": "Herrljunga",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 13.021916,
+      "lat": 58.078148,
+      "geocode_source": "place"
     },
     {
       "postnummer": "52418",
+      "postnummer_format": "524 18",
       "postort": "HERRLJUNGA",
-      "kommun": "Herrljunga"
+      "kommun": "Herrljunga",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 13.021916,
+      "lat": 58.078148,
+      "geocode_source": "place"
     },
     {
       "postnummer": "52421",
+      "postnummer_format": "524 21",
       "postort": "HERRLJUNGA",
-      "kommun": "Herrljunga"
+      "kommun": "Herrljunga",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 13.021916,
+      "lat": 58.078148,
+      "geocode_source": "place"
     },
     {
       "postnummer": "52424",
+      "postnummer_format": "524 24",
       "postort": "HERRLJUNGA",
-      "kommun": "Herrljunga"
+      "kommun": "Herrljunga",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 13.021916,
+      "lat": 58.078148,
+      "geocode_source": "place"
     },
     {
       "postnummer": "53103",
+      "postnummer_format": "531 03",
       "postort": "LIDKÖPING",
-      "kommun": "Lidköping"
+      "kommun": "Lidköping",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 13.157181,
+      "lat": 58.50464,
+      "geocode_source": "place"
     },
     {
       "postnummer": "53106",
+      "postnummer_format": "531 06",
       "postort": "LIDKÖPING",
-      "kommun": "Lidköping"
+      "kommun": "Lidköping",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 13.157181,
+      "lat": 58.50464,
+      "geocode_source": "place"
     },
     {
       "postnummer": "53109",
+      "postnummer_format": "531 09",
       "postort": "LIDKÖPING",
-      "kommun": "Lidköping"
+      "kommun": "Lidköping",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 13.157181,
+      "lat": 58.50464,
+      "geocode_source": "place"
     },
     {
       "postnummer": "53112",
+      "postnummer_format": "531 12",
       "postort": "LIDKÖPING",
-      "kommun": "Lidköping"
+      "kommun": "Lidköping",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 13.157181,
+      "lat": 58.50464,
+      "geocode_source": "place"
     },
     {
       "postnummer": "53115",
+      "postnummer_format": "531 15",
       "postort": "LIDKÖPING",
-      "kommun": "Lidköping"
+      "kommun": "Lidköping",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 13.157181,
+      "lat": 58.50464,
+      "geocode_source": "place"
     },
     {
       "postnummer": "53118",
+      "postnummer_format": "531 18",
       "postort": "LIDKÖPING",
-      "kommun": "Lidköping"
+      "kommun": "Lidköping",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 13.157181,
+      "lat": 58.50464,
+      "geocode_source": "place"
     },
     {
       "postnummer": "53121",
+      "postnummer_format": "531 21",
       "postort": "LIDKÖPING",
-      "kommun": "Lidköping"
+      "kommun": "Lidköping",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 13.157181,
+      "lat": 58.50464,
+      "geocode_source": "place"
     },
     {
       "postnummer": "53124",
+      "postnummer_format": "531 24",
       "postort": "LIDKÖPING",
-      "kommun": "Lidköping"
+      "kommun": "Lidköping",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 13.157181,
+      "lat": 58.50464,
+      "geocode_source": "place"
     },
     {
       "postnummer": "53203",
+      "postnummer_format": "532 03",
       "postort": "SKARA",
-      "kommun": "Skara"
+      "kommun": "Skara",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 13.437788,
+      "lat": 58.385017,
+      "geocode_source": "place"
     },
     {
       "postnummer": "53206",
+      "postnummer_format": "532 06",
       "postort": "SKARA",
-      "kommun": "Skara"
+      "kommun": "Skara",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 13.437788,
+      "lat": 58.385017,
+      "geocode_source": "place"
     },
     {
       "postnummer": "53209",
+      "postnummer_format": "532 09",
       "postort": "SKARA",
-      "kommun": "Skara"
+      "kommun": "Skara",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 13.437788,
+      "lat": 58.385017,
+      "geocode_source": "place"
     },
     {
       "postnummer": "53212",
+      "postnummer_format": "532 12",
       "postort": "SKARA",
-      "kommun": "Skara"
+      "kommun": "Skara",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 13.437788,
+      "lat": 58.385017,
+      "geocode_source": "place"
     },
     {
       "postnummer": "53215",
+      "postnummer_format": "532 15",
       "postort": "SKARA",
-      "kommun": "Skara"
+      "kommun": "Skara",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 13.437788,
+      "lat": 58.385017,
+      "geocode_source": "place"
     },
     {
       "postnummer": "53218",
+      "postnummer_format": "532 18",
       "postort": "SKARA",
-      "kommun": "Skara"
+      "kommun": "Skara",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 13.437788,
+      "lat": 58.385017,
+      "geocode_source": "place"
     },
     {
       "postnummer": "53221",
+      "postnummer_format": "532 21",
       "postort": "SKARA",
-      "kommun": "Skara"
+      "kommun": "Skara",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 13.437788,
+      "lat": 58.385017,
+      "geocode_source": "place"
     },
     {
       "postnummer": "53224",
+      "postnummer_format": "532 24",
       "postort": "SKARA",
-      "kommun": "Skara"
+      "kommun": "Skara",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 13.437788,
+      "lat": 58.385017,
+      "geocode_source": "place"
     },
     {
       "postnummer": "53303",
+      "postnummer_format": "533 03",
       "postort": "GÖTENE",
-      "kommun": "Götene"
+      "kommun": "Götene",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 13.492585,
+      "lat": 58.529064,
+      "geocode_source": "place"
     },
     {
       "postnummer": "53306",
+      "postnummer_format": "533 06",
       "postort": "GÖTENE",
-      "kommun": "Götene"
+      "kommun": "Götene",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 13.492585,
+      "lat": 58.529064,
+      "geocode_source": "place"
     },
     {
       "postnummer": "53309",
+      "postnummer_format": "533 09",
       "postort": "GÖTENE",
-      "kommun": "Götene"
+      "kommun": "Götene",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 13.492585,
+      "lat": 58.529064,
+      "geocode_source": "place"
     },
     {
       "postnummer": "53312",
+      "postnummer_format": "533 12",
       "postort": "GÖTENE",
-      "kommun": "Götene"
+      "kommun": "Götene",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 13.492585,
+      "lat": 58.529064,
+      "geocode_source": "place"
     },
     {
       "postnummer": "53315",
+      "postnummer_format": "533 15",
       "postort": "GÖTENE",
-      "kommun": "Götene"
+      "kommun": "Götene",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 13.492585,
+      "lat": 58.529064,
+      "geocode_source": "place"
     },
     {
       "postnummer": "53318",
+      "postnummer_format": "533 18",
       "postort": "GÖTENE",
-      "kommun": "Götene"
+      "kommun": "Götene",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 13.492585,
+      "lat": 58.529064,
+      "geocode_source": "place"
     },
     {
       "postnummer": "53321",
+      "postnummer_format": "533 21",
       "postort": "GÖTENE",
-      "kommun": "Götene"
+      "kommun": "Götene",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 13.492585,
+      "lat": 58.529064,
+      "geocode_source": "place"
     },
     {
       "postnummer": "53324",
+      "postnummer_format": "533 24",
       "postort": "GÖTENE",
-      "kommun": "Götene"
+      "kommun": "Götene",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 13.492585,
+      "lat": 58.529064,
+      "geocode_source": "place"
     },
     {
       "postnummer": "53403",
+      "postnummer_format": "534 03",
       "postort": "VARA",
-      "kommun": "Vara"
+      "kommun": "Vara",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.954267,
+      "lat": 58.26175,
+      "geocode_source": "place"
     },
     {
       "postnummer": "53406",
+      "postnummer_format": "534 06",
       "postort": "VARA",
-      "kommun": "Vara"
+      "kommun": "Vara",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.954267,
+      "lat": 58.26175,
+      "geocode_source": "place"
     },
     {
       "postnummer": "53409",
+      "postnummer_format": "534 09",
       "postort": "VARA",
-      "kommun": "Vara"
+      "kommun": "Vara",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.954267,
+      "lat": 58.26175,
+      "geocode_source": "place"
     },
     {
       "postnummer": "53412",
+      "postnummer_format": "534 12",
       "postort": "VARA",
-      "kommun": "Vara"
+      "kommun": "Vara",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.954267,
+      "lat": 58.26175,
+      "geocode_source": "place"
     },
     {
       "postnummer": "53415",
+      "postnummer_format": "534 15",
       "postort": "VARA",
-      "kommun": "Vara"
+      "kommun": "Vara",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.954267,
+      "lat": 58.26175,
+      "geocode_source": "place"
     },
     {
       "postnummer": "53418",
+      "postnummer_format": "534 18",
       "postort": "VARA",
-      "kommun": "Vara"
+      "kommun": "Vara",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.954267,
+      "lat": 58.26175,
+      "geocode_source": "place"
     },
     {
       "postnummer": "53421",
+      "postnummer_format": "534 21",
       "postort": "VARA",
-      "kommun": "Vara"
+      "kommun": "Vara",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.954267,
+      "lat": 58.26175,
+      "geocode_source": "place"
     },
     {
       "postnummer": "53424",
+      "postnummer_format": "534 24",
       "postort": "VARA",
-      "kommun": "Vara"
+      "kommun": "Vara",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.954267,
+      "lat": 58.26175,
+      "geocode_source": "place"
     },
     {
       "postnummer": "53503",
+      "postnummer_format": "535 03",
       "postort": "VARA",
-      "kommun": "Vara"
+      "kommun": "Vara",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.954267,
+      "lat": 58.26175,
+      "geocode_source": "place"
     },
     {
       "postnummer": "53506",
+      "postnummer_format": "535 06",
       "postort": "VARA",
-      "kommun": "Vara"
+      "kommun": "Vara",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.954267,
+      "lat": 58.26175,
+      "geocode_source": "place"
     },
     {
       "postnummer": "53509",
+      "postnummer_format": "535 09",
       "postort": "VARA",
-      "kommun": "Vara"
+      "kommun": "Vara",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.954267,
+      "lat": 58.26175,
+      "geocode_source": "place"
     },
     {
       "postnummer": "53512",
+      "postnummer_format": "535 12",
       "postort": "VARA",
-      "kommun": "Vara"
+      "kommun": "Vara",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.954267,
+      "lat": 58.26175,
+      "geocode_source": "place"
     },
     {
       "postnummer": "53515",
+      "postnummer_format": "535 15",
       "postort": "VARA",
-      "kommun": "Vara"
+      "kommun": "Vara",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.954267,
+      "lat": 58.26175,
+      "geocode_source": "place"
     },
     {
       "postnummer": "53518",
+      "postnummer_format": "535 18",
       "postort": "VARA",
-      "kommun": "Vara"
+      "kommun": "Vara",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.954267,
+      "lat": 58.26175,
+      "geocode_source": "place"
     },
     {
       "postnummer": "53521",
+      "postnummer_format": "535 21",
       "postort": "VARA",
-      "kommun": "Vara"
+      "kommun": "Vara",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.954267,
+      "lat": 58.26175,
+      "geocode_source": "place"
     },
     {
       "postnummer": "53524",
+      "postnummer_format": "535 24",
       "postort": "VARA",
-      "kommun": "Vara"
+      "kommun": "Vara",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.954267,
+      "lat": 58.26175,
+      "geocode_source": "place"
     },
     {
       "postnummer": "54103",
+      "postnummer_format": "541 03",
       "postort": "SKÖVDE",
-      "kommun": "Skövde"
+      "kommun": "Skövde",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 13.846223,
+      "lat": 58.389927,
+      "geocode_source": "place"
     },
     {
       "postnummer": "54106",
+      "postnummer_format": "541 06",
       "postort": "SKÖVDE",
-      "kommun": "Skövde"
+      "kommun": "Skövde",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 13.846223,
+      "lat": 58.389927,
+      "geocode_source": "place"
     },
     {
       "postnummer": "54109",
+      "postnummer_format": "541 09",
       "postort": "SKÖVDE",
-      "kommun": "Skövde"
+      "kommun": "Skövde",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 13.846223,
+      "lat": 58.389927,
+      "geocode_source": "place"
     },
     {
       "postnummer": "54112",
+      "postnummer_format": "541 12",
       "postort": "SKÖVDE",
-      "kommun": "Skövde"
+      "kommun": "Skövde",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 13.846223,
+      "lat": 58.389927,
+      "geocode_source": "place"
     },
     {
       "postnummer": "54115",
+      "postnummer_format": "541 15",
       "postort": "SKÖVDE",
-      "kommun": "Skövde"
+      "kommun": "Skövde",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 13.846223,
+      "lat": 58.389927,
+      "geocode_source": "place"
     },
     {
       "postnummer": "54118",
+      "postnummer_format": "541 18",
       "postort": "SKÖVDE",
-      "kommun": "Skövde"
+      "kommun": "Skövde",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 13.846223,
+      "lat": 58.389927,
+      "geocode_source": "place"
     },
     {
       "postnummer": "54121",
+      "postnummer_format": "541 21",
       "postort": "SKÖVDE",
-      "kommun": "Skövde"
+      "kommun": "Skövde",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 13.846223,
+      "lat": 58.389927,
+      "geocode_source": "place"
     },
     {
       "postnummer": "54124",
+      "postnummer_format": "541 24",
       "postort": "SKÖVDE",
-      "kommun": "Skövde"
+      "kommun": "Skövde",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 13.846223,
+      "lat": 58.389927,
+      "geocode_source": "place"
     },
     {
       "postnummer": "54203",
+      "postnummer_format": "542 03",
       "postort": "MARIESTAD",
-      "kommun": "Mariestad"
+      "kommun": "Mariestad",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 13.823787,
+      "lat": 58.709717,
+      "geocode_source": "place"
     },
     {
       "postnummer": "54206",
+      "postnummer_format": "542 06",
       "postort": "MARIESTAD",
-      "kommun": "Mariestad"
+      "kommun": "Mariestad",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 13.823787,
+      "lat": 58.709717,
+      "geocode_source": "place"
     },
     {
       "postnummer": "54209",
+      "postnummer_format": "542 09",
       "postort": "MARIESTAD",
-      "kommun": "Mariestad"
+      "kommun": "Mariestad",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 13.823787,
+      "lat": 58.709717,
+      "geocode_source": "place"
     },
     {
       "postnummer": "54212",
+      "postnummer_format": "542 12",
       "postort": "MARIESTAD",
-      "kommun": "Mariestad"
+      "kommun": "Mariestad",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 13.823787,
+      "lat": 58.709717,
+      "geocode_source": "place"
     },
     {
       "postnummer": "54215",
+      "postnummer_format": "542 15",
       "postort": "MARIESTAD",
-      "kommun": "Mariestad"
+      "kommun": "Mariestad",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 13.823787,
+      "lat": 58.709717,
+      "geocode_source": "place"
     },
     {
       "postnummer": "54218",
+      "postnummer_format": "542 18",
       "postort": "MARIESTAD",
-      "kommun": "Mariestad"
+      "kommun": "Mariestad",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 13.823787,
+      "lat": 58.709717,
+      "geocode_source": "place"
     },
     {
       "postnummer": "54221",
+      "postnummer_format": "542 21",
       "postort": "MARIESTAD",
-      "kommun": "Mariestad"
+      "kommun": "Mariestad",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 13.823787,
+      "lat": 58.709717,
+      "geocode_source": "place"
     },
     {
       "postnummer": "54224",
+      "postnummer_format": "542 24",
       "postort": "MARIESTAD",
-      "kommun": "Mariestad"
+      "kommun": "Mariestad",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 13.823787,
+      "lat": 58.709717,
+      "geocode_source": "place"
     },
     {
       "postnummer": "54303",
+      "postnummer_format": "543 03",
       "postort": "TIBRO",
-      "kommun": "Tibro"
+      "kommun": "Tibro",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 14.160472,
+      "lat": 58.425003,
+      "geocode_source": "place"
     },
     {
       "postnummer": "54306",
+      "postnummer_format": "543 06",
       "postort": "TIBRO",
-      "kommun": "Tibro"
+      "kommun": "Tibro",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 14.160472,
+      "lat": 58.425003,
+      "geocode_source": "place"
     },
     {
       "postnummer": "54309",
+      "postnummer_format": "543 09",
       "postort": "TIBRO",
-      "kommun": "Tibro"
+      "kommun": "Tibro",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 14.160472,
+      "lat": 58.425003,
+      "geocode_source": "place"
     },
     {
       "postnummer": "54312",
+      "postnummer_format": "543 12",
       "postort": "TIBRO",
-      "kommun": "Tibro"
+      "kommun": "Tibro",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 14.160472,
+      "lat": 58.425003,
+      "geocode_source": "place"
     },
     {
       "postnummer": "54315",
+      "postnummer_format": "543 15",
       "postort": "TIBRO",
-      "kommun": "Tibro"
+      "kommun": "Tibro",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 14.160472,
+      "lat": 58.425003,
+      "geocode_source": "place"
     },
     {
       "postnummer": "54318",
+      "postnummer_format": "543 18",
       "postort": "TIBRO",
-      "kommun": "Tibro"
+      "kommun": "Tibro",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 14.160472,
+      "lat": 58.425003,
+      "geocode_source": "place"
     },
     {
       "postnummer": "54321",
+      "postnummer_format": "543 21",
       "postort": "TIBRO",
-      "kommun": "Tibro"
+      "kommun": "Tibro",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 14.160472,
+      "lat": 58.425003,
+      "geocode_source": "place"
     },
     {
       "postnummer": "54324",
+      "postnummer_format": "543 24",
       "postort": "TIBRO",
-      "kommun": "Tibro"
+      "kommun": "Tibro",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 14.160472,
+      "lat": 58.425003,
+      "geocode_source": "place"
     },
     {
       "postnummer": "54403",
+      "postnummer_format": "544 03",
       "postort": "HJO",
-      "kommun": "Hjo"
+      "kommun": "Hjo",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 14.289266,
+      "lat": 58.301743,
+      "geocode_source": "place"
     },
     {
       "postnummer": "54406",
+      "postnummer_format": "544 06",
       "postort": "HJO",
-      "kommun": "Hjo"
+      "kommun": "Hjo",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 14.289266,
+      "lat": 58.301743,
+      "geocode_source": "place"
     },
     {
       "postnummer": "54409",
+      "postnummer_format": "544 09",
       "postort": "HJO",
-      "kommun": "Hjo"
+      "kommun": "Hjo",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 14.289266,
+      "lat": 58.301743,
+      "geocode_source": "place"
     },
     {
       "postnummer": "54412",
+      "postnummer_format": "544 12",
       "postort": "HJO",
-      "kommun": "Hjo"
+      "kommun": "Hjo",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 14.289266,
+      "lat": 58.301743,
+      "geocode_source": "place"
     },
     {
       "postnummer": "54415",
+      "postnummer_format": "544 15",
       "postort": "HJO",
-      "kommun": "Hjo"
+      "kommun": "Hjo",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 14.289266,
+      "lat": 58.301743,
+      "geocode_source": "place"
     },
     {
       "postnummer": "54418",
+      "postnummer_format": "544 18",
       "postort": "HJO",
-      "kommun": "Hjo"
+      "kommun": "Hjo",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 14.289266,
+      "lat": 58.301743,
+      "geocode_source": "place"
     },
     {
       "postnummer": "54421",
+      "postnummer_format": "544 21",
       "postort": "HJO",
-      "kommun": "Hjo"
+      "kommun": "Hjo",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 14.289266,
+      "lat": 58.301743,
+      "geocode_source": "place"
     },
     {
       "postnummer": "54424",
+      "postnummer_format": "544 24",
       "postort": "HJO",
-      "kommun": "Hjo"
+      "kommun": "Hjo",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 14.289266,
+      "lat": 58.301743,
+      "geocode_source": "place"
     },
     {
       "postnummer": "54503",
+      "postnummer_format": "545 03",
       "postort": "TÖREBODA",
-      "kommun": "Töreboda"
+      "kommun": "Töreboda",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 14.125114,
+      "lat": 58.707394,
+      "geocode_source": "place"
     },
     {
       "postnummer": "54506",
+      "postnummer_format": "545 06",
       "postort": "TÖREBODA",
-      "kommun": "Töreboda"
+      "kommun": "Töreboda",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 14.125114,
+      "lat": 58.707394,
+      "geocode_source": "place"
     },
     {
       "postnummer": "54509",
+      "postnummer_format": "545 09",
       "postort": "TÖREBODA",
-      "kommun": "Töreboda"
+      "kommun": "Töreboda",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 14.125114,
+      "lat": 58.707394,
+      "geocode_source": "place"
     },
     {
       "postnummer": "54512",
+      "postnummer_format": "545 12",
       "postort": "TÖREBODA",
-      "kommun": "Töreboda"
+      "kommun": "Töreboda",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 14.125114,
+      "lat": 58.707394,
+      "geocode_source": "place"
     },
     {
       "postnummer": "54515",
+      "postnummer_format": "545 15",
       "postort": "TÖREBODA",
-      "kommun": "Töreboda"
+      "kommun": "Töreboda",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 14.125114,
+      "lat": 58.707394,
+      "geocode_source": "place"
     },
     {
       "postnummer": "54518",
+      "postnummer_format": "545 18",
       "postort": "TÖREBODA",
-      "kommun": "Töreboda"
+      "kommun": "Töreboda",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 14.125114,
+      "lat": 58.707394,
+      "geocode_source": "place"
     },
     {
       "postnummer": "54521",
+      "postnummer_format": "545 21",
       "postort": "TÖREBODA",
-      "kommun": "Töreboda"
+      "kommun": "Töreboda",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 14.125114,
+      "lat": 58.707394,
+      "geocode_source": "place"
     },
     {
       "postnummer": "54524",
+      "postnummer_format": "545 24",
       "postort": "TÖREBODA",
-      "kommun": "Töreboda"
+      "kommun": "Töreboda",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 14.125114,
+      "lat": 58.707394,
+      "geocode_source": "place"
     },
     {
       "postnummer": "54603",
+      "postnummer_format": "546 03",
       "postort": "KARLSBORG",
-      "kommun": "Karlsborg"
+      "kommun": "Karlsborg",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 14.506353,
+      "lat": 58.541084,
+      "geocode_source": "place"
     },
     {
       "postnummer": "54606",
+      "postnummer_format": "546 06",
       "postort": "KARLSBORG",
-      "kommun": "Karlsborg"
+      "kommun": "Karlsborg",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 14.506353,
+      "lat": 58.541084,
+      "geocode_source": "place"
     },
     {
       "postnummer": "54609",
+      "postnummer_format": "546 09",
       "postort": "KARLSBORG",
-      "kommun": "Karlsborg"
+      "kommun": "Karlsborg",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 14.506353,
+      "lat": 58.541084,
+      "geocode_source": "place"
     },
     {
       "postnummer": "54612",
+      "postnummer_format": "546 12",
       "postort": "KARLSBORG",
-      "kommun": "Karlsborg"
+      "kommun": "Karlsborg",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 14.506353,
+      "lat": 58.541084,
+      "geocode_source": "place"
     },
     {
       "postnummer": "54615",
+      "postnummer_format": "546 15",
       "postort": "KARLSBORG",
-      "kommun": "Karlsborg"
+      "kommun": "Karlsborg",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 14.506353,
+      "lat": 58.541084,
+      "geocode_source": "place"
     },
     {
       "postnummer": "54618",
+      "postnummer_format": "546 18",
       "postort": "KARLSBORG",
-      "kommun": "Karlsborg"
+      "kommun": "Karlsborg",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 14.506353,
+      "lat": 58.541084,
+      "geocode_source": "place"
     },
     {
       "postnummer": "54621",
+      "postnummer_format": "546 21",
       "postort": "KARLSBORG",
-      "kommun": "Karlsborg"
+      "kommun": "Karlsborg",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 14.506353,
+      "lat": 58.541084,
+      "geocode_source": "place"
     },
     {
       "postnummer": "54624",
+      "postnummer_format": "546 24",
       "postort": "KARLSBORG",
-      "kommun": "Karlsborg"
+      "kommun": "Karlsborg",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 14.506353,
+      "lat": 58.541084,
+      "geocode_source": "place"
     },
     {
       "postnummer": "54703",
+      "postnummer_format": "547 03",
       "postort": "GULLSPÅNG",
-      "kommun": "Gullspång"
+      "kommun": "Gullspång",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 14.096403,
+      "lat": 58.98614,
+      "geocode_source": "place"
     },
     {
       "postnummer": "54706",
+      "postnummer_format": "547 06",
       "postort": "GULLSPÅNG",
-      "kommun": "Gullspång"
+      "kommun": "Gullspång",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 14.096403,
+      "lat": 58.98614,
+      "geocode_source": "place"
     },
     {
       "postnummer": "54709",
+      "postnummer_format": "547 09",
       "postort": "GULLSPÅNG",
-      "kommun": "Gullspång"
+      "kommun": "Gullspång",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 14.096403,
+      "lat": 58.98614,
+      "geocode_source": "place"
     },
     {
       "postnummer": "54712",
+      "postnummer_format": "547 12",
       "postort": "GULLSPÅNG",
-      "kommun": "Gullspång"
+      "kommun": "Gullspång",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 14.096403,
+      "lat": 58.98614,
+      "geocode_source": "place"
     },
     {
       "postnummer": "54715",
+      "postnummer_format": "547 15",
       "postort": "GULLSPÅNG",
-      "kommun": "Gullspång"
+      "kommun": "Gullspång",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 14.096403,
+      "lat": 58.98614,
+      "geocode_source": "place"
     },
     {
       "postnummer": "54718",
+      "postnummer_format": "547 18",
       "postort": "GULLSPÅNG",
-      "kommun": "Gullspång"
+      "kommun": "Gullspång",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 14.096403,
+      "lat": 58.98614,
+      "geocode_source": "place"
     },
     {
       "postnummer": "54721",
+      "postnummer_format": "547 21",
       "postort": "GULLSPÅNG",
-      "kommun": "Gullspång"
+      "kommun": "Gullspång",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 14.096403,
+      "lat": 58.98614,
+      "geocode_source": "place"
     },
     {
       "postnummer": "54724",
+      "postnummer_format": "547 24",
       "postort": "GULLSPÅNG",
-      "kommun": "Gullspång"
+      "kommun": "Gullspång",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 14.096403,
+      "lat": 58.98614,
+      "geocode_source": "place"
     },
     {
       "postnummer": "66203",
+      "postnummer_format": "662 03",
       "postort": "ÅMÅL",
-      "kommun": "Åmål"
+      "kommun": "Åmål",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.704933,
+      "lat": 59.052402,
+      "geocode_source": "place"
     },
     {
       "postnummer": "66206",
+      "postnummer_format": "662 06",
       "postort": "ÅMÅL",
-      "kommun": "Åmål"
+      "kommun": "Åmål",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.704933,
+      "lat": 59.052402,
+      "geocode_source": "place"
     },
     {
       "postnummer": "66209",
+      "postnummer_format": "662 09",
       "postort": "ÅMÅL",
-      "kommun": "Åmål"
+      "kommun": "Åmål",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.704933,
+      "lat": 59.052402,
+      "geocode_source": "place"
     },
     {
       "postnummer": "66212",
+      "postnummer_format": "662 12",
       "postort": "ÅMÅL",
-      "kommun": "Åmål"
+      "kommun": "Åmål",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.704933,
+      "lat": 59.052402,
+      "geocode_source": "place"
     },
     {
       "postnummer": "66215",
+      "postnummer_format": "662 15",
       "postort": "ÅMÅL",
-      "kommun": "Åmål"
+      "kommun": "Åmål",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.704933,
+      "lat": 59.052402,
+      "geocode_source": "place"
     },
     {
       "postnummer": "66218",
+      "postnummer_format": "662 18",
       "postort": "ÅMÅL",
-      "kommun": "Åmål"
+      "kommun": "Åmål",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.704933,
+      "lat": 59.052402,
+      "geocode_source": "place"
     },
     {
       "postnummer": "66221",
+      "postnummer_format": "662 21",
       "postort": "ÅMÅL",
-      "kommun": "Åmål"
+      "kommun": "Åmål",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.704933,
+      "lat": 59.052402,
+      "geocode_source": "place"
     },
     {
       "postnummer": "66224",
+      "postnummer_format": "662 24",
       "postort": "ÅMÅL",
-      "kommun": "Åmål"
+      "kommun": "Åmål",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.704933,
+      "lat": 59.052402,
+      "geocode_source": "place"
     },
     {
       "postnummer": "66603",
+      "postnummer_format": "666 03",
       "postort": "BENGTSFORS",
-      "kommun": "Bengtsfors"
+      "kommun": "Bengtsfors",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.225456,
+      "lat": 59.029068,
+      "geocode_source": "place"
     },
     {
       "postnummer": "66606",
+      "postnummer_format": "666 06",
       "postort": "BENGTSFORS",
-      "kommun": "Bengtsfors"
+      "kommun": "Bengtsfors",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.225456,
+      "lat": 59.029068,
+      "geocode_source": "place"
     },
     {
       "postnummer": "66609",
+      "postnummer_format": "666 09",
       "postort": "BENGTSFORS",
-      "kommun": "Bengtsfors"
+      "kommun": "Bengtsfors",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.225456,
+      "lat": 59.029068,
+      "geocode_source": "place"
     },
     {
       "postnummer": "66612",
+      "postnummer_format": "666 12",
       "postort": "BENGTSFORS",
-      "kommun": "Bengtsfors"
+      "kommun": "Bengtsfors",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.225456,
+      "lat": 59.029068,
+      "geocode_source": "place"
     },
     {
       "postnummer": "66615",
+      "postnummer_format": "666 15",
       "postort": "BENGTSFORS",
-      "kommun": "Bengtsfors"
+      "kommun": "Bengtsfors",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.225456,
+      "lat": 59.029068,
+      "geocode_source": "place"
     },
     {
       "postnummer": "66618",
+      "postnummer_format": "666 18",
       "postort": "BENGTSFORS",
-      "kommun": "Bengtsfors"
+      "kommun": "Bengtsfors",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.225456,
+      "lat": 59.029068,
+      "geocode_source": "place"
     },
     {
       "postnummer": "66621",
+      "postnummer_format": "666 21",
       "postort": "BENGTSFORS",
-      "kommun": "Bengtsfors"
+      "kommun": "Bengtsfors",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.225456,
+      "lat": 59.029068,
+      "geocode_source": "place"
     },
     {
       "postnummer": "66624",
+      "postnummer_format": "666 24",
       "postort": "BENGTSFORS",
-      "kommun": "Bengtsfors"
+      "kommun": "Bengtsfors",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 12.225456,
+      "lat": 59.029068,
+      "geocode_source": "place"
     },
     {
       "postnummer": "66803",
+      "postnummer_format": "668 03",
       "postort": "ED MED OMNEJD",
-      "kommun": "Dals-Ed"
+      "kommun": "Dals-Ed",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 11.934259,
+      "lat": 58.912006,
+      "geocode_source": "place"
     },
     {
       "postnummer": "66806",
+      "postnummer_format": "668 06",
       "postort": "ED MED OMNEJD",
-      "kommun": "Dals-Ed"
+      "kommun": "Dals-Ed",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 11.934259,
+      "lat": 58.912006,
+      "geocode_source": "place"
     },
     {
       "postnummer": "66809",
+      "postnummer_format": "668 09",
       "postort": "ED MED OMNEJD",
-      "kommun": "Dals-Ed"
+      "kommun": "Dals-Ed",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 11.934259,
+      "lat": 58.912006,
+      "geocode_source": "place"
     },
     {
       "postnummer": "66812",
+      "postnummer_format": "668 12",
       "postort": "ED MED OMNEJD",
-      "kommun": "Dals-Ed"
+      "kommun": "Dals-Ed",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 11.934259,
+      "lat": 58.912006,
+      "geocode_source": "place"
     },
     {
       "postnummer": "66815",
+      "postnummer_format": "668 15",
       "postort": "ED MED OMNEJD",
-      "kommun": "Dals-Ed"
+      "kommun": "Dals-Ed",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 11.934259,
+      "lat": 58.912006,
+      "geocode_source": "place"
     },
     {
       "postnummer": "66818",
+      "postnummer_format": "668 18",
       "postort": "ED MED OMNEJD",
-      "kommun": "Dals-Ed"
+      "kommun": "Dals-Ed",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 11.934259,
+      "lat": 58.912006,
+      "geocode_source": "place"
     },
     {
       "postnummer": "66821",
+      "postnummer_format": "668 21",
       "postort": "ED MED OMNEJD",
-      "kommun": "Dals-Ed"
+      "kommun": "Dals-Ed",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 11.934259,
+      "lat": 58.912006,
+      "geocode_source": "place"
     },
     {
       "postnummer": "66824",
+      "postnummer_format": "668 24",
       "postort": "ED MED OMNEJD",
-      "kommun": "Dals-Ed"
+      "kommun": "Dals-Ed",
+      "lan": "Västra Götalands län",
+      "land": "Sverige",
+      "lng": 11.934259,
+      "lat": 58.912006,
+      "geocode_source": "place"
     }
   ]
 }
