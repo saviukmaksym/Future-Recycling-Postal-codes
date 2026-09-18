@@ -1,0 +1,3015 @@
+{
+  "updated": "2026-09-18",
+  "region": "Västra Götalands län",
+  "count_unique_codes": 481,
+  "codes": [
+    "00005",
+    "40003",
+    "40006",
+    "40009",
+    "40012",
+    "40015",
+    "40018",
+    "40021",
+    "40024",
+    "40103",
+    "40106",
+    "40109",
+    "40112",
+    "40115",
+    "40118",
+    "40121",
+    "40124",
+    "40203",
+    "40206",
+    "40209",
+    "40212",
+    "40215",
+    "40218",
+    "40221",
+    "40224",
+    "43003",
+    "43006",
+    "43009",
+    "43012",
+    "43015",
+    "43018",
+    "43021",
+    "43024",
+    "43103",
+    "43106",
+    "43109",
+    "43112",
+    "43115",
+    "43118",
+    "43121",
+    "43124",
+    "43303",
+    "43306",
+    "43309",
+    "43312",
+    "43315",
+    "43318",
+    "43321",
+    "43324",
+    "43503",
+    "43506",
+    "43509",
+    "43512",
+    "43515",
+    "43518",
+    "43521",
+    "43524",
+    "43603",
+    "43606",
+    "43609",
+    "43612",
+    "43615",
+    "43618",
+    "43621",
+    "43624",
+    "43703",
+    "43706",
+    "43709",
+    "43712",
+    "43715",
+    "43718",
+    "43721",
+    "43724",
+    "44103",
+    "44106",
+    "44109",
+    "44112",
+    "44115",
+    "44118",
+    "44121",
+    "44124",
+    "44203",
+    "44206",
+    "44209",
+    "44212",
+    "44215",
+    "44218",
+    "44221",
+    "44224",
+    "44303",
+    "44306",
+    "44309",
+    "44312",
+    "44315",
+    "44318",
+    "44321",
+    "44324",
+    "44403",
+    "44406",
+    "44409",
+    "44412",
+    "44415",
+    "44418",
+    "44421",
+    "44424",
+    "44503",
+    "44506",
+    "44509",
+    "44512",
+    "44515",
+    "44518",
+    "44521",
+    "44524",
+    "44603",
+    "44606",
+    "44609",
+    "44612",
+    "44615",
+    "44618",
+    "44621",
+    "44624",
+    "44703",
+    "44706",
+    "44709",
+    "44712",
+    "44715",
+    "44718",
+    "44721",
+    "44724",
+    "44803",
+    "44806",
+    "44809",
+    "44812",
+    "44815",
+    "44818",
+    "44821",
+    "44824",
+    "45103",
+    "45106",
+    "45109",
+    "45112",
+    "45115",
+    "45118",
+    "45121",
+    "45124",
+    "45203",
+    "45206",
+    "45209",
+    "45212",
+    "45215",
+    "45218",
+    "45221",
+    "45224",
+    "45303",
+    "45306",
+    "45309",
+    "45312",
+    "45315",
+    "45318",
+    "45321",
+    "45324",
+    "45503",
+    "45506",
+    "45509",
+    "45512",
+    "45515",
+    "45518",
+    "45521",
+    "45524",
+    "45603",
+    "45606",
+    "45609",
+    "45612",
+    "45615",
+    "45618",
+    "45621",
+    "45624",
+    "45703",
+    "45706",
+    "45709",
+    "45712",
+    "45715",
+    "45718",
+    "45721",
+    "45724",
+    "45803",
+    "45806",
+    "45809",
+    "45812",
+    "45815",
+    "45818",
+    "45821",
+    "45824",
+    "46103",
+    "46106",
+    "46109",
+    "46112",
+    "46115",
+    "46118",
+    "46121",
+    "46124",
+    "46203",
+    "46206",
+    "46209",
+    "46212",
+    "46215",
+    "46218",
+    "46221",
+    "46224",
+    "46303",
+    "46306",
+    "46309",
+    "46312",
+    "46315",
+    "46318",
+    "46321",
+    "46324",
+    "46403",
+    "46406",
+    "46409",
+    "46412",
+    "46415",
+    "46418",
+    "46421",
+    "46424",
+    "46503",
+    "46506",
+    "46509",
+    "46512",
+    "46515",
+    "46518",
+    "46521",
+    "46524",
+    "46703",
+    "46706",
+    "46709",
+    "46712",
+    "46715",
+    "46718",
+    "46721",
+    "46724",
+    "47103",
+    "47106",
+    "47109",
+    "47112",
+    "47115",
+    "47118",
+    "47121",
+    "47124",
+    "47203",
+    "47206",
+    "47209",
+    "47212",
+    "47215",
+    "47218",
+    "47221",
+    "47224",
+    "47303",
+    "47306",
+    "47309",
+    "47312",
+    "47315",
+    "47318",
+    "47321",
+    "47324",
+    "47403",
+    "47406",
+    "47409",
+    "47412",
+    "47415",
+    "47418",
+    "47421",
+    "47424",
+    "50303",
+    "50306",
+    "50309",
+    "50312",
+    "50315",
+    "50318",
+    "50321",
+    "50324",
+    "50403",
+    "50406",
+    "50409",
+    "50412",
+    "50415",
+    "50418",
+    "50421",
+    "50424",
+    "50503",
+    "50506",
+    "50509",
+    "50512",
+    "50515",
+    "50518",
+    "50521",
+    "50524",
+    "51103",
+    "51106",
+    "51109",
+    "51112",
+    "51115",
+    "51118",
+    "51121",
+    "51124",
+    "51203",
+    "51206",
+    "51209",
+    "51212",
+    "51215",
+    "51218",
+    "51221",
+    "51224",
+    "51403",
+    "51406",
+    "51409",
+    "51412",
+    "51415",
+    "51418",
+    "51421",
+    "51424",
+    "51703",
+    "51706",
+    "51709",
+    "51712",
+    "51715",
+    "51718",
+    "51721",
+    "51724",
+    "52103",
+    "52106",
+    "52109",
+    "52112",
+    "52115",
+    "52118",
+    "52121",
+    "52124",
+    "52203",
+    "52206",
+    "52209",
+    "52212",
+    "52215",
+    "52218",
+    "52221",
+    "52224",
+    "52303",
+    "52306",
+    "52309",
+    "52312",
+    "52315",
+    "52318",
+    "52321",
+    "52324",
+    "52403",
+    "52406",
+    "52409",
+    "52412",
+    "52415",
+    "52418",
+    "52421",
+    "52424",
+    "53103",
+    "53106",
+    "53109",
+    "53112",
+    "53115",
+    "53118",
+    "53121",
+    "53124",
+    "53203",
+    "53206",
+    "53209",
+    "53212",
+    "53215",
+    "53218",
+    "53221",
+    "53224",
+    "53303",
+    "53306",
+    "53309",
+    "53312",
+    "53315",
+    "53318",
+    "53321",
+    "53324",
+    "53403",
+    "53406",
+    "53409",
+    "53412",
+    "53415",
+    "53418",
+    "53421",
+    "53424",
+    "53503",
+    "53506",
+    "53509",
+    "53512",
+    "53515",
+    "53518",
+    "53521",
+    "53524",
+    "54103",
+    "54106",
+    "54109",
+    "54112",
+    "54115",
+    "54118",
+    "54121",
+    "54124",
+    "54203",
+    "54206",
+    "54209",
+    "54212",
+    "54215",
+    "54218",
+    "54221",
+    "54224",
+    "54303",
+    "54306",
+    "54309",
+    "54312",
+    "54315",
+    "54318",
+    "54321",
+    "54324",
+    "54403",
+    "54406",
+    "54409",
+    "54412",
+    "54415",
+    "54418",
+    "54421",
+    "54424",
+    "54503",
+    "54506",
+    "54509",
+    "54512",
+    "54515",
+    "54518",
+    "54521",
+    "54524",
+    "54603",
+    "54606",
+    "54609",
+    "54612",
+    "54615",
+    "54618",
+    "54621",
+    "54624",
+    "54703",
+    "54706",
+    "54709",
+    "54712",
+    "54715",
+    "54718",
+    "54721",
+    "54724",
+    "66203",
+    "66206",
+    "66209",
+    "66212",
+    "66215",
+    "66218",
+    "66221",
+    "66224",
+    "66603",
+    "66606",
+    "66609",
+    "66612",
+    "66615",
+    "66618",
+    "66621",
+    "66624",
+    "66803",
+    "66806",
+    "66809",
+    "66812",
+    "66815",
+    "66818",
+    "66821",
+    "66824"
+  ],
+  "details": [
+    {
+      "postnummer": "00005",
+      "postort": "Postort",
+      "kommun": "Kommun"
+    },
+    {
+      "postnummer": "40003",
+      "postort": "GÖTEBORG",
+      "kommun": "Göteborg"
+    },
+    {
+      "postnummer": "40006",
+      "postort": "GÖTEBORG",
+      "kommun": "Göteborg"
+    },
+    {
+      "postnummer": "40009",
+      "postort": "GÖTEBORG",
+      "kommun": "Göteborg"
+    },
+    {
+      "postnummer": "40012",
+      "postort": "GÖTEBORG",
+      "kommun": "Göteborg"
+    },
+    {
+      "postnummer": "40015",
+      "postort": "GÖTEBORG",
+      "kommun": "Göteborg"
+    },
+    {
+      "postnummer": "40018",
+      "postort": "GÖTEBORG",
+      "kommun": "Göteborg"
+    },
+    {
+      "postnummer": "40021",
+      "postort": "GÖTEBORG",
+      "kommun": "Göteborg"
+    },
+    {
+      "postnummer": "40024",
+      "postort": "GÖTEBORG",
+      "kommun": "Göteborg"
+    },
+    {
+      "postnummer": "40103",
+      "postort": "GÖTEBORG",
+      "kommun": "Göteborg"
+    },
+    {
+      "postnummer": "40106",
+      "postort": "GÖTEBORG",
+      "kommun": "Göteborg"
+    },
+    {
+      "postnummer": "40109",
+      "postort": "GÖTEBORG",
+      "kommun": "Göteborg"
+    },
+    {
+      "postnummer": "40112",
+      "postort": "GÖTEBORG",
+      "kommun": "Göteborg"
+    },
+    {
+      "postnummer": "40115",
+      "postort": "GÖTEBORG",
+      "kommun": "Göteborg"
+    },
+    {
+      "postnummer": "40118",
+      "postort": "GÖTEBORG",
+      "kommun": "Göteborg"
+    },
+    {
+      "postnummer": "40121",
+      "postort": "GÖTEBORG",
+      "kommun": "Göteborg"
+    },
+    {
+      "postnummer": "40124",
+      "postort": "GÖTEBORG",
+      "kommun": "Göteborg"
+    },
+    {
+      "postnummer": "40203",
+      "postort": "GÖTEBORG",
+      "kommun": "Göteborg"
+    },
+    {
+      "postnummer": "40206",
+      "postort": "GÖTEBORG",
+      "kommun": "Göteborg"
+    },
+    {
+      "postnummer": "40209",
+      "postort": "GÖTEBORG",
+      "kommun": "Göteborg"
+    },
+    {
+      "postnummer": "40212",
+      "postort": "GÖTEBORG",
+      "kommun": "Göteborg"
+    },
+    {
+      "postnummer": "40215",
+      "postort": "GÖTEBORG",
+      "kommun": "Göteborg"
+    },
+    {
+      "postnummer": "40218",
+      "postort": "GÖTEBORG",
+      "kommun": "Göteborg"
+    },
+    {
+      "postnummer": "40221",
+      "postort": "GÖTEBORG",
+      "kommun": "Göteborg"
+    },
+    {
+      "postnummer": "40224",
+      "postort": "GÖTEBORG",
+      "kommun": "Göteborg"
+    },
+    {
+      "postnummer": "43003",
+      "postort": "ÖCKERÖ",
+      "kommun": "Öckerö"
+    },
+    {
+      "postnummer": "43006",
+      "postort": "ÖCKERÖ",
+      "kommun": "Öckerö"
+    },
+    {
+      "postnummer": "43009",
+      "postort": "ÖCKERÖ",
+      "kommun": "Öckerö"
+    },
+    {
+      "postnummer": "43012",
+      "postort": "ÖCKERÖ",
+      "kommun": "Öckerö"
+    },
+    {
+      "postnummer": "43015",
+      "postort": "ÖCKERÖ",
+      "kommun": "Öckerö"
+    },
+    {
+      "postnummer": "43018",
+      "postort": "ÖCKERÖ",
+      "kommun": "Öckerö"
+    },
+    {
+      "postnummer": "43021",
+      "postort": "ÖCKERÖ",
+      "kommun": "Öckerö"
+    },
+    {
+      "postnummer": "43024",
+      "postort": "ÖCKERÖ",
+      "kommun": "Öckerö"
+    },
+    {
+      "postnummer": "43103",
+      "postort": "MÖLNDAL",
+      "kommun": "Mölndal"
+    },
+    {
+      "postnummer": "43106",
+      "postort": "MÖLNDAL",
+      "kommun": "Mölndal"
+    },
+    {
+      "postnummer": "43109",
+      "postort": "MÖLNDAL",
+      "kommun": "Mölndal"
+    },
+    {
+      "postnummer": "43112",
+      "postort": "MÖLNDAL",
+      "kommun": "Mölndal"
+    },
+    {
+      "postnummer": "43115",
+      "postort": "MÖLNDAL",
+      "kommun": "Mölndal"
+    },
+    {
+      "postnummer": "43118",
+      "postort": "MÖLNDAL",
+      "kommun": "Mölndal"
+    },
+    {
+      "postnummer": "43121",
+      "postort": "MÖLNDAL",
+      "kommun": "Mölndal"
+    },
+    {
+      "postnummer": "43124",
+      "postort": "MÖLNDAL",
+      "kommun": "Mölndal"
+    },
+    {
+      "postnummer": "43303",
+      "postort": "PARTILLE",
+      "kommun": "Partille"
+    },
+    {
+      "postnummer": "43306",
+      "postort": "PARTILLE",
+      "kommun": "Partille"
+    },
+    {
+      "postnummer": "43309",
+      "postort": "PARTILLE",
+      "kommun": "Partille"
+    },
+    {
+      "postnummer": "43312",
+      "postort": "PARTILLE",
+      "kommun": "Partille"
+    },
+    {
+      "postnummer": "43315",
+      "postort": "PARTILLE",
+      "kommun": "Partille"
+    },
+    {
+      "postnummer": "43318",
+      "postort": "PARTILLE",
+      "kommun": "Partille"
+    },
+    {
+      "postnummer": "43321",
+      "postort": "PARTILLE",
+      "kommun": "Partille"
+    },
+    {
+      "postnummer": "43324",
+      "postort": "PARTILLE",
+      "kommun": "Partille"
+    },
+    {
+      "postnummer": "43503",
+      "postort": "MÖLNLYCKE",
+      "kommun": "Härryda"
+    },
+    {
+      "postnummer": "43506",
+      "postort": "MÖLNLYCKE",
+      "kommun": "Härryda"
+    },
+    {
+      "postnummer": "43509",
+      "postort": "MÖLNLYCKE",
+      "kommun": "Härryda"
+    },
+    {
+      "postnummer": "43512",
+      "postort": "MÖLNLYCKE",
+      "kommun": "Härryda"
+    },
+    {
+      "postnummer": "43515",
+      "postort": "MÖLNLYCKE",
+      "kommun": "Härryda"
+    },
+    {
+      "postnummer": "43518",
+      "postort": "MÖLNLYCKE",
+      "kommun": "Härryda"
+    },
+    {
+      "postnummer": "43521",
+      "postort": "MÖLNLYCKE",
+      "kommun": "Härryda"
+    },
+    {
+      "postnummer": "43524",
+      "postort": "MÖLNLYCKE",
+      "kommun": "Härryda"
+    },
+    {
+      "postnummer": "43603",
+      "postort": "MÖLNLYCKE",
+      "kommun": "Härryda"
+    },
+    {
+      "postnummer": "43606",
+      "postort": "MÖLNLYCKE",
+      "kommun": "Härryda"
+    },
+    {
+      "postnummer": "43609",
+      "postort": "MÖLNLYCKE",
+      "kommun": "Härryda"
+    },
+    {
+      "postnummer": "43612",
+      "postort": "MÖLNLYCKE",
+      "kommun": "Härryda"
+    },
+    {
+      "postnummer": "43615",
+      "postort": "MÖLNLYCKE",
+      "kommun": "Härryda"
+    },
+    {
+      "postnummer": "43618",
+      "postort": "MÖLNLYCKE",
+      "kommun": "Härryda"
+    },
+    {
+      "postnummer": "43621",
+      "postort": "MÖLNLYCKE",
+      "kommun": "Härryda"
+    },
+    {
+      "postnummer": "43624",
+      "postort": "MÖLNLYCKE",
+      "kommun": "Härryda"
+    },
+    {
+      "postnummer": "43703",
+      "postort": "MÖLNLYCKE",
+      "kommun": "Härryda"
+    },
+    {
+      "postnummer": "43706",
+      "postort": "MÖLNLYCKE",
+      "kommun": "Härryda"
+    },
+    {
+      "postnummer": "43709",
+      "postort": "MÖLNLYCKE",
+      "kommun": "Härryda"
+    },
+    {
+      "postnummer": "43712",
+      "postort": "MÖLNLYCKE",
+      "kommun": "Härryda"
+    },
+    {
+      "postnummer": "43715",
+      "postort": "MÖLNLYCKE",
+      "kommun": "Härryda"
+    },
+    {
+      "postnummer": "43718",
+      "postort": "MÖLNLYCKE",
+      "kommun": "Härryda"
+    },
+    {
+      "postnummer": "43721",
+      "postort": "MÖLNLYCKE",
+      "kommun": "Härryda"
+    },
+    {
+      "postnummer": "43724",
+      "postort": "MÖLNLYCKE",
+      "kommun": "Härryda"
+    },
+    {
+      "postnummer": "44103",
+      "postort": "ALINGSÅS",
+      "kommun": "Alingsås"
+    },
+    {
+      "postnummer": "44106",
+      "postort": "ALINGSÅS",
+      "kommun": "Alingsås"
+    },
+    {
+      "postnummer": "44109",
+      "postort": "ALINGSÅS",
+      "kommun": "Alingsås"
+    },
+    {
+      "postnummer": "44112",
+      "postort": "ALINGSÅS",
+      "kommun": "Alingsås"
+    },
+    {
+      "postnummer": "44115",
+      "postort": "ALINGSÅS",
+      "kommun": "Alingsås"
+    },
+    {
+      "postnummer": "44118",
+      "postort": "ALINGSÅS",
+      "kommun": "Alingsås"
+    },
+    {
+      "postnummer": "44121",
+      "postort": "ALINGSÅS",
+      "kommun": "Alingsås"
+    },
+    {
+      "postnummer": "44124",
+      "postort": "ALINGSÅS",
+      "kommun": "Alingsås"
+    },
+    {
+      "postnummer": "44203",
+      "postort": "KUNGÄLV",
+      "kommun": "Kungälv"
+    },
+    {
+      "postnummer": "44206",
+      "postort": "KUNGÄLV",
+      "kommun": "Kungälv"
+    },
+    {
+      "postnummer": "44209",
+      "postort": "KUNGÄLV",
+      "kommun": "Kungälv"
+    },
+    {
+      "postnummer": "44212",
+      "postort": "KUNGÄLV",
+      "kommun": "Kungälv"
+    },
+    {
+      "postnummer": "44215",
+      "postort": "KUNGÄLV",
+      "kommun": "Kungälv"
+    },
+    {
+      "postnummer": "44218",
+      "postort": "KUNGÄLV",
+      "kommun": "Kungälv"
+    },
+    {
+      "postnummer": "44221",
+      "postort": "KUNGÄLV",
+      "kommun": "Kungälv"
+    },
+    {
+      "postnummer": "44224",
+      "postort": "KUNGÄLV",
+      "kommun": "Kungälv"
+    },
+    {
+      "postnummer": "44303",
+      "postort": "LERUM",
+      "kommun": "Lerum"
+    },
+    {
+      "postnummer": "44306",
+      "postort": "LERUM",
+      "kommun": "Lerum"
+    },
+    {
+      "postnummer": "44309",
+      "postort": "LERUM",
+      "kommun": "Lerum"
+    },
+    {
+      "postnummer": "44312",
+      "postort": "LERUM",
+      "kommun": "Lerum"
+    },
+    {
+      "postnummer": "44315",
+      "postort": "LERUM",
+      "kommun": "Lerum"
+    },
+    {
+      "postnummer": "44318",
+      "postort": "LERUM",
+      "kommun": "Lerum"
+    },
+    {
+      "postnummer": "44321",
+      "postort": "LERUM",
+      "kommun": "Lerum"
+    },
+    {
+      "postnummer": "44324",
+      "postort": "LERUM",
+      "kommun": "Lerum"
+    },
+    {
+      "postnummer": "44403",
+      "postort": "LERUM",
+      "kommun": "Lerum"
+    },
+    {
+      "postnummer": "44403",
+      "postort": "STENUNGSUND",
+      "kommun": "Stenungsund"
+    },
+    {
+      "postnummer": "44406",
+      "postort": "LERUM",
+      "kommun": "Lerum"
+    },
+    {
+      "postnummer": "44406",
+      "postort": "STENUNGSUND",
+      "kommun": "Stenungsund"
+    },
+    {
+      "postnummer": "44409",
+      "postort": "LERUM",
+      "kommun": "Lerum"
+    },
+    {
+      "postnummer": "44409",
+      "postort": "STENUNGSUND",
+      "kommun": "Stenungsund"
+    },
+    {
+      "postnummer": "44412",
+      "postort": "LERUM",
+      "kommun": "Lerum"
+    },
+    {
+      "postnummer": "44412",
+      "postort": "STENUNGSUND",
+      "kommun": "Stenungsund"
+    },
+    {
+      "postnummer": "44415",
+      "postort": "LERUM",
+      "kommun": "Lerum"
+    },
+    {
+      "postnummer": "44415",
+      "postort": "STENUNGSUND",
+      "kommun": "Stenungsund"
+    },
+    {
+      "postnummer": "44418",
+      "postort": "LERUM",
+      "kommun": "Lerum"
+    },
+    {
+      "postnummer": "44418",
+      "postort": "STENUNGSUND",
+      "kommun": "Stenungsund"
+    },
+    {
+      "postnummer": "44421",
+      "postort": "LERUM",
+      "kommun": "Lerum"
+    },
+    {
+      "postnummer": "44421",
+      "postort": "STENUNGSUND",
+      "kommun": "Stenungsund"
+    },
+    {
+      "postnummer": "44424",
+      "postort": "LERUM",
+      "kommun": "Lerum"
+    },
+    {
+      "postnummer": "44424",
+      "postort": "STENUNGSUND",
+      "kommun": "Stenungsund"
+    },
+    {
+      "postnummer": "44503",
+      "postort": "LERUM",
+      "kommun": "Lerum"
+    },
+    {
+      "postnummer": "44506",
+      "postort": "LERUM",
+      "kommun": "Lerum"
+    },
+    {
+      "postnummer": "44509",
+      "postort": "LERUM",
+      "kommun": "Lerum"
+    },
+    {
+      "postnummer": "44512",
+      "postort": "LERUM",
+      "kommun": "Lerum"
+    },
+    {
+      "postnummer": "44515",
+      "postort": "LERUM",
+      "kommun": "Lerum"
+    },
+    {
+      "postnummer": "44518",
+      "postort": "LERUM",
+      "kommun": "Lerum"
+    },
+    {
+      "postnummer": "44521",
+      "postort": "LERUM",
+      "kommun": "Lerum"
+    },
+    {
+      "postnummer": "44524",
+      "postort": "LERUM",
+      "kommun": "Lerum"
+    },
+    {
+      "postnummer": "44603",
+      "postort": "NÖDINGE",
+      "kommun": "Ale"
+    },
+    {
+      "postnummer": "44606",
+      "postort": "NÖDINGE",
+      "kommun": "Ale"
+    },
+    {
+      "postnummer": "44609",
+      "postort": "NÖDINGE",
+      "kommun": "Ale"
+    },
+    {
+      "postnummer": "44612",
+      "postort": "NÖDINGE",
+      "kommun": "Ale"
+    },
+    {
+      "postnummer": "44615",
+      "postort": "NÖDINGE",
+      "kommun": "Ale"
+    },
+    {
+      "postnummer": "44618",
+      "postort": "NÖDINGE",
+      "kommun": "Ale"
+    },
+    {
+      "postnummer": "44621",
+      "postort": "NÖDINGE",
+      "kommun": "Ale"
+    },
+    {
+      "postnummer": "44624",
+      "postort": "NÖDINGE",
+      "kommun": "Ale"
+    },
+    {
+      "postnummer": "44703",
+      "postort": "NÖDINGE",
+      "kommun": "Ale"
+    },
+    {
+      "postnummer": "44703",
+      "postort": "VÅRGÅRDA",
+      "kommun": "Vårgårda"
+    },
+    {
+      "postnummer": "44706",
+      "postort": "NÖDINGE",
+      "kommun": "Ale"
+    },
+    {
+      "postnummer": "44706",
+      "postort": "VÅRGÅRDA",
+      "kommun": "Vårgårda"
+    },
+    {
+      "postnummer": "44709",
+      "postort": "NÖDINGE",
+      "kommun": "Ale"
+    },
+    {
+      "postnummer": "44709",
+      "postort": "VÅRGÅRDA",
+      "kommun": "Vårgårda"
+    },
+    {
+      "postnummer": "44712",
+      "postort": "NÖDINGE",
+      "kommun": "Ale"
+    },
+    {
+      "postnummer": "44712",
+      "postort": "VÅRGÅRDA",
+      "kommun": "Vårgårda"
+    },
+    {
+      "postnummer": "44715",
+      "postort": "NÖDINGE",
+      "kommun": "Ale"
+    },
+    {
+      "postnummer": "44715",
+      "postort": "VÅRGÅRDA",
+      "kommun": "Vårgårda"
+    },
+    {
+      "postnummer": "44718",
+      "postort": "NÖDINGE",
+      "kommun": "Ale"
+    },
+    {
+      "postnummer": "44718",
+      "postort": "VÅRGÅRDA",
+      "kommun": "Vårgårda"
+    },
+    {
+      "postnummer": "44721",
+      "postort": "NÖDINGE",
+      "kommun": "Ale"
+    },
+    {
+      "postnummer": "44721",
+      "postort": "VÅRGÅRDA",
+      "kommun": "Vårgårda"
+    },
+    {
+      "postnummer": "44724",
+      "postort": "NÖDINGE",
+      "kommun": "Ale"
+    },
+    {
+      "postnummer": "44724",
+      "postort": "VÅRGÅRDA",
+      "kommun": "Vårgårda"
+    },
+    {
+      "postnummer": "44803",
+      "postort": "NÖDINGE",
+      "kommun": "Ale"
+    },
+    {
+      "postnummer": "44806",
+      "postort": "NÖDINGE",
+      "kommun": "Ale"
+    },
+    {
+      "postnummer": "44809",
+      "postort": "NÖDINGE",
+      "kommun": "Ale"
+    },
+    {
+      "postnummer": "44812",
+      "postort": "NÖDINGE",
+      "kommun": "Ale"
+    },
+    {
+      "postnummer": "44815",
+      "postort": "NÖDINGE",
+      "kommun": "Ale"
+    },
+    {
+      "postnummer": "44818",
+      "postort": "NÖDINGE",
+      "kommun": "Ale"
+    },
+    {
+      "postnummer": "44821",
+      "postort": "NÖDINGE",
+      "kommun": "Ale"
+    },
+    {
+      "postnummer": "44824",
+      "postort": "NÖDINGE",
+      "kommun": "Ale"
+    },
+    {
+      "postnummer": "45103",
+      "postort": "UDDEVALLA",
+      "kommun": "Uddevalla"
+    },
+    {
+      "postnummer": "45106",
+      "postort": "UDDEVALLA",
+      "kommun": "Uddevalla"
+    },
+    {
+      "postnummer": "45109",
+      "postort": "UDDEVALLA",
+      "kommun": "Uddevalla"
+    },
+    {
+      "postnummer": "45112",
+      "postort": "UDDEVALLA",
+      "kommun": "Uddevalla"
+    },
+    {
+      "postnummer": "45115",
+      "postort": "UDDEVALLA",
+      "kommun": "Uddevalla"
+    },
+    {
+      "postnummer": "45118",
+      "postort": "UDDEVALLA",
+      "kommun": "Uddevalla"
+    },
+    {
+      "postnummer": "45121",
+      "postort": "UDDEVALLA",
+      "kommun": "Uddevalla"
+    },
+    {
+      "postnummer": "45124",
+      "postort": "UDDEVALLA",
+      "kommun": "Uddevalla"
+    },
+    {
+      "postnummer": "45203",
+      "postort": "STRÖMSTAD",
+      "kommun": "Strömstad"
+    },
+    {
+      "postnummer": "45206",
+      "postort": "STRÖMSTAD",
+      "kommun": "Strömstad"
+    },
+    {
+      "postnummer": "45209",
+      "postort": "STRÖMSTAD",
+      "kommun": "Strömstad"
+    },
+    {
+      "postnummer": "45212",
+      "postort": "STRÖMSTAD",
+      "kommun": "Strömstad"
+    },
+    {
+      "postnummer": "45215",
+      "postort": "STRÖMSTAD",
+      "kommun": "Strömstad"
+    },
+    {
+      "postnummer": "45218",
+      "postort": "STRÖMSTAD",
+      "kommun": "Strömstad"
+    },
+    {
+      "postnummer": "45221",
+      "postort": "STRÖMSTAD",
+      "kommun": "Strömstad"
+    },
+    {
+      "postnummer": "45224",
+      "postort": "STRÖMSTAD",
+      "kommun": "Strömstad"
+    },
+    {
+      "postnummer": "45303",
+      "postort": "LYSEKIL",
+      "kommun": "Lysekil"
+    },
+    {
+      "postnummer": "45306",
+      "postort": "LYSEKIL",
+      "kommun": "Lysekil"
+    },
+    {
+      "postnummer": "45309",
+      "postort": "LYSEKIL",
+      "kommun": "Lysekil"
+    },
+    {
+      "postnummer": "45312",
+      "postort": "LYSEKIL",
+      "kommun": "Lysekil"
+    },
+    {
+      "postnummer": "45315",
+      "postort": "LYSEKIL",
+      "kommun": "Lysekil"
+    },
+    {
+      "postnummer": "45318",
+      "postort": "LYSEKIL",
+      "kommun": "Lysekil"
+    },
+    {
+      "postnummer": "45321",
+      "postort": "LYSEKIL",
+      "kommun": "Lysekil"
+    },
+    {
+      "postnummer": "45324",
+      "postort": "LYSEKIL",
+      "kommun": "Lysekil"
+    },
+    {
+      "postnummer": "45503",
+      "postort": "MUNKEDAL",
+      "kommun": "Munkedal"
+    },
+    {
+      "postnummer": "45506",
+      "postort": "MUNKEDAL",
+      "kommun": "Munkedal"
+    },
+    {
+      "postnummer": "45509",
+      "postort": "MUNKEDAL",
+      "kommun": "Munkedal"
+    },
+    {
+      "postnummer": "45512",
+      "postort": "MUNKEDAL",
+      "kommun": "Munkedal"
+    },
+    {
+      "postnummer": "45515",
+      "postort": "MUNKEDAL",
+      "kommun": "Munkedal"
+    },
+    {
+      "postnummer": "45518",
+      "postort": "MUNKEDAL",
+      "kommun": "Munkedal"
+    },
+    {
+      "postnummer": "45521",
+      "postort": "MUNKEDAL",
+      "kommun": "Munkedal"
+    },
+    {
+      "postnummer": "45524",
+      "postort": "MUNKEDAL",
+      "kommun": "Munkedal"
+    },
+    {
+      "postnummer": "45603",
+      "postort": "KUNGSHAMN",
+      "kommun": "Sotenäs"
+    },
+    {
+      "postnummer": "45606",
+      "postort": "KUNGSHAMN",
+      "kommun": "Sotenäs"
+    },
+    {
+      "postnummer": "45609",
+      "postort": "KUNGSHAMN",
+      "kommun": "Sotenäs"
+    },
+    {
+      "postnummer": "45612",
+      "postort": "KUNGSHAMN",
+      "kommun": "Sotenäs"
+    },
+    {
+      "postnummer": "45615",
+      "postort": "KUNGSHAMN",
+      "kommun": "Sotenäs"
+    },
+    {
+      "postnummer": "45618",
+      "postort": "KUNGSHAMN",
+      "kommun": "Sotenäs"
+    },
+    {
+      "postnummer": "45621",
+      "postort": "KUNGSHAMN",
+      "kommun": "Sotenäs"
+    },
+    {
+      "postnummer": "45624",
+      "postort": "KUNGSHAMN",
+      "kommun": "Sotenäs"
+    },
+    {
+      "postnummer": "45703",
+      "postort": "TANUMSHEDE",
+      "kommun": "Tanum"
+    },
+    {
+      "postnummer": "45706",
+      "postort": "TANUMSHEDE",
+      "kommun": "Tanum"
+    },
+    {
+      "postnummer": "45709",
+      "postort": "TANUMSHEDE",
+      "kommun": "Tanum"
+    },
+    {
+      "postnummer": "45712",
+      "postort": "TANUMSHEDE",
+      "kommun": "Tanum"
+    },
+    {
+      "postnummer": "45715",
+      "postort": "TANUMSHEDE",
+      "kommun": "Tanum"
+    },
+    {
+      "postnummer": "45718",
+      "postort": "TANUMSHEDE",
+      "kommun": "Tanum"
+    },
+    {
+      "postnummer": "45721",
+      "postort": "TANUMSHEDE",
+      "kommun": "Tanum"
+    },
+    {
+      "postnummer": "45724",
+      "postort": "TANUMSHEDE",
+      "kommun": "Tanum"
+    },
+    {
+      "postnummer": "45803",
+      "postort": "FÄRGELANDA",
+      "kommun": "Färgelanda"
+    },
+    {
+      "postnummer": "45806",
+      "postort": "FÄRGELANDA",
+      "kommun": "Färgelanda"
+    },
+    {
+      "postnummer": "45809",
+      "postort": "FÄRGELANDA",
+      "kommun": "Färgelanda"
+    },
+    {
+      "postnummer": "45812",
+      "postort": "FÄRGELANDA",
+      "kommun": "Färgelanda"
+    },
+    {
+      "postnummer": "45815",
+      "postort": "FÄRGELANDA",
+      "kommun": "Färgelanda"
+    },
+    {
+      "postnummer": "45818",
+      "postort": "FÄRGELANDA",
+      "kommun": "Färgelanda"
+    },
+    {
+      "postnummer": "45821",
+      "postort": "FÄRGELANDA",
+      "kommun": "Färgelanda"
+    },
+    {
+      "postnummer": "45824",
+      "postort": "FÄRGELANDA",
+      "kommun": "Färgelanda"
+    },
+    {
+      "postnummer": "46103",
+      "postort": "TROLLHÄTTAN",
+      "kommun": "Trollhättan"
+    },
+    {
+      "postnummer": "46106",
+      "postort": "TROLLHÄTTAN",
+      "kommun": "Trollhättan"
+    },
+    {
+      "postnummer": "46109",
+      "postort": "TROLLHÄTTAN",
+      "kommun": "Trollhättan"
+    },
+    {
+      "postnummer": "46112",
+      "postort": "TROLLHÄTTAN",
+      "kommun": "Trollhättan"
+    },
+    {
+      "postnummer": "46115",
+      "postort": "TROLLHÄTTAN",
+      "kommun": "Trollhättan"
+    },
+    {
+      "postnummer": "46118",
+      "postort": "TROLLHÄTTAN",
+      "kommun": "Trollhättan"
+    },
+    {
+      "postnummer": "46121",
+      "postort": "TROLLHÄTTAN",
+      "kommun": "Trollhättan"
+    },
+    {
+      "postnummer": "46124",
+      "postort": "TROLLHÄTTAN",
+      "kommun": "Trollhättan"
+    },
+    {
+      "postnummer": "46203",
+      "postort": "VÄNERSBORG",
+      "kommun": "Vänersborg"
+    },
+    {
+      "postnummer": "46206",
+      "postort": "VÄNERSBORG",
+      "kommun": "Vänersborg"
+    },
+    {
+      "postnummer": "46209",
+      "postort": "VÄNERSBORG",
+      "kommun": "Vänersborg"
+    },
+    {
+      "postnummer": "46212",
+      "postort": "VÄNERSBORG",
+      "kommun": "Vänersborg"
+    },
+    {
+      "postnummer": "46215",
+      "postort": "VÄNERSBORG",
+      "kommun": "Vänersborg"
+    },
+    {
+      "postnummer": "46218",
+      "postort": "VÄNERSBORG",
+      "kommun": "Vänersborg"
+    },
+    {
+      "postnummer": "46221",
+      "postort": "VÄNERSBORG",
+      "kommun": "Vänersborg"
+    },
+    {
+      "postnummer": "46224",
+      "postort": "VÄNERSBORG",
+      "kommun": "Vänersborg"
+    },
+    {
+      "postnummer": "46303",
+      "postort": "LILLA EDET",
+      "kommun": "Lilla Edet"
+    },
+    {
+      "postnummer": "46306",
+      "postort": "LILLA EDET",
+      "kommun": "Lilla Edet"
+    },
+    {
+      "postnummer": "46309",
+      "postort": "LILLA EDET",
+      "kommun": "Lilla Edet"
+    },
+    {
+      "postnummer": "46312",
+      "postort": "LILLA EDET",
+      "kommun": "Lilla Edet"
+    },
+    {
+      "postnummer": "46315",
+      "postort": "LILLA EDET",
+      "kommun": "Lilla Edet"
+    },
+    {
+      "postnummer": "46318",
+      "postort": "LILLA EDET",
+      "kommun": "Lilla Edet"
+    },
+    {
+      "postnummer": "46321",
+      "postort": "LILLA EDET",
+      "kommun": "Lilla Edet"
+    },
+    {
+      "postnummer": "46324",
+      "postort": "LILLA EDET",
+      "kommun": "Lilla Edet"
+    },
+    {
+      "postnummer": "46403",
+      "postort": "MELLERUD",
+      "kommun": "Mellerud"
+    },
+    {
+      "postnummer": "46406",
+      "postort": "MELLERUD",
+      "kommun": "Mellerud"
+    },
+    {
+      "postnummer": "46409",
+      "postort": "MELLERUD",
+      "kommun": "Mellerud"
+    },
+    {
+      "postnummer": "46412",
+      "postort": "MELLERUD",
+      "kommun": "Mellerud"
+    },
+    {
+      "postnummer": "46415",
+      "postort": "MELLERUD",
+      "kommun": "Mellerud"
+    },
+    {
+      "postnummer": "46418",
+      "postort": "MELLERUD",
+      "kommun": "Mellerud"
+    },
+    {
+      "postnummer": "46421",
+      "postort": "MELLERUD",
+      "kommun": "Mellerud"
+    },
+    {
+      "postnummer": "46424",
+      "postort": "MELLERUD",
+      "kommun": "Mellerud"
+    },
+    {
+      "postnummer": "46503",
+      "postort": "NOSSEBRO",
+      "kommun": "Essunga"
+    },
+    {
+      "postnummer": "46506",
+      "postort": "NOSSEBRO",
+      "kommun": "Essunga"
+    },
+    {
+      "postnummer": "46509",
+      "postort": "NOSSEBRO",
+      "kommun": "Essunga"
+    },
+    {
+      "postnummer": "46512",
+      "postort": "NOSSEBRO",
+      "kommun": "Essunga"
+    },
+    {
+      "postnummer": "46515",
+      "postort": "NOSSEBRO",
+      "kommun": "Essunga"
+    },
+    {
+      "postnummer": "46518",
+      "postort": "NOSSEBRO",
+      "kommun": "Essunga"
+    },
+    {
+      "postnummer": "46521",
+      "postort": "NOSSEBRO",
+      "kommun": "Essunga"
+    },
+    {
+      "postnummer": "46524",
+      "postort": "NOSSEBRO",
+      "kommun": "Essunga"
+    },
+    {
+      "postnummer": "46703",
+      "postort": "GRÄSTORP MED OMNEJD",
+      "kommun": "Grästorp"
+    },
+    {
+      "postnummer": "46706",
+      "postort": "GRÄSTORP MED OMNEJD",
+      "kommun": "Grästorp"
+    },
+    {
+      "postnummer": "46709",
+      "postort": "GRÄSTORP MED OMNEJD",
+      "kommun": "Grästorp"
+    },
+    {
+      "postnummer": "46712",
+      "postort": "GRÄSTORP MED OMNEJD",
+      "kommun": "Grästorp"
+    },
+    {
+      "postnummer": "46715",
+      "postort": "GRÄSTORP MED OMNEJD",
+      "kommun": "Grästorp"
+    },
+    {
+      "postnummer": "46718",
+      "postort": "GRÄSTORP MED OMNEJD",
+      "kommun": "Grästorp"
+    },
+    {
+      "postnummer": "46721",
+      "postort": "GRÄSTORP MED OMNEJD",
+      "kommun": "Grästorp"
+    },
+    {
+      "postnummer": "46724",
+      "postort": "GRÄSTORP MED OMNEJD",
+      "kommun": "Grästorp"
+    },
+    {
+      "postnummer": "47103",
+      "postort": "SKÄRHAMN",
+      "kommun": "Tjörn"
+    },
+    {
+      "postnummer": "47106",
+      "postort": "SKÄRHAMN",
+      "kommun": "Tjörn"
+    },
+    {
+      "postnummer": "47109",
+      "postort": "SKÄRHAMN",
+      "kommun": "Tjörn"
+    },
+    {
+      "postnummer": "47112",
+      "postort": "SKÄRHAMN",
+      "kommun": "Tjörn"
+    },
+    {
+      "postnummer": "47115",
+      "postort": "SKÄRHAMN",
+      "kommun": "Tjörn"
+    },
+    {
+      "postnummer": "47118",
+      "postort": "SKÄRHAMN",
+      "kommun": "Tjörn"
+    },
+    {
+      "postnummer": "47121",
+      "postort": "SKÄRHAMN",
+      "kommun": "Tjörn"
+    },
+    {
+      "postnummer": "47124",
+      "postort": "SKÄRHAMN",
+      "kommun": "Tjörn"
+    },
+    {
+      "postnummer": "47203",
+      "postort": "HENÅN",
+      "kommun": "Orust"
+    },
+    {
+      "postnummer": "47206",
+      "postort": "HENÅN",
+      "kommun": "Orust"
+    },
+    {
+      "postnummer": "47209",
+      "postort": "HENÅN",
+      "kommun": "Orust"
+    },
+    {
+      "postnummer": "47212",
+      "postort": "HENÅN",
+      "kommun": "Orust"
+    },
+    {
+      "postnummer": "47215",
+      "postort": "HENÅN",
+      "kommun": "Orust"
+    },
+    {
+      "postnummer": "47218",
+      "postort": "HENÅN",
+      "kommun": "Orust"
+    },
+    {
+      "postnummer": "47221",
+      "postort": "HENÅN",
+      "kommun": "Orust"
+    },
+    {
+      "postnummer": "47224",
+      "postort": "HENÅN",
+      "kommun": "Orust"
+    },
+    {
+      "postnummer": "47303",
+      "postort": "HENÅN",
+      "kommun": "Orust"
+    },
+    {
+      "postnummer": "47306",
+      "postort": "HENÅN",
+      "kommun": "Orust"
+    },
+    {
+      "postnummer": "47309",
+      "postort": "HENÅN",
+      "kommun": "Orust"
+    },
+    {
+      "postnummer": "47312",
+      "postort": "HENÅN",
+      "kommun": "Orust"
+    },
+    {
+      "postnummer": "47315",
+      "postort": "HENÅN",
+      "kommun": "Orust"
+    },
+    {
+      "postnummer": "47318",
+      "postort": "HENÅN",
+      "kommun": "Orust"
+    },
+    {
+      "postnummer": "47321",
+      "postort": "HENÅN",
+      "kommun": "Orust"
+    },
+    {
+      "postnummer": "47324",
+      "postort": "HENÅN",
+      "kommun": "Orust"
+    },
+    {
+      "postnummer": "47403",
+      "postort": "HENÅN",
+      "kommun": "Orust"
+    },
+    {
+      "postnummer": "47406",
+      "postort": "HENÅN",
+      "kommun": "Orust"
+    },
+    {
+      "postnummer": "47409",
+      "postort": "HENÅN",
+      "kommun": "Orust"
+    },
+    {
+      "postnummer": "47412",
+      "postort": "HENÅN",
+      "kommun": "Orust"
+    },
+    {
+      "postnummer": "47415",
+      "postort": "HENÅN",
+      "kommun": "Orust"
+    },
+    {
+      "postnummer": "47418",
+      "postort": "HENÅN",
+      "kommun": "Orust"
+    },
+    {
+      "postnummer": "47421",
+      "postort": "HENÅN",
+      "kommun": "Orust"
+    },
+    {
+      "postnummer": "47424",
+      "postort": "HENÅN",
+      "kommun": "Orust"
+    },
+    {
+      "postnummer": "50303",
+      "postort": "BORÅS",
+      "kommun": "Borås"
+    },
+    {
+      "postnummer": "50306",
+      "postort": "BORÅS",
+      "kommun": "Borås"
+    },
+    {
+      "postnummer": "50309",
+      "postort": "BORÅS",
+      "kommun": "Borås"
+    },
+    {
+      "postnummer": "50312",
+      "postort": "BORÅS",
+      "kommun": "Borås"
+    },
+    {
+      "postnummer": "50315",
+      "postort": "BORÅS",
+      "kommun": "Borås"
+    },
+    {
+      "postnummer": "50318",
+      "postort": "BORÅS",
+      "kommun": "Borås"
+    },
+    {
+      "postnummer": "50321",
+      "postort": "BORÅS",
+      "kommun": "Borås"
+    },
+    {
+      "postnummer": "50324",
+      "postort": "BORÅS",
+      "kommun": "Borås"
+    },
+    {
+      "postnummer": "50403",
+      "postort": "BORÅS",
+      "kommun": "Borås"
+    },
+    {
+      "postnummer": "50406",
+      "postort": "BORÅS",
+      "kommun": "Borås"
+    },
+    {
+      "postnummer": "50409",
+      "postort": "BORÅS",
+      "kommun": "Borås"
+    },
+    {
+      "postnummer": "50412",
+      "postort": "BORÅS",
+      "kommun": "Borås"
+    },
+    {
+      "postnummer": "50415",
+      "postort": "BORÅS",
+      "kommun": "Borås"
+    },
+    {
+      "postnummer": "50418",
+      "postort": "BORÅS",
+      "kommun": "Borås"
+    },
+    {
+      "postnummer": "50421",
+      "postort": "BORÅS",
+      "kommun": "Borås"
+    },
+    {
+      "postnummer": "50424",
+      "postort": "BORÅS",
+      "kommun": "Borås"
+    },
+    {
+      "postnummer": "50503",
+      "postort": "BORÅS",
+      "kommun": "Borås"
+    },
+    {
+      "postnummer": "50506",
+      "postort": "BORÅS",
+      "kommun": "Borås"
+    },
+    {
+      "postnummer": "50509",
+      "postort": "BORÅS",
+      "kommun": "Borås"
+    },
+    {
+      "postnummer": "50512",
+      "postort": "BORÅS",
+      "kommun": "Borås"
+    },
+    {
+      "postnummer": "50515",
+      "postort": "BORÅS",
+      "kommun": "Borås"
+    },
+    {
+      "postnummer": "50518",
+      "postort": "BORÅS",
+      "kommun": "Borås"
+    },
+    {
+      "postnummer": "50521",
+      "postort": "BORÅS",
+      "kommun": "Borås"
+    },
+    {
+      "postnummer": "50524",
+      "postort": "BORÅS",
+      "kommun": "Borås"
+    },
+    {
+      "postnummer": "51103",
+      "postort": "KINNA",
+      "kommun": "Mark"
+    },
+    {
+      "postnummer": "51106",
+      "postort": "KINNA",
+      "kommun": "Mark"
+    },
+    {
+      "postnummer": "51109",
+      "postort": "KINNA",
+      "kommun": "Mark"
+    },
+    {
+      "postnummer": "51112",
+      "postort": "KINNA",
+      "kommun": "Mark"
+    },
+    {
+      "postnummer": "51115",
+      "postort": "KINNA",
+      "kommun": "Mark"
+    },
+    {
+      "postnummer": "51118",
+      "postort": "KINNA",
+      "kommun": "Mark"
+    },
+    {
+      "postnummer": "51121",
+      "postort": "KINNA",
+      "kommun": "Mark"
+    },
+    {
+      "postnummer": "51124",
+      "postort": "KINNA",
+      "kommun": "Mark"
+    },
+    {
+      "postnummer": "51203",
+      "postort": "KINNA",
+      "kommun": "Mark"
+    },
+    {
+      "postnummer": "51203",
+      "postort": "SVENLJUNGA",
+      "kommun": "Svenljunga"
+    },
+    {
+      "postnummer": "51206",
+      "postort": "KINNA",
+      "kommun": "Mark"
+    },
+    {
+      "postnummer": "51206",
+      "postort": "SVENLJUNGA",
+      "kommun": "Svenljunga"
+    },
+    {
+      "postnummer": "51209",
+      "postort": "KINNA",
+      "kommun": "Mark"
+    },
+    {
+      "postnummer": "51209",
+      "postort": "SVENLJUNGA",
+      "kommun": "Svenljunga"
+    },
+    {
+      "postnummer": "51212",
+      "postort": "KINNA",
+      "kommun": "Mark"
+    },
+    {
+      "postnummer": "51212",
+      "postort": "SVENLJUNGA",
+      "kommun": "Svenljunga"
+    },
+    {
+      "postnummer": "51215",
+      "postort": "KINNA",
+      "kommun": "Mark"
+    },
+    {
+      "postnummer": "51215",
+      "postort": "SVENLJUNGA",
+      "kommun": "Svenljunga"
+    },
+    {
+      "postnummer": "51218",
+      "postort": "KINNA",
+      "kommun": "Mark"
+    },
+    {
+      "postnummer": "51218",
+      "postort": "SVENLJUNGA",
+      "kommun": "Svenljunga"
+    },
+    {
+      "postnummer": "51221",
+      "postort": "KINNA",
+      "kommun": "Mark"
+    },
+    {
+      "postnummer": "51221",
+      "postort": "SVENLJUNGA",
+      "kommun": "Svenljunga"
+    },
+    {
+      "postnummer": "51224",
+      "postort": "KINNA",
+      "kommun": "Mark"
+    },
+    {
+      "postnummer": "51224",
+      "postort": "SVENLJUNGA",
+      "kommun": "Svenljunga"
+    },
+    {
+      "postnummer": "51403",
+      "postort": "TRANEMO",
+      "kommun": "Tranemo"
+    },
+    {
+      "postnummer": "51406",
+      "postort": "TRANEMO",
+      "kommun": "Tranemo"
+    },
+    {
+      "postnummer": "51409",
+      "postort": "TRANEMO",
+      "kommun": "Tranemo"
+    },
+    {
+      "postnummer": "51412",
+      "postort": "TRANEMO",
+      "kommun": "Tranemo"
+    },
+    {
+      "postnummer": "51415",
+      "postort": "TRANEMO",
+      "kommun": "Tranemo"
+    },
+    {
+      "postnummer": "51418",
+      "postort": "TRANEMO",
+      "kommun": "Tranemo"
+    },
+    {
+      "postnummer": "51421",
+      "postort": "TRANEMO",
+      "kommun": "Tranemo"
+    },
+    {
+      "postnummer": "51424",
+      "postort": "TRANEMO",
+      "kommun": "Tranemo"
+    },
+    {
+      "postnummer": "51703",
+      "postort": "BOLLEBYGD",
+      "kommun": "Bollebygd"
+    },
+    {
+      "postnummer": "51706",
+      "postort": "BOLLEBYGD",
+      "kommun": "Bollebygd"
+    },
+    {
+      "postnummer": "51709",
+      "postort": "BOLLEBYGD",
+      "kommun": "Bollebygd"
+    },
+    {
+      "postnummer": "51712",
+      "postort": "BOLLEBYGD",
+      "kommun": "Bollebygd"
+    },
+    {
+      "postnummer": "51715",
+      "postort": "BOLLEBYGD",
+      "kommun": "Bollebygd"
+    },
+    {
+      "postnummer": "51718",
+      "postort": "BOLLEBYGD",
+      "kommun": "Bollebygd"
+    },
+    {
+      "postnummer": "51721",
+      "postort": "BOLLEBYGD",
+      "kommun": "Bollebygd"
+    },
+    {
+      "postnummer": "51724",
+      "postort": "BOLLEBYGD",
+      "kommun": "Bollebygd"
+    },
+    {
+      "postnummer": "52103",
+      "postort": "FALKÖPING",
+      "kommun": "Falköping"
+    },
+    {
+      "postnummer": "52106",
+      "postort": "FALKÖPING",
+      "kommun": "Falköping"
+    },
+    {
+      "postnummer": "52109",
+      "postort": "FALKÖPING",
+      "kommun": "Falköping"
+    },
+    {
+      "postnummer": "52112",
+      "postort": "FALKÖPING",
+      "kommun": "Falköping"
+    },
+    {
+      "postnummer": "52115",
+      "postort": "FALKÖPING",
+      "kommun": "Falköping"
+    },
+    {
+      "postnummer": "52118",
+      "postort": "FALKÖPING",
+      "kommun": "Falköping"
+    },
+    {
+      "postnummer": "52121",
+      "postort": "FALKÖPING",
+      "kommun": "Falköping"
+    },
+    {
+      "postnummer": "52124",
+      "postort": "FALKÖPING",
+      "kommun": "Falköping"
+    },
+    {
+      "postnummer": "52203",
+      "postort": "TIDAHOLM",
+      "kommun": "Tidaholm"
+    },
+    {
+      "postnummer": "52206",
+      "postort": "TIDAHOLM",
+      "kommun": "Tidaholm"
+    },
+    {
+      "postnummer": "52209",
+      "postort": "TIDAHOLM",
+      "kommun": "Tidaholm"
+    },
+    {
+      "postnummer": "52212",
+      "postort": "TIDAHOLM",
+      "kommun": "Tidaholm"
+    },
+    {
+      "postnummer": "52215",
+      "postort": "TIDAHOLM",
+      "kommun": "Tidaholm"
+    },
+    {
+      "postnummer": "52218",
+      "postort": "TIDAHOLM",
+      "kommun": "Tidaholm"
+    },
+    {
+      "postnummer": "52221",
+      "postort": "TIDAHOLM",
+      "kommun": "Tidaholm"
+    },
+    {
+      "postnummer": "52224",
+      "postort": "TIDAHOLM",
+      "kommun": "Tidaholm"
+    },
+    {
+      "postnummer": "52303",
+      "postort": "ULRICEHAMN",
+      "kommun": "Ulricehamn"
+    },
+    {
+      "postnummer": "52306",
+      "postort": "ULRICEHAMN",
+      "kommun": "Ulricehamn"
+    },
+    {
+      "postnummer": "52309",
+      "postort": "ULRICEHAMN",
+      "kommun": "Ulricehamn"
+    },
+    {
+      "postnummer": "52312",
+      "postort": "ULRICEHAMN",
+      "kommun": "Ulricehamn"
+    },
+    {
+      "postnummer": "52315",
+      "postort": "ULRICEHAMN",
+      "kommun": "Ulricehamn"
+    },
+    {
+      "postnummer": "52318",
+      "postort": "ULRICEHAMN",
+      "kommun": "Ulricehamn"
+    },
+    {
+      "postnummer": "52321",
+      "postort": "ULRICEHAMN",
+      "kommun": "Ulricehamn"
+    },
+    {
+      "postnummer": "52324",
+      "postort": "ULRICEHAMN",
+      "kommun": "Ulricehamn"
+    },
+    {
+      "postnummer": "52403",
+      "postort": "HERRLJUNGA",
+      "kommun": "Herrljunga"
+    },
+    {
+      "postnummer": "52406",
+      "postort": "HERRLJUNGA",
+      "kommun": "Herrljunga"
+    },
+    {
+      "postnummer": "52409",
+      "postort": "HERRLJUNGA",
+      "kommun": "Herrljunga"
+    },
+    {
+      "postnummer": "52412",
+      "postort": "HERRLJUNGA",
+      "kommun": "Herrljunga"
+    },
+    {
+      "postnummer": "52415",
+      "postort": "HERRLJUNGA",
+      "kommun": "Herrljunga"
+    },
+    {
+      "postnummer": "52418",
+      "postort": "HERRLJUNGA",
+      "kommun": "Herrljunga"
+    },
+    {
+      "postnummer": "52421",
+      "postort": "HERRLJUNGA",
+      "kommun": "Herrljunga"
+    },
+    {
+      "postnummer": "52424",
+      "postort": "HERRLJUNGA",
+      "kommun": "Herrljunga"
+    },
+    {
+      "postnummer": "53103",
+      "postort": "LIDKÖPING",
+      "kommun": "Lidköping"
+    },
+    {
+      "postnummer": "53106",
+      "postort": "LIDKÖPING",
+      "kommun": "Lidköping"
+    },
+    {
+      "postnummer": "53109",
+      "postort": "LIDKÖPING",
+      "kommun": "Lidköping"
+    },
+    {
+      "postnummer": "53112",
+      "postort": "LIDKÖPING",
+      "kommun": "Lidköping"
+    },
+    {
+      "postnummer": "53115",
+      "postort": "LIDKÖPING",
+      "kommun": "Lidköping"
+    },
+    {
+      "postnummer": "53118",
+      "postort": "LIDKÖPING",
+      "kommun": "Lidköping"
+    },
+    {
+      "postnummer": "53121",
+      "postort": "LIDKÖPING",
+      "kommun": "Lidköping"
+    },
+    {
+      "postnummer": "53124",
+      "postort": "LIDKÖPING",
+      "kommun": "Lidköping"
+    },
+    {
+      "postnummer": "53203",
+      "postort": "SKARA",
+      "kommun": "Skara"
+    },
+    {
+      "postnummer": "53206",
+      "postort": "SKARA",
+      "kommun": "Skara"
+    },
+    {
+      "postnummer": "53209",
+      "postort": "SKARA",
+      "kommun": "Skara"
+    },
+    {
+      "postnummer": "53212",
+      "postort": "SKARA",
+      "kommun": "Skara"
+    },
+    {
+      "postnummer": "53215",
+      "postort": "SKARA",
+      "kommun": "Skara"
+    },
+    {
+      "postnummer": "53218",
+      "postort": "SKARA",
+      "kommun": "Skara"
+    },
+    {
+      "postnummer": "53221",
+      "postort": "SKARA",
+      "kommun": "Skara"
+    },
+    {
+      "postnummer": "53224",
+      "postort": "SKARA",
+      "kommun": "Skara"
+    },
+    {
+      "postnummer": "53303",
+      "postort": "GÖTENE",
+      "kommun": "Götene"
+    },
+    {
+      "postnummer": "53306",
+      "postort": "GÖTENE",
+      "kommun": "Götene"
+    },
+    {
+      "postnummer": "53309",
+      "postort": "GÖTENE",
+      "kommun": "Götene"
+    },
+    {
+      "postnummer": "53312",
+      "postort": "GÖTENE",
+      "kommun": "Götene"
+    },
+    {
+      "postnummer": "53315",
+      "postort": "GÖTENE",
+      "kommun": "Götene"
+    },
+    {
+      "postnummer": "53318",
+      "postort": "GÖTENE",
+      "kommun": "Götene"
+    },
+    {
+      "postnummer": "53321",
+      "postort": "GÖTENE",
+      "kommun": "Götene"
+    },
+    {
+      "postnummer": "53324",
+      "postort": "GÖTENE",
+      "kommun": "Götene"
+    },
+    {
+      "postnummer": "53403",
+      "postort": "VARA",
+      "kommun": "Vara"
+    },
+    {
+      "postnummer": "53406",
+      "postort": "VARA",
+      "kommun": "Vara"
+    },
+    {
+      "postnummer": "53409",
+      "postort": "VARA",
+      "kommun": "Vara"
+    },
+    {
+      "postnummer": "53412",
+      "postort": "VARA",
+      "kommun": "Vara"
+    },
+    {
+      "postnummer": "53415",
+      "postort": "VARA",
+      "kommun": "Vara"
+    },
+    {
+      "postnummer": "53418",
+      "postort": "VARA",
+      "kommun": "Vara"
+    },
+    {
+      "postnummer": "53421",
+      "postort": "VARA",
+      "kommun": "Vara"
+    },
+    {
+      "postnummer": "53424",
+      "postort": "VARA",
+      "kommun": "Vara"
+    },
+    {
+      "postnummer": "53503",
+      "postort": "VARA",
+      "kommun": "Vara"
+    },
+    {
+      "postnummer": "53506",
+      "postort": "VARA",
+      "kommun": "Vara"
+    },
+    {
+      "postnummer": "53509",
+      "postort": "VARA",
+      "kommun": "Vara"
+    },
+    {
+      "postnummer": "53512",
+      "postort": "VARA",
+      "kommun": "Vara"
+    },
+    {
+      "postnummer": "53515",
+      "postort": "VARA",
+      "kommun": "Vara"
+    },
+    {
+      "postnummer": "53518",
+      "postort": "VARA",
+      "kommun": "Vara"
+    },
+    {
+      "postnummer": "53521",
+      "postort": "VARA",
+      "kommun": "Vara"
+    },
+    {
+      "postnummer": "53524",
+      "postort": "VARA",
+      "kommun": "Vara"
+    },
+    {
+      "postnummer": "54103",
+      "postort": "SKÖVDE",
+      "kommun": "Skövde"
+    },
+    {
+      "postnummer": "54106",
+      "postort": "SKÖVDE",
+      "kommun": "Skövde"
+    },
+    {
+      "postnummer": "54109",
+      "postort": "SKÖVDE",
+      "kommun": "Skövde"
+    },
+    {
+      "postnummer": "54112",
+      "postort": "SKÖVDE",
+      "kommun": "Skövde"
+    },
+    {
+      "postnummer": "54115",
+      "postort": "SKÖVDE",
+      "kommun": "Skövde"
+    },
+    {
+      "postnummer": "54118",
+      "postort": "SKÖVDE",
+      "kommun": "Skövde"
+    },
+    {
+      "postnummer": "54121",
+      "postort": "SKÖVDE",
+      "kommun": "Skövde"
+    },
+    {
+      "postnummer": "54124",
+      "postort": "SKÖVDE",
+      "kommun": "Skövde"
+    },
+    {
+      "postnummer": "54203",
+      "postort": "MARIESTAD",
+      "kommun": "Mariestad"
+    },
+    {
+      "postnummer": "54206",
+      "postort": "MARIESTAD",
+      "kommun": "Mariestad"
+    },
+    {
+      "postnummer": "54209",
+      "postort": "MARIESTAD",
+      "kommun": "Mariestad"
+    },
+    {
+      "postnummer": "54212",
+      "postort": "MARIESTAD",
+      "kommun": "Mariestad"
+    },
+    {
+      "postnummer": "54215",
+      "postort": "MARIESTAD",
+      "kommun": "Mariestad"
+    },
+    {
+      "postnummer": "54218",
+      "postort": "MARIESTAD",
+      "kommun": "Mariestad"
+    },
+    {
+      "postnummer": "54221",
+      "postort": "MARIESTAD",
+      "kommun": "Mariestad"
+    },
+    {
+      "postnummer": "54224",
+      "postort": "MARIESTAD",
+      "kommun": "Mariestad"
+    },
+    {
+      "postnummer": "54303",
+      "postort": "TIBRO",
+      "kommun": "Tibro"
+    },
+    {
+      "postnummer": "54306",
+      "postort": "TIBRO",
+      "kommun": "Tibro"
+    },
+    {
+      "postnummer": "54309",
+      "postort": "TIBRO",
+      "kommun": "Tibro"
+    },
+    {
+      "postnummer": "54312",
+      "postort": "TIBRO",
+      "kommun": "Tibro"
+    },
+    {
+      "postnummer": "54315",
+      "postort": "TIBRO",
+      "kommun": "Tibro"
+    },
+    {
+      "postnummer": "54318",
+      "postort": "TIBRO",
+      "kommun": "Tibro"
+    },
+    {
+      "postnummer": "54321",
+      "postort": "TIBRO",
+      "kommun": "Tibro"
+    },
+    {
+      "postnummer": "54324",
+      "postort": "TIBRO",
+      "kommun": "Tibro"
+    },
+    {
+      "postnummer": "54403",
+      "postort": "HJO",
+      "kommun": "Hjo"
+    },
+    {
+      "postnummer": "54406",
+      "postort": "HJO",
+      "kommun": "Hjo"
+    },
+    {
+      "postnummer": "54409",
+      "postort": "HJO",
+      "kommun": "Hjo"
+    },
+    {
+      "postnummer": "54412",
+      "postort": "HJO",
+      "kommun": "Hjo"
+    },
+    {
+      "postnummer": "54415",
+      "postort": "HJO",
+      "kommun": "Hjo"
+    },
+    {
+      "postnummer": "54418",
+      "postort": "HJO",
+      "kommun": "Hjo"
+    },
+    {
+      "postnummer": "54421",
+      "postort": "HJO",
+      "kommun": "Hjo"
+    },
+    {
+      "postnummer": "54424",
+      "postort": "HJO",
+      "kommun": "Hjo"
+    },
+    {
+      "postnummer": "54503",
+      "postort": "TÖREBODA",
+      "kommun": "Töreboda"
+    },
+    {
+      "postnummer": "54506",
+      "postort": "TÖREBODA",
+      "kommun": "Töreboda"
+    },
+    {
+      "postnummer": "54509",
+      "postort": "TÖREBODA",
+      "kommun": "Töreboda"
+    },
+    {
+      "postnummer": "54512",
+      "postort": "TÖREBODA",
+      "kommun": "Töreboda"
+    },
+    {
+      "postnummer": "54515",
+      "postort": "TÖREBODA",
+      "kommun": "Töreboda"
+    },
+    {
+      "postnummer": "54518",
+      "postort": "TÖREBODA",
+      "kommun": "Töreboda"
+    },
+    {
+      "postnummer": "54521",
+      "postort": "TÖREBODA",
+      "kommun": "Töreboda"
+    },
+    {
+      "postnummer": "54524",
+      "postort": "TÖREBODA",
+      "kommun": "Töreboda"
+    },
+    {
+      "postnummer": "54603",
+      "postort": "KARLSBORG",
+      "kommun": "Karlsborg"
+    },
+    {
+      "postnummer": "54606",
+      "postort": "KARLSBORG",
+      "kommun": "Karlsborg"
+    },
+    {
+      "postnummer": "54609",
+      "postort": "KARLSBORG",
+      "kommun": "Karlsborg"
+    },
+    {
+      "postnummer": "54612",
+      "postort": "KARLSBORG",
+      "kommun": "Karlsborg"
+    },
+    {
+      "postnummer": "54615",
+      "postort": "KARLSBORG",
+      "kommun": "Karlsborg"
+    },
+    {
+      "postnummer": "54618",
+      "postort": "KARLSBORG",
+      "kommun": "Karlsborg"
+    },
+    {
+      "postnummer": "54621",
+      "postort": "KARLSBORG",
+      "kommun": "Karlsborg"
+    },
+    {
+      "postnummer": "54624",
+      "postort": "KARLSBORG",
+      "kommun": "Karlsborg"
+    },
+    {
+      "postnummer": "54703",
+      "postort": "GULLSPÅNG",
+      "kommun": "Gullspång"
+    },
+    {
+      "postnummer": "54706",
+      "postort": "GULLSPÅNG",
+      "kommun": "Gullspång"
+    },
+    {
+      "postnummer": "54709",
+      "postort": "GULLSPÅNG",
+      "kommun": "Gullspång"
+    },
+    {
+      "postnummer": "54712",
+      "postort": "GULLSPÅNG",
+      "kommun": "Gullspång"
+    },
+    {
+      "postnummer": "54715",
+      "postort": "GULLSPÅNG",
+      "kommun": "Gullspång"
+    },
+    {
+      "postnummer": "54718",
+      "postort": "GULLSPÅNG",
+      "kommun": "Gullspång"
+    },
+    {
+      "postnummer": "54721",
+      "postort": "GULLSPÅNG",
+      "kommun": "Gullspång"
+    },
+    {
+      "postnummer": "54724",
+      "postort": "GULLSPÅNG",
+      "kommun": "Gullspång"
+    },
+    {
+      "postnummer": "66203",
+      "postort": "ÅMÅL",
+      "kommun": "Åmål"
+    },
+    {
+      "postnummer": "66206",
+      "postort": "ÅMÅL",
+      "kommun": "Åmål"
+    },
+    {
+      "postnummer": "66209",
+      "postort": "ÅMÅL",
+      "kommun": "Åmål"
+    },
+    {
+      "postnummer": "66212",
+      "postort": "ÅMÅL",
+      "kommun": "Åmål"
+    },
+    {
+      "postnummer": "66215",
+      "postort": "ÅMÅL",
+      "kommun": "Åmål"
+    },
+    {
+      "postnummer": "66218",
+      "postort": "ÅMÅL",
+      "kommun": "Åmål"
+    },
+    {
+      "postnummer": "66221",
+      "postort": "ÅMÅL",
+      "kommun": "Åmål"
+    },
+    {
+      "postnummer": "66224",
+      "postort": "ÅMÅL",
+      "kommun": "Åmål"
+    },
+    {
+      "postnummer": "66603",
+      "postort": "BENGTSFORS",
+      "kommun": "Bengtsfors"
+    },
+    {
+      "postnummer": "66606",
+      "postort": "BENGTSFORS",
+      "kommun": "Bengtsfors"
+    },
+    {
+      "postnummer": "66609",
+      "postort": "BENGTSFORS",
+      "kommun": "Bengtsfors"
+    },
+    {
+      "postnummer": "66612",
+      "postort": "BENGTSFORS",
+      "kommun": "Bengtsfors"
+    },
+    {
+      "postnummer": "66615",
+      "postort": "BENGTSFORS",
+      "kommun": "Bengtsfors"
+    },
+    {
+      "postnummer": "66618",
+      "postort": "BENGTSFORS",
+      "kommun": "Bengtsfors"
+    },
+    {
+      "postnummer": "66621",
+      "postort": "BENGTSFORS",
+      "kommun": "Bengtsfors"
+    },
+    {
+      "postnummer": "66624",
+      "postort": "BENGTSFORS",
+      "kommun": "Bengtsfors"
+    },
+    {
+      "postnummer": "66803",
+      "postort": "ED MED OMNEJD",
+      "kommun": "Dals-Ed"
+    },
+    {
+      "postnummer": "66806",
+      "postort": "ED MED OMNEJD",
+      "kommun": "Dals-Ed"
+    },
+    {
+      "postnummer": "66809",
+      "postort": "ED MED OMNEJD",
+      "kommun": "Dals-Ed"
+    },
+    {
+      "postnummer": "66812",
+      "postort": "ED MED OMNEJD",
+      "kommun": "Dals-Ed"
+    },
+    {
+      "postnummer": "66815",
+      "postort": "ED MED OMNEJD",
+      "kommun": "Dals-Ed"
+    },
+    {
+      "postnummer": "66818",
+      "postort": "ED MED OMNEJD",
+      "kommun": "Dals-Ed"
+    },
+    {
+      "postnummer": "66821",
+      "postort": "ED MED OMNEJD",
+      "kommun": "Dals-Ed"
+    },
+    {
+      "postnummer": "66824",
+      "postort": "ED MED OMNEJD",
+      "kommun": "Dals-Ed"
+    }
+  ]
+}
